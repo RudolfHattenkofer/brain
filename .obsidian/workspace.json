@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "95a3f50d6c6c0175",
+        "id": "42593c408dd3354b",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a2616635c112b4",
+            "id": "935028339f3e9302",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,22 +130,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d3a2616635c112b4",
+  "active": "935028339f3e9302",
   "lastOpenFiles": [
+    "Projects/Zacherlmühle.md",
+    "Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
+    "Home.md",
     "Knowledge/Games.md",
     "Knowledge/Stardew Valley.md",
-    "Home.md",
     "Geardev/Recup/Recup.md",
     "Knowledge/Bayernatlas.md",
     "Knowledge/Barcode Scanner Web.md",
     "People/Me.md",
-    "Knowledge/Hattenkofer Wappen.md",
-    "Knowledge/Training Loss.md",
-    "Knowledge/Training a ML model.md"
+    "Knowledge/Hattenkofer Wappen.md"
   ]
 }

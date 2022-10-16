@@ -49,6 +49,8 @@ Heiztechnik von [[Buderus]], ca 25k€ Photovoltaik + 15k€ Heizung?
 
 [[Zacherlmühle Layout Wohnhaus.excalidraw]]
 
+- Wintergarten ohne Tür, innen/außen verbinden [Beispiel](https://www.ideencenter-dortmund.de/terrassenueberdachung/markenhersteller-solarlux/wintergarten.html)
+
 ## Finanzierung
 Anbau muss gekauft werden, dann Simon schenken -> Grundsteuer!!! Rückforderung aus Notarvertrag
 
