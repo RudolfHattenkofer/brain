@@ -11,8 +11,12 @@
             "id": "935028339f3e9302",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -136,10 +144,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "935028339f3e9302",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
-    "Projects/Zacherlmühle.md",
     "Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
+    "Projects/Zacherlmühle.md",
     "Home.md",
     "Knowledge/Games.md",
     "Knowledge/Stardew Valley.md",
