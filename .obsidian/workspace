@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "18884956ad30bf53",
+    "type": "split",
+    "children": [
+      {
+        "id": "e85950133476f3af",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07ea9af64c4112ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "855738b5fe71d565",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab1adef7337cad3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "021b48435ddd97aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bffd32052d9dc85f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182.5
+  },
+  "right": {
+    "id": "7502482350fcdf51",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a56746b9a9f389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a02e910005e2c84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7443691b7f8e93a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dc3abeb51a7bb7f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c773b1b90bfa0bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "745082d805e034ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e85950133476f3af",
+  "lastOpenFiles": [
+    "Projects/Zacherlmühle.md",
+    "Projects/What’s my purpose?.md",
+    "Projects/Personal continuity.md",
+    "Projects/Elbgold.md",
+    "Projects/Megan Visa fucked up.md",
+    "Projects/Apartment improvements.md",
+    "Projects/On Hold /Diving.md",
+    "Projects/On Hold /Work philosophies.md",
+    "Projects/On Hold /Urlaub Italien?.md",
+    "Projects/On Hold /Taxes USA.md"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "18884956ad30bf53",
+    "type": "split",
+    "children": [
+      {
+        "id": "95a3f50d6c6c0175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a2616635c112b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07ea9af64c4112ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "855738b5fe71d565",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab1adef7337cad3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "021b48435ddd97aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bffd32052d9dc85f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182.5
+  },
+  "right": {
+    "id": "7502482350fcdf51",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a56746b9a9f389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a02e910005e2c84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7443691b7f8e93a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dc3abeb51a7bb7f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c773b1b90bfa0bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "745082d805e034ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d3a2616635c112b4",
+  "lastOpenFiles": [
+    "Knowledge/Games.md",
+    "Knowledge/Stardew Valley.md",
+    "Home.md",
+    "Geardev/Recup/Recup.md",
+    "Knowledge/Bayernatlas.md",
+    "Knowledge/Barcode Scanner Web.md",
+    "People/Me.md",
+    "Knowledge/Hattenkofer Wappen.md",
+    "Knowledge/Training Loss.md",
+    "Knowledge/Training a ML model.md"
+  ]
+}

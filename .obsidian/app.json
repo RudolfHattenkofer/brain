@@ -1,0 +1,6 @@
+{
+  "alwaysUpdateLinks": true,
+  "mobilePullAction": "homepage:open-homepage",
+  "showFrontmatter": true,
+  "promptDelete": false
+}
