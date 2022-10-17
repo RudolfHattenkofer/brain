@@ -32,7 +32,17 @@
             }
           },
           {
-            "id": "177a91f18ad329d9",
+            "id": "d3ad112b7c4c36ad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5085b7ed67972f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,17 +178,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "177a91f18ad329d9",
+  "active": "5085b7ed67972f1f",
   "lastOpenFiles": [
-    "Projects/Done/ Haus.md",
-    "Bulthaup Küche.md",
+    "Küchenideen Zachermühle.md",
     "Projects/Zacherlmühle.md",
+    "Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
+    "MOC.md",
+    "Bulthaup Küche.md",
+    "Projects/Done/ Haus.md",
     "Home.md",
     "Daily/2022-10-17.md",
     "Knowledge/Evergreen Notes.md",
-    "Knowledge/Knowledge Management.md",
-    "Knowledge/All topics.md",
-    "Shopping.md",
-    "Book shopping.md"
+    "Knowledge/Knowledge Management.md"
   ]
 }
