@@ -1,20 +1,17 @@
+Also refer to the comparison of some apps, [[Comparison of note taking apps]]
+
 - Good mobile support
+- Performance!!!
 - Code snippets
-- Export/import
-   - Markdown like
-   - Textbundle export?
+- Export/import, e.g. Markdown
 - Note linking, backlinks
 
 Types of notes
-
 - Home
 - Knowledge hub
-- Inbox
 - Reading list
 - Projects
-   - Private
-   - Geardev
+	- Private
+	- Geardev
+	- sell & pick
 - People
-
-
-

@@ -2,9 +2,6 @@ Combined with [[Atomic notes]], evergreen notes form the basis of a modern and d
 
 The main idea is to keep working with one’s notes. This means:
 
-- Avoiding useless transient notes that don’t provide any future value
+- Avoiding useless transient notes that don’t provide any future value -> Move these to a different folder
 - Restructuring them into the best possible knowledge graph
 - Refining existing notes whenever new information emerges
-
-
-

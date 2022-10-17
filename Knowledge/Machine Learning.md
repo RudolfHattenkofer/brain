@@ -1,6 +1,10 @@
+---
+aliases: ML
+---
+
 Machine learning is the practice of predicting with high accuracy of new event based on a reasonably large [[Training a ML model|training]] data set.
 
-The finding of a model can itself be automated with [[Automated Machine Learning - AutoML]]|Automated Machine Learning.
+The finding of a model can itself be automated with [[Automated Machine Learning|Automated]] Machine Learning.
 
 Areas include Natural Language Processing, Image recognition or [[Time Series Forecasting]].
 
@@ -30,6 +34,7 @@ Model types for classification problems include Deep Learning, Neural networks o
 [[Data visualization]]
 [[Visual data exploration]]
 [[Gradient boosting]]
+[[A short checklist for ML projects]]
 
 ## Reading list
 
