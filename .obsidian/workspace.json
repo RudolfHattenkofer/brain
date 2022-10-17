@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "42593c408dd3354b",
+        "id": "441662da38afa43e",
         "type": "tabs",
         "children": [
           {
-            "id": "935028339f3e9302",
+            "id": "7afdf63ffee737fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2022-10-16.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2022-10-16.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,17 +136,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "935028339f3e9302",
+  "active": "7afdf63ffee737fe",
   "lastOpenFiles": [
-    "Projects/Zacherlmühle.md",
     "Home.md",
+    "Modern VPN.md",
+    "Projects/Zacherlmühle.md",
     "Daily/2022-10-16.md",
     "Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
     "Knowledge/Games.md",
     "Knowledge/Stardew Valley.md",
     "Geardev/Recup/Recup.md",
     "Knowledge/Bayernatlas.md",
-    "Knowledge/Barcode Scanner Web.md",
-    "People/Me.md"
+    "Knowledge/Barcode Scanner Web.md"
   ]
 }

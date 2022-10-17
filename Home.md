@@ -14,6 +14,7 @@ Yearly theme 2021: Structure
 [[Data Platform]]
 [[Stardew Valley]]
 [[Buddy System]]
+[[Modern VPN]]
 
 Current projects:
 ```dataview
