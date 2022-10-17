@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9fedc3eaab5fb86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Was ist ein fortwirtschaftlicher Betrieb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Was ist ein fortwirtschaftlicher Betrieb.md",
+                "file": "Was ist etwas ein landwirtschaftlicher Betrieb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Was ist ein fortwirtschaftlicher Betrieb.md",
+                "file": "Was ist etwas ein landwirtschaftlicher Betrieb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Was ist ein fortwirtschaftlicher Betrieb.md"
+                "file": "Was ist etwas ein landwirtschaftlicher Betrieb.md"
               }
             }
           },
@@ -168,11 +156,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9fedc3eaab5fb86a",
+  "active": "91a8a6d86575132c",
   "lastOpenFiles": [
+    "Was ist ein fortwirtschaftlicher Betrieb.md",
     "MOC.md",
     "Was ist etwas ein landwirtschaftlicher Betrieb.md",
-    "Was ist ein fortwirtschaftlicher Betrieb.md",
     "Bauen im Außenbereich.md",
     "Warum muss man ein Haus für zwei Jahre bewohnen bevor es neu gebaut werden darf?.md",
     "Warum renovieren statt neu bauen?.md",

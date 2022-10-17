@@ -13,3 +13,4 @@ Pappel wächst deutlich schneller, ca 5-6 Jahre. Sie bringt etwa [10-15 t/ha](ht
 References:
 - https://www.ecovis.com/agrar/2018/07/02/forstbetrieb-mindestgroesse/
 - https://www.waldbesitzerverband.de/pdf/recht_und_gesetz/liebhaberei.pdf
+- https://www.lwk-niedersachsen.de/lwk/news/38780_Liebhaberei_im_Forstbetrieb_-_Ein_untersch%C3%A4tztes_Steuerproblem
