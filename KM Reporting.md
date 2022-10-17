@@ -31,18 +31,28 @@ __Kontext:__
 		- Gruppen
 			- Mandatsverwantwortung für einzelne Mandaten
 			- Mentee + Mentoring (keine Zeit aufgezeichnet etc)
+- Andere Tools
+	- [LucaNet](https://www.lucanet.com/)
 
 
 __Lösungsangebot sell & pick__:
 - DATEV regelmäßiger Transfer der Daten
 	- [DATEV Connect](https://www.datev.de/web/de/datev-shop/betriebliches-rechnungswesen/datevconnect/) -> Sehr dünn, nicht alle Daten, kein Support
 	- DATEV Bot -> CSVs exportiert, z.B. täglich
-- Haben sie mit Uknow schon versucht, alles in einem SQL Server, nur Mandant-seitig, nicht für Kanzlei -> Uknow ist sehr starr, nicht flexibel
+	- BWA, Bilanz?
 - Whitelabel der Datenbasis oder sogar ganzes Cockpit
+	- Haben sie mit Uknow schon versucht, alles in einem SQL Server, nur Mandant-seitig, nicht für Kanzlei -> Uknow ist sehr starr, nicht flexibel
 - Wollen selbst auch Änderungen machen (Due Dilligence etc)
 	- Daten Stories zeigen?
 	- Power Point für Reporting? -> Export Möglichkeiten
 	- Rückfragen an Team oder Mandanten, Attachments? Kommentare, einbetten, ... -> Wie kann Tableau das abbilden? Automatische Dokumentation mit Anhängen "Datenraum" etc
+- 4-Augen-Prinzip Review
+	- Über alle Mandate hinweg KPIs checken: BWA Positionen überprüfen, Monatsschwankungen etc
+	- Guter Einstieg für Kanzleien, weil direkte Arbeitsersparnis
+- Rohdaten direkt sehen ist sehr wichtig: Buchungen ist kleinste Ebene
+	- Direkt Effekte sehen, Probleme identifizieren
+	- Kann man Einmaleffekte etc direkt annotieren? "EBITDA runtergegangen, weil einmalig hohe Bewirtungskosten durch Oktoberfest" -> Nicht Tool wechseln
+	- 
 
 
 
