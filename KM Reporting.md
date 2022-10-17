@@ -88,6 +88,6 @@ __Nachgelagert:__
 	- Riesige Budgets
 
 __Beteiligte:__
-- Michael Baur, Burkom
+- Michael Baur, Burkom?
 	- Review IT Struktur
 	- Dracoon DMS?
