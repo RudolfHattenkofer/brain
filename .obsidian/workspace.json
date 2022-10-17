@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c988ec9ba601815b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bulthaup Küche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,13 +190,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5085b7ed67972f1f",
+  "active": "c988ec9ba601815b",
   "lastOpenFiles": [
     "Küchenideen Zachermühle.md",
     "Projects/Zacherlmühle.md",
+    "Bulthaup Küche.md",
     "Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
     "MOC.md",
-    "Bulthaup Küche.md",
     "Projects/Done/ Haus.md",
     "Home.md",
     "Daily/2022-10-17.md",
