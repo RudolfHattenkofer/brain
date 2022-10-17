@@ -7,8 +7,9 @@ sort date desc
 ```
 
 
-All notes:
+Other notes:
 ```dataview
 list
-from "sell & pick" and -#meeting and !"sell & pick/sell & pick Home"
+from "sell & pick" and -#meeting and !"sell & pick/Home"
+where length(file.inlinks) =0
 ```

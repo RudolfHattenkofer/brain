@@ -8,7 +8,7 @@ Yearly theme 2021: Structure
 [[Recipes index]]
 [[Coffee]] [[Elbgold]]
 
-[[sell & pick Home]]
+[[sell & pick/Home|sell & pick]]
 
 ## Current
 - [[Project management]]
