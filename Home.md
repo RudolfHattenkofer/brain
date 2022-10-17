@@ -12,7 +12,6 @@ Yearly theme 2021: Structure
 - [[Project management]]
 - [[Data Platform]]
 - [[Stardew Valley]]
-- [[Buddy System]]
 - [[Modern VPN]]
 - [[Lunch Liste]]
 

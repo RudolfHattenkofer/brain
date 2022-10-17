@@ -11,8 +11,12 @@
             "id": "4669cd263c3b0f31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/Me.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Me.md"
+              }
             }
           },
           {
@@ -137,15 +145,15 @@
   },
   "active": "4669cd263c3b0f31",
   "lastOpenFiles": [
-    "Orga/Recipes/Spinatlasagne.md",
-    "Geardev/sell & pick/Lunch Liste.md",
-    "Knowledge/Visual data exploration.md",
-    "Knowledge/Diagrams.md",
-    "Knowledge/Data visualization.md",
-    "Knowledge/Mermaid.md",
-    "Knowledge/Data Platform.md",
-    "Knowledge/Tech.md",
+    "Orga/People Notes/Taxes Steuern.md",
+    "People/Me.md",
+    "Orga/People Notes/What is my purpose?.md",
+    "Home.md",
+    "Knowledge/Law.md",
     "Knowledge/All topics.md",
-    "Home.md"
+    "Knowledge/Organisation.md",
+    "Knowledge/HR.md",
+    "Knowledge/Onboarding.md",
+    "Knowledge/Buddy System.md"
   ]
 }

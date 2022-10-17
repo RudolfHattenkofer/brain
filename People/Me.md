@@ -10,7 +10,7 @@ B&N: Ya
 
 [[Telekom Handy Kundennummer]]
 
-[[Taxes Steuern 2018]]
+[[Taxes Steuern]]
 
 [[Shirt and Sakko sizes]]
 
@@ -19,3 +19,5 @@ B&N: Ya
 [[Am I allergic to stuff]]
 
 [[Hattenkofer Wappen]]
+
+[[What is my purpose?]]
