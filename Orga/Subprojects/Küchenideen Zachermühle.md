@@ -6,4 +6,4 @@ Vorbereitungsküche? -> Bisschen übertrieben
 
 AirBnB [Casa Ars Natura](https://www.airbnb.com/rooms/38083307?source_impression_id=p3_1666030403_ux0sHhhMXzWXfpo0)
 
-[[Bulthaup Küche]]? Megan doesn't like the industrial look, landlook with darker tones is good.
+[[Bulthaup]]? Megan doesn't like the industrial look, landlook with darker tones is good.

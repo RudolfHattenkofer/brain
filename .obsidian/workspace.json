@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Evergreen Notes.md",
+                "file": "Knowledge/Shopping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a73ffa92d5bd6e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bauen im Außenbereich.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,43 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3ad112b7c4c36ad",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5085b7ed67972f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bulthaup Küche.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c988ec9ba601815b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bulthaup Küche.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bulthaup Küche.md",
+                "file": "Bauen im Außenbereich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bulthaup Küche.md",
+                "file": "Bauen im Außenbereich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bulthaup Küche.md"
+                "file": "Bauen im Außenbereich.md"
               }
             }
           },
@@ -185,22 +163,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c988ec9ba601815b",
+  "active": "a73ffa92d5bd6e98",
   "lastOpenFiles": [
-    "Küchenideen Zachermühle.md",
-    "Projects/Zacherlmühle.md",
-    "Bulthaup Küche.md",
-    "Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
-    "MOC.md",
-    "Projects/Done/ Haus.md",
+    "Construction.md",
+    "Knowledge/Bayernatlas.md",
+    "Knowledge/Bulthaup.md",
+    "Knowledge/All topics.md",
     "Home.md",
-    "Daily/2022-10-17.md",
-    "Knowledge/Evergreen Notes.md",
-    "Knowledge/Knowledge Management.md"
+    "Knowledge/Book shopping.md",
+    "Knowledge/Shopping.md",
+    "MOC.md",
+    "Knowledge/Digital garden.md",
+    "Knowledge/Annotate PDFs.md"
   ]
 }

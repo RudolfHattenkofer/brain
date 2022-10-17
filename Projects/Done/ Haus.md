@@ -10,7 +10,7 @@
 - Floors 30k
 - Kitchen 50k+, B3
    - Replace
-   - [[Bulthaup Küche]]
+   - [[Bulthaup]]
 - TV corner
    - Codename "Living (room) cinema"
    - Blinds on east wall
