@@ -18,6 +18,8 @@ Book: How to take smart notes
 
 [[Atomic notes]] → ???
 
+[[Digital garden]]
+
 **Tools**
 
 [[Notion]]

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sell & pick/Core values.md",
+                "file": "Knowledge/Knowledge Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67cc053bc69b053b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sell & pick/Core values.md",
+                "file": "Digital garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sell & pick/Core values.md",
+                "file": "Digital garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sell & pick/Core values.md"
+                "file": "Digital garden.md"
               }
             }
           },
@@ -155,17 +168,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "920b5d04f256d545",
+  "active": "67cc053bc69b053b",
   "lastOpenFiles": [
+    "Knowledge/Knowledge Management.md",
+    "sell & pick/Core values.md",
     "sell & pick/Home.md",
     "Home.md",
     "Knowledge/Obsidian.md",
-    "sell & pick/Core values.md",
     "Annotate PDFs.md",
     "Daily/2022-10-17.md",
     "sell & pick/2022-10-17 KM Reporting 1.md",
     "sell & pick/2022-10-17 KM Reporting.md",
-    "sell & pick/Lunch Liste.md",
-    "People/Me.md"
+    "sell & pick/Lunch Liste.md"
   ]
 }
