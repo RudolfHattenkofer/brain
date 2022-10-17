@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wann ist etwas ein landwirtschaftlicher Betrieb.md",
+                "file": "Was ist etwas ein landwirtschaftlicher Betrieb.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warum muss man ein Haus für zwei Jahre bewohnen bevor es neu gebaut werden darf?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98861bd94c79f69b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOC.md",
+                "file": "Was ist ein fortwirtschaftlicher Betrieb.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warum muss man ein Haus für zwei Jahre bewohnen bevor es neu gebaut werden darf?.md",
+                "file": "Was ist ein fortwirtschaftlicher Betrieb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warum muss man ein Haus für zwei Jahre bewohnen bevor es neu gebaut werden darf?.md",
+                "file": "Was ist ein fortwirtschaftlicher Betrieb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warum muss man ein Haus für zwei Jahre bewohnen bevor es neu gebaut werden darf?.md"
+                "file": "Was ist ein fortwirtschaftlicher Betrieb.md"
               }
             }
           },
@@ -182,15 +170,15 @@
   },
   "active": "9fedc3eaab5fb86a",
   "lastOpenFiles": [
+    "MOC.md",
+    "Was ist etwas ein landwirtschaftlicher Betrieb.md",
+    "Was ist ein fortwirtschaftlicher Betrieb.md",
     "Bauen im Außenbereich.md",
+    "Warum muss man ein Haus für zwei Jahre bewohnen bevor es neu gebaut werden darf?.md",
     "Warum renovieren statt neu bauen?.md",
-    "Wann ist etwas ein landwirtschaftlicher Betrieb.md",
     "Construction.md",
     "Knowledge/Bayernatlas.md",
     "Knowledge/Bulthaup.md",
-    "Knowledge/All topics.md",
-    "Home.md",
-    "Knowledge/Book shopping.md",
-    "Knowledge/Shopping.md"
+    "Knowledge/All topics.md"
   ]
 }
