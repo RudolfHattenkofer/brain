@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4669cd263c3b0f31",
+            "id": "99d179ab93c57989",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Me.md",
+                "file": "KM Reporting.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.5
+    "width": 182.5,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Me.md",
+                "file": "KM Reporting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Me.md",
+                "file": "KM Reporting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Me.md"
+                "file": "KM Reporting.md"
               }
             }
           },
@@ -138,17 +139,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4669cd263c3b0f31",
+  "active": "99d179ab93c57989",
   "lastOpenFiles": [
-    "Orga/People Notes/Taxes Steuern.md",
-    "People/Me.md",
-    "Orga/People Notes/What is my purpose?.md",
     "Home.md",
+    "People/Me.md",
+    "Orga/People Notes/Taxes Steuern.md",
+    "Orga/People Notes/What is my purpose?.md",
     "Knowledge/Law.md",
     "Knowledge/All topics.md",
     "Knowledge/Organisation.md",
