@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Knowledge Management.md",
+                "file": "Knowledge/Evergreen Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "177a91f18ad329d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Zacherlmühle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Knowledge Management.md",
+                "file": "Projects/Zacherlmühle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Knowledge Management.md",
+                "file": "Projects/Zacherlmühle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Knowledge Management.md"
+                "file": "Projects/Zacherlmühle.md"
               }
             }
           },
@@ -155,17 +168,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "920b5d04f256d545",
+  "active": "177a91f18ad329d9",
   "lastOpenFiles": [
+    "Home.md",
+    "Daily/2022-10-17.md",
+    "Knowledge/Evergreen Notes.md",
+    "Knowledge/Knowledge Management.md",
+    "Knowledge/All topics.md",
+    "Shopping.md",
+    "Book shopping.md",
     "MOC.md",
     "Digital garden.md",
-    "Knowledge/Knowledge Management.md",
-    "Knowledge/Atomic notes.md",
-    "Knowledge/Evergreen Notes.md",
-    "Knowledge/What does my note taking app need?.md",
-    "Knowledge/Comparison of note taking apps.md",
-    "Knowledge/What matters to me?.md",
-    "Knowledge/Zettelkasten.md",
-    "Knowledge/Benni tips for note taking.md"
+    "Knowledge/Atomic notes.md"
   ]
 }

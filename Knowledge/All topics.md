@@ -1,6 +1,6 @@
 [[Tech]] [[Law]] [[Accounting]] [[Financial]] [[Math]] [[Health]] [[Education]] [[Psychology]] [[Organisation]]
 
-[[HR]]
+[[HR]] [[Shopping]]
 
 **Food**
 

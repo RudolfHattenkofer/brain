@@ -69,8 +69,13 @@ Anbau muss gekauft werden, dann Simon schenken -> Grundsteuer!!! Rückforderung 
 | Pfarrheim EG     | 80     | 320k  | Rudi             | Eltern         |
 
 
+## Freigabe
+- Bürgermeister keine Einwände, hat ihm sehr gut gefallen
+- 
+
 ## Ideen Kleinigkeiten
 - Wäscheschacht aus dem OG Bad Kinder in Mud+Wäsche
 - Küche als U -> Keine Insel -> Bezug zu Gästen
 - Buch ökologisches Bauen-> Keine Insel -> 
 - Vorbereitungsküche
+	- 
