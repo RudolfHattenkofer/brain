@@ -22,6 +22,9 @@ Grundsätzlich dürfen nur gebaut werden:
 
 [[Wann ist etwas ein landwirtschaftlicher Betrieb]]
 
+[[Warum renovieren statt neu bauen?]]
+
+[[Warum muss man ein Haus für zwei Jahre bewohnen bevor es neu gebaut werden darf? ]]
 
 References:
 - [Amt für Ernährung, Landwirtschaft und Forsten Schweinfurt](https://www.alf-sw.bayern.de/landwirtschaft/177235/index.php)
