@@ -33,6 +33,7 @@ __Kontext:__
 			- Mentee + Mentoring (keine Zeit aufgezeichnet etc)
 - Andere Tools
 	- [LucaNet](https://www.lucanet.com/)
+	- [U-Know](https://www.u-know.eu/)
 
 
 __Lösungsangebot sell & pick__:
@@ -52,7 +53,10 @@ __Lösungsangebot sell & pick__:
 - Rohdaten direkt sehen ist sehr wichtig: Buchungen ist kleinste Ebene
 	- Direkt Effekte sehen, Probleme identifizieren
 	- Kann man Einmaleffekte etc direkt annotieren? "EBITDA runtergegangen, weil einmalig hohe Bewirtungskosten durch Oktoberfest" -> Nicht Tool wechseln
-	- 
+- Business Case
+	- Einmalig + Lizenzen
+	- Was ist ein Standort?
+	- Enterprise + Masse
 
 
 
