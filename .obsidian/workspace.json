@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bauen im Außenbereich.md",
+                "file": "Wann ist etwas ein landwirtschaftlicher Betrieb.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bauen im Außenbereich.md",
+                "file": "Wann ist etwas ein landwirtschaftlicher Betrieb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bauen im Außenbereich.md",
+                "file": "Wann ist etwas ein landwirtschaftlicher Betrieb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bauen im Außenbereich.md"
+                "file": "Wann ist etwas ein landwirtschaftlicher Betrieb.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "a73ffa92d5bd6e98",
   "lastOpenFiles": [
+    "Bauen im Außenbereich.md",
     "Construction.md",
     "Knowledge/Bayernatlas.md",
     "Knowledge/Bulthaup.md",
@@ -178,7 +179,6 @@
     "Knowledge/Book shopping.md",
     "Knowledge/Shopping.md",
     "MOC.md",
-    "Knowledge/Digital garden.md",
-    "Knowledge/Annotate PDFs.md"
+    "Knowledge/Digital garden.md"
   ]
 }

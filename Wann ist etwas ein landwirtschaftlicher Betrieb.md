@@ -1,0 +1,1 @@
+Dauerhaftigkeit des Betriegs i.S.d. § 35 Abs. 1 Nr. 1 BauGB
