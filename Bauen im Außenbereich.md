@@ -1,5 +1,7 @@
 Grundsätzlich dürfen nur gebaut werden:
 
+[§ 35 BauGB](https://www.gesetze-im-internet.de/bbaug/__35.html)
+
 - Priligierte Vorhaben nach § 35 Abs. 1 BauGB
 	- Land- oder Forstwirtschaft nach § 201
 	- Gartenbau
