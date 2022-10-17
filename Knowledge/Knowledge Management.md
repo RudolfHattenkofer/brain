@@ -28,6 +28,7 @@ Book: How to take smart notes
 - [[Obsidian]]
 - [[Craft.do]]
 - [[Coda]]
+- [Logseq](https://logseq.com/#)
 
 [[Comparison of note taking apps]]
 
@@ -35,5 +36,7 @@ Book: How to take smart notes
 
 [[Benni tips for note taking]]
 
+**References**
+- [Obsidian Hub: Methodologies](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Knowledge+Management) #research
 
 

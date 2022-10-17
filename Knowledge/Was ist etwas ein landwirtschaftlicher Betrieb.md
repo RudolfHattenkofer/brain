@@ -2,7 +2,7 @@
 
 
 
-[Klassifikation von Wirtschaftszweigen](https://www.ihk-bonn.de/fileadmin/dokumente/Downloads/Service/Klassifikation_WZ_2008.pdf):
+![[wz2008.pdf]]
 
 01 Landwirtschaft, Jagd und damit verbundene Tätigkeiten
 011 Anbau einjähriger Pflanzen
