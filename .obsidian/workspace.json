@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zacherlmühle.md",
+                "file": "Daily/2022-10-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Zacherlmühle.md",
+                "file": "Daily/2022-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Zacherlmühle.md",
+                "file": "Daily/2022-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Zacherlmühle.md"
+                "file": "Daily/2022-10-16.md"
               }
             }
           },
@@ -146,10 +146,10 @@
   },
   "active": "935028339f3e9302",
   "lastOpenFiles": [
+    "Projects/Zacherlmühle.md",
     "Home.md",
     "Daily/2022-10-16.md",
     "Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
-    "Projects/Zacherlmühle.md",
     "Knowledge/Games.md",
     "Knowledge/Stardew Valley.md",
     "Geardev/Recup/Recup.md",
