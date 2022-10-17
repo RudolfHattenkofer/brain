@@ -8,12 +8,13 @@ Yearly theme 2021: Structure
 [[Recipes index]]
 [[Coffee]] [[Elbgold]]
 
+[[sell & pick Home]]
+
 ## Current
 - [[Project management]]
 - [[Data Platform]]
 - [[Stardew Valley]]
 - [[Modern VPN]]
-- [[Lunch Liste]]
 
 Projects:
 ```dataview
@@ -23,18 +24,9 @@ WHERE !startswith(file.path, "Projects/Done") and !startswith(file.path, "Projec
 SORT file.mtime DESC
 ```
 
-
 Orphans:
 ```dataview
 list
 from "Knowledge"
 where length(file.inlinks) =0 and length(file.tags) = 0
-```
-
-Recently edited:
-```dataview
-TABLE dateformat(file.mtime, "dd.MM.yyyy - HH:mm") as "modified at"
-FROM ""
-SORT file.mtime DESC
-LIMIT 10
 ```

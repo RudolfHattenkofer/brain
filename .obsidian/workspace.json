@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "28e672af4aeed08a",
+        "id": "816515c3b20c9e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "99d179ab93c57989",
+            "id": "920b5d04f256d545",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KM Reporting.md",
+                "file": "sell & pick/sell & pick Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.5,
-    "collapsed": true
+    "width": 182.5
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KM Reporting.md",
+                "file": "sell & pick/sell & pick Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KM Reporting.md",
+                "file": "sell & pick/sell & pick Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KM Reporting.md"
+                "file": "sell & pick/sell & pick Home.md"
               }
             }
           },
@@ -139,23 +138,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "99d179ab93c57989",
+  "active": "920b5d04f256d545",
   "lastOpenFiles": [
     "Home.md",
+    "Daily/2022-10-17.md",
+    "sell & pick/2022-10-17 KM Reporting 1.md",
+    "sell & pick/sell & pick Home.md",
+    "sell & pick/2022-10-17 KM Reporting.md",
+    "sell & pick/Lunch Liste.md",
     "People/Me.md",
     "Orga/People Notes/Taxes Steuern.md",
     "Orga/People Notes/What is my purpose?.md",
-    "Knowledge/Law.md",
-    "Knowledge/All topics.md",
-    "Knowledge/Organisation.md",
-    "Knowledge/HR.md",
-    "Knowledge/Onboarding.md",
-    "Knowledge/Buddy System.md"
+    "Knowledge/Law.md"
   ]
 }
