@@ -35,9 +35,14 @@ __Kontext:__
 
 __Lösungsangebot sell & pick__:
 - DATEV regelmäßiger Transfer der Daten
+	- [DATEV Connect](https://www.datev.de/web/de/datev-shop/betriebliches-rechnungswesen/datevconnect/) -> Sehr dünn, nicht alle Daten, kein Support
+	- DATEV Bot -> CSVs exportiert, z.B. täglich
 - Haben sie mit Uknow schon versucht, alles in einem SQL Server, nur Mandant-seitig, nicht für Kanzlei -> Uknow ist sehr starr, nicht flexibel
 - Whitelabel der Datenbasis oder sogar ganzes Cockpit
 - Wollen selbst auch Änderungen machen (Due Dilligence etc)
+	- Daten Stories zeigen?
+	- Power Point für Reporting? -> Export Möglichkeiten
+	- Rückfragen an Team oder Mandanten, Attachments? Kommentare, einbetten, ... -> Wie kann Tableau das abbilden? Automatische Dokumentation mit Anhängen "Datenraum" etc
 
 
 
