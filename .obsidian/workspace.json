@@ -11,8 +11,12 @@
             "id": "7afdf63ffee737fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -138,6 +146,7 @@
   },
   "active": "7afdf63ffee737fe",
   "lastOpenFiles": [
+    "Daily/2022-10-17.md",
     "Home.md",
     "Modern VPN.md",
     "Projects/Zacherlmühle.md",
@@ -146,7 +155,6 @@
     "Knowledge/Games.md",
     "Knowledge/Stardew Valley.md",
     "Geardev/Recup/Recup.md",
-    "Knowledge/Bayernatlas.md",
-    "Knowledge/Barcode Scanner Web.md"
+    "Knowledge/Bayernatlas.md"
   ]
 }

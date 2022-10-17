@@ -24,6 +24,10 @@ WHERE !startswith(file.path, "Projects/Done") and !startswith(file.path, "Projec
 SORT file.mtime DESC
 ```
 
+
+
+
+
 Orphans:
 ```dataview
 list
