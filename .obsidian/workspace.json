@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zacherlmühle.md",
+                "file": "Bulthaup Küche.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Zacherlmühle.md",
+                "file": "Bulthaup Küche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Zacherlmühle.md",
+                "file": "Bulthaup Küche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Zacherlmühle.md"
+                "file": "Bulthaup Küche.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "177a91f18ad329d9",
   "lastOpenFiles": [
+    "Projects/Done/ Haus.md",
+    "Bulthaup Küche.md",
+    "Projects/Zacherlmühle.md",
     "Home.md",
     "Daily/2022-10-17.md",
     "Knowledge/Evergreen Notes.md",
     "Knowledge/Knowledge Management.md",
     "Knowledge/All topics.md",
     "Shopping.md",
-    "Book shopping.md",
-    "MOC.md",
-    "Digital garden.md",
-    "Knowledge/Atomic notes.md"
+    "Book shopping.md"
   ]
 }
