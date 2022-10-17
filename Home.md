@@ -9,24 +9,20 @@ Yearly theme 2021: Structure
 [[Coffee]] [[Elbgold]]
 
 ## Current
+- [[Project management]]
+- [[Data Platform]]
+- [[Stardew Valley]]
+- [[Buddy System]]
+- [[Modern VPN]]
+- [[Lunch Liste]]
 
-[[Project management]]
-[[Data Platform]]
-[[Stardew Valley]]
-[[Buddy System]]
-[[Modern VPN]]
-[[Lunch Liste]]
-
-Current projects:
+Projects:
 ```dataview
 LIST
 FROM "Projects"
 WHERE !startswith(file.path, "Projects/Done") and !startswith(file.path, "Projects/On Hold")
 SORT file.mtime DESC
 ```
-
-
-
 
 
 Orphans:

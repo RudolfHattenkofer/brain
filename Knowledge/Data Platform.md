@@ -4,13 +4,16 @@
 
 **Store**: Data Lake, Data Warehouse
 
-**Use**: [[Data analytics]], [[Machine Learning]]
+**Use**: [[Data analytics]], [[Machine Learning]], [[Visual data exploration]], [[Data visualization]]
 
 **Governance**: [[Data Catalog]]
 
 Questions:
 
 [[How to structure a data team?]]
+
+
+
 
 References:
 

@@ -10,4 +10,4 @@ Methodologies:
 
 Tools:
 
-[[Diagrams as code]]
+[[Diagrams]]

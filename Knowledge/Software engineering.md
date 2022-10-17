@@ -3,7 +3,7 @@
 [[Documenting software systems]]
 [[Document architecture decisions]]
 [[Formal specification]]
-[[Diagrams as code]]
+[[Diagrams]]
 
 
 Languages:

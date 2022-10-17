@@ -27,6 +27,7 @@ Model types for classification problems include Deep Learning, Neural networks o
 
 ## Further reading
 
+[[Data visualization]]
 [[Visual data exploration]]
 [[Gradient boosting]]
 
