@@ -34,6 +34,7 @@ __Kontext:__
 - Andere Tools
 	- [LucaNet](https://www.lucanet.com/)
 	- [U-Know](https://www.u-know.eu/)
+		- Entwickelt von: [Dieter Steiner](https://www.northdata.com/Steiner,+Dieter,+Regensburg/vef) 
 
 
 __Lösungsangebot sell & pick__:
@@ -56,7 +57,27 @@ __Lösungsangebot sell & pick__:
 - Business Case
 	- Einmalig + Lizenzen
 	- Was ist ein Standort?
-	- Enterprise + Masse
+	- Enterprise + Masse -> Muss sich natürlich auch rechnen
+- Datenpunkte
+	- Status Quo: P&L / BWA
+	- Mehrwert: Bilanz + Lohn
+
+- Next steps
+	- Mandantensicht
+		- Beispiel-Mandant suchen
+	- Evaluierung Datentransfer
+		- Wie war es bei U-Know?
+		- Wie funktioniert der automatisierte Transfer?
+	- Baby steps!
+		- Wieder super sauberes Projektmanagement
+		- Erreichbare Schritte
+		- Wirklich mal U-Know unter die Lupe nehmen
+	- Erste Ziele:
+		- Kleiner Wow-Effekt
+		- Nutzungsrate durch Personal der Kanzlei -> Change Management
+		- Daten automatisch DATEV raus
+		- Belegbilder mit rein!
+
 
 
 
