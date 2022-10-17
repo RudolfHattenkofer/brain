@@ -1,0 +1,13 @@
+- Rewe
+- Kaimug
+- Blattsalat
+- Cafe Fanitani
+- Pausenhof
+- Popup beim Mini
+- A Domani
+- Cotidiano
+- L'Osteria
+- Brezelina
+- Pfistermühle
+- Café Salvatorplatz
+- Bite Delight
