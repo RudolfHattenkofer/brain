@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5b86234c154008d",
+            "id": "e389752a8bc1b878",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,17 +143,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c5b86234c154008d",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
-    "Knowledge/PARA.md",
-    "Knowledge/Andy Matuschak.md",
-    "Home.md",
-    "Knowledge/Maggie Applteton.md",
-    "Knowledge/Knowledge Management.md",
-    "Knowledge/MOC.md",
-    "Orga/To Research.md",
-    "Knowledge/Atomic notes.md",
-    "Knowledge/Zettelkasten.md",
-    "Knowledge/Was ist etwas ein landwirtschaftlicher Betrieb.md"
+    "Orga/People.md",
+    "Orga/People Notes/Megan collaboration factory.md",
+    "Projects/Book How to take smart notes.md",
+    "Projects/Done/The Design of Everyday Things.md",
+    "Projects/Close open thoughts.md",
+    "Projects/Slack incident response.md",
+    "Projects/Awesome scalability.md",
+    "Projects/Done/Book The Right It.md",
+    "Projects/Done/Food pairing.md",
+    "Projects/How Dropbox structures their engineering ladder.md"
   ]
 }

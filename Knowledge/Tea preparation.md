@@ -1,4 +1,4 @@
-[[Tea]] needs to be prepared in a specific way. This includes steep time, dose and water temperature. Ratio is around 50:1
+[[Knowledge/Tea]] needs to be prepared in a specific way. This includes steep time, dose and water temperature. Ratio is around 50:1
 
 Some general ideas for the different [[Categories of Tea]]:
 

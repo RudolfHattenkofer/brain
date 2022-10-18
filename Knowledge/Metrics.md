@@ -1,4 +1,4 @@
-Is one of the [[Three pillars of observability]].
+Is one of the [[Knowledge/Three pillars of observability]].
 
 
 

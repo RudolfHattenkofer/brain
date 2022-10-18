@@ -9,10 +9,11 @@ Yearly theme 2021: Structure
 [[Coffee]] [[Elbgold]]
 
 [[sell & pick/Home|sell & pick]]
+[[People]]
 
-## Current
 [[To Research]]
 
+## Current
 - [[Project management]]
 - [[Data Platform]]
 - [[Stardew Valley]]

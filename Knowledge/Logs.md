@@ -1,4 +1,4 @@
-Is one of the [[Three pillars of observability]].
+Is one of the [[Knowledge/Three pillars of observability]].
 
 Logs are immutable, timestamped events, typically as free form text with structured metadata. They form a very granular history of every noteworthy action taken by a [[Distributed system]].
 
