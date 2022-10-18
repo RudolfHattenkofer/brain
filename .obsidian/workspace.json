@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Dronen in der Landwirtschaft.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Dronen in der Landwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Dronen in der Landwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Dronen in der Landwirtschaft.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "e389752a8bc1b878",
   "lastOpenFiles": [
+    "Wie erkenne ich Dronen in der Luft?.md",
+    "Dronen in der Landwirtschaft.md",
+    "Landwirtschaft.md",
     "__Home__.md",
     "sell & pick/Home.md",
     "zAssets/Screenshot 2022-10-18 at 13.49.58.png",
     "sell & pick/2022-10-28 George.md",
     "sell & pick/2022-10-17 KM Reporting.md",
     "Knowledge/Digital garden.md",
-    "Knowledge/Knowledge Management.md",
-    "Knowledge/Maggie Applteton.md",
-    "Knowledge/Andy Matuschak.md",
-    "Knowledge/Espresso machines.md"
+    "Knowledge/Knowledge Management.md"
   ]
 }
