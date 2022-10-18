@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-28.md",
+                "file": "__Home__.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-28.md",
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-28.md",
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-28.md"
+                "file": "__Home__.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "dd3c90633d9e2f5b",
   "lastOpenFiles": [
+    "sell & pick/Home.md",
+    "__Home__.md",
+    "zAssets/Screenshot 2022-10-18 at 13.49.58.png",
+    "sell & pick/2022-10-28 George.md",
+    "sell & pick/2022-10-17 KM Reporting.md",
     "Knowledge/Digital garden.md",
     "Knowledge/Knowledge Management.md",
     "Knowledge/Maggie Applteton.md",
     "Knowledge/Andy Matuschak.md",
-    "Knowledge/Espresso machines.md",
-    "Knowledge/Coffee.md",
-    "Knowledge/Coffee roasters.md",
-    "__Home__.md",
-    "Knowledge/Mermaid.md",
-    "Knowledge/Diagrams.md"
+    "Knowledge/Espresso machines.md"
   ]
 }
