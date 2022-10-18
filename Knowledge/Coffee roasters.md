@@ -5,17 +5,14 @@ Me
 [[Homestead coffee roasters]]
 
 Steini
-
 - Dinzler
 - Emilo
 
 Michael
-
 - [https://www.fjord-coffee.de](https://www.fjord-coffee.de/)
 - The barn
 
 Carlo
-
 - Patolli
 - Erste Tegernseer Kaffeerösterei
 - [[Man vs Machine]]
@@ -23,13 +20,11 @@ Carlo
 - Coffee Circle
 
 Victor
-
 - Quijote
 - [http://www.coffeemamas.de/](http://www.coffeemamas.de/)
 - [[Leuchtfeuer]]
 
 M Presso
-
 - Fausto
 - gangundgäbe [https://www.gangundgaebe.de/](https://www.gangundgaebe.de/)
 - JB Kaffees
@@ -37,7 +32,6 @@ M Presso
    - Fruity
 
 James Hoffman
-
 - Square mile
 
 Anton
@@ -45,4 +39,10 @@ Anton
 [mahlefitz | mahlefitz](https://www.mahlefitz.de/)
 
 
-
+Stephanie
+- Cafe Bla
+- JB (sua bing, ) -> typ schwierig, kaffee gut
+- Sweet spot (wöchentlich, nicht samstag gehen!)
+- mvm kauft bohnen vom letzten jahr
+- vits kaffee
+- kabo

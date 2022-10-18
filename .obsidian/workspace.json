@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Espresso machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Espresso machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Espresso machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Knowledge/Espresso machines.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "e389752a8bc1b878",
   "lastOpenFiles": [
-    "Knowledge/Coffee grinders.md",
+    "Knowledge/Coffee.md",
+    "Knowledge/Coffee roasters.md",
     "__Home__.md",
-    "Orga/People.md",
-    "Orga/People Notes/Megan collaboration factory.md",
-    "Projects/Book How to take smart notes.md",
-    "Projects/Done/The Design of Everyday Things.md",
-    "Projects/Close open thoughts.md",
-    "Projects/Slack incident response.md",
-    "Projects/Awesome scalability.md",
-    "Projects/Done/Book The Right It.md"
+    "Knowledge/Mermaid.md",
+    "Knowledge/Diagrams.md",
+    "Excalidraw/Drawing 2022-10-10 19.59.36.excalidraw.md",
+    "Knowledge/Python CSV.md",
+    "Knowledge/Tech.md",
+    "Projects/Zacherlmühle.md",
+    "Knowledge/Stardew Valley.md"
   ]
 }
