@@ -1,7 +1,7 @@
 - Rewe
 - Kaimug
 - Blattsalat
-- Cafe Fanitani
+- Cafe Fanitani -> F
 - Pausenhof
 - Popup beim Mini
 - A Domani
