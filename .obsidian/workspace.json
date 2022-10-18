@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Digital garden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd3c90633d9e2f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "__Home__.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +143,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dd3c90633d9e2f5b",
+  "active": "e389752a8bc1b878",
   "lastOpenFiles": [
-    "sell & pick/Home.md",
     "__Home__.md",
+    "sell & pick/Home.md",
     "zAssets/Screenshot 2022-10-18 at 13.49.58.png",
     "sell & pick/2022-10-28 George.md",
     "sell & pick/2022-10-17 KM Reporting.md",
