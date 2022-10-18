@@ -1,8 +1,8 @@
 **In the field**
 
 Book: How to take smart notes
-[Andy Matuschak: About these notes](https://notes.andymatuschak.org/About_these_notes)
-[Maggie Appleton](https://maggieappleton.com/), see also [[Digital garden]]
+[[Andy Matuschak]]
+[[Maggie Applteton]], see also [[Digital garden]]
 
 **Warning: Heavily commercialized "thought leaders"**
 [Linking your Thinking](https://www.linkingyourthinking.com/) by Nick Milo, who coined the term [[MOC]]
@@ -20,6 +20,7 @@ Book: How to take smart notes
 [[Atomic notes]] → ???
 [[Digital garden]]
 [[MOC]]
+[[PARA]]
 
 **Tools**
 

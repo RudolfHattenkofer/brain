@@ -11,7 +11,8 @@ Yearly theme 2021: Structure
 [[sell & pick/Home|sell & pick]]
 
 ## Current
-- [[To Research]]
+[[To Research]]
+
 - [[Project management]]
 - [[Data Platform]]
 - [[Stardew Valley]]

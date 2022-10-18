@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6d91260240705bb1",
+        "id": "48d869dbcc485712",
         "type": "tabs",
         "children": [
           {
-            "id": "e2990152846365c0",
+            "id": "c5b86234c154008d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Knowledge Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d279adccb7a0840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/MOC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Knowledge Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Knowledge Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Knowledge/Knowledge Management.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,17 +135,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e2990152846365c0",
+  "active": "c5b86234c154008d",
   "lastOpenFiles": [
-    "To Research.md",
+    "Knowledge/PARA.md",
+    "Knowledge/Andy Matuschak.md",
+    "Home.md",
+    "Knowledge/Maggie Applteton.md",
     "Knowledge/Knowledge Management.md",
     "Knowledge/MOC.md",
-    "Home.md",
+    "Orga/To Research.md",
     "Knowledge/Atomic notes.md",
     "Knowledge/Zettelkasten.md",
-    "Knowledge/Was ist etwas ein landwirtschaftlicher Betrieb.md",
-    "Knowledge/Shopping.md",
-    "Knowledge/Was ist ein fortwirtschaftlicher Betrieb.md",
-    "Knowledge/Bauen im Außenbereich.md"
+    "Knowledge/Was ist etwas ein landwirtschaftlicher Betrieb.md"
   ]
 }
