@@ -20,7 +20,7 @@ Grundsätzlich dürfen nur gebaut werden:
 	- Erweiterung von Wohngebäuden
 	- Erweiterung gewerblicher Gebäude
 
-[[Was ist etwas ein landwirtschaftlicher Betrieb]]
+[[Was ist ein landwirtschaftlicher Betrieb]]
 [[Was ist ein fortwirtschaftlicher Betrieb]]
 
 [[Warum renovieren statt neu bauen?]]
