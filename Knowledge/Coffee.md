@@ -16,5 +16,9 @@
 
 [[Espresso machines]]
 
+[[Coffee grinders]]
+
+[[Water database]]
+
 
 
