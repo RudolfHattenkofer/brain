@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "defaultNote": "Home",
+  "defaultNote": "__Home__",
   "useMoment": false,
   "momentFormat": "YYYY-MM-DD",
   "workspace": "Home",

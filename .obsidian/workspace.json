@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coffee grinders.md",
+                "file": "__Home__.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coffee grinders.md",
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coffee grinders.md",
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coffee grinders.md"
+                "file": "__Home__.md"
               }
             }
           },
@@ -145,7 +145,8 @@
   },
   "active": "e389752a8bc1b878",
   "lastOpenFiles": [
-    "Home.md",
+    "Knowledge/Coffee grinders.md",
+    "__Home__.md",
     "Orga/People.md",
     "Orga/People Notes/Megan collaboration factory.md",
     "Projects/Book How to take smart notes.md",
@@ -153,7 +154,6 @@
     "Projects/Close open thoughts.md",
     "Projects/Slack incident response.md",
     "Projects/Awesome scalability.md",
-    "Projects/Done/Book The Right It.md",
-    "Projects/Done/Food pairing.md"
+    "Projects/Done/Book The Right It.md"
   ]
 }

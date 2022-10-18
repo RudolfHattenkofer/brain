@@ -11,3 +11,4 @@
 - Pfistermühle
 - Café Salvatorplatz
 - Bite Delight
+- Ayinger am Platzl -> Mittagsmenü
