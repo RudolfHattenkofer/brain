@@ -28,5 +28,10 @@
 > Vielen Dank
 > Ihr inexio Team
 
+
 2022-10-19 15:36 Gespräch
-- 
+- Keine Info, Techniker melden sich
+> Sehr geehrter inexio Kunde,
+> Ihre soeben gemeldete Anfrage wird bei uns im Ticket mit der Nummer #6717516 bearbeitet. Bitte nennen Sie bei jeglicher weiterer Korrespondenz die genannte Ticketnummer.
+> Ihr inexio Kundenservice.
+> Sie erreichen uns unter +49-800-7849375

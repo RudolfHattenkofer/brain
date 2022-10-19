@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d371c69a210af16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stardew Crops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "822782cd426dcc55",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/People Notes/Oma Internet + Telefon.md",
+                "file": "Knowledge/Stardew Valley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/People Notes/Oma Internet + Telefon.md",
+                "file": "Knowledge/Stardew Valley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/People Notes/Oma Internet + Telefon.md"
+                "file": "Knowledge/Stardew Valley.md"
               }
             }
           },
@@ -181,17 +168,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b136076a14d8b0f5",
+  "active": "822782cd426dcc55",
   "lastOpenFiles": [
+    "Stardew Crops.md",
+    "Knowledge/Stardew Valley.md",
+    "Ausfall Inexio 2022-10-19.md",
+    "Orga/People Notes/Oma Internet + Telefon.md",
     "Orga/People/Oma.md",
     "Orga/People.md",
     "Orga/People/Parents.md",
     "Orga/People Notes/GK Nummer Inexio.md",
-    "Ausfall Inexio 2022-10-19.md",
-    "Knowledge/Stardew Valley.md",
     "Orga/People Notes/Internet troubleshoot Parents.md",
-    "Stardew Crops.md",
-    "__Home__.md",
-    "Daily/2022-10-19.md"
+    "__Home__.md"
   ]
 }
