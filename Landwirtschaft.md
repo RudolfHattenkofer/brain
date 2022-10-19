@@ -1,5 +1,0 @@
-
-
-
-
-[[Dronen in der Landwirtschaft]]

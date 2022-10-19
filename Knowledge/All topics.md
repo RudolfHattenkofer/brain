@@ -1,8 +1,9 @@
-[[Tech]] [[Law]] [[Accounting]] [[Financial]] [[Math]] [[Health]] [[Education]] [[Psychology]] [[Organisation]]
+[[Psychology]] [[Organisation]]
+[[Tech]] [[HR]]
+[[Shopping]]
+[[Law]] [[Accounting]] [[Financial]] [[Math]] [[Health]] [[Education]]
 
-[[HR]] [[Shopping]]
-
-[[Construction]]
+[[Construction]] [[Landwirtschaft]]
 
 **Food**
 

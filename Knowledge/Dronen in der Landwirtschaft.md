@@ -7,7 +7,7 @@
 - Beständigkeit gegen Wasser
 - ca 12500€ mit Akkus und Bodenstation etc
 
-DJI Agras T30
+[DJI Agras T30](https://www.dji.com/de/t30)
 - Größer!
 
 [P4 Multispectral](https://www.dji.com/de/p4-multispectral)
