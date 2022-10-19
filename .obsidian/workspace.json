@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Coffee roasters.md",
+                "file": "Daily/2022-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Coffee roasters.md",
+                "file": "Daily/2022-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Coffee roasters.md",
+                "file": "Daily/2022-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Coffee roasters.md"
+                "file": "Daily/2022-10-19.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "ec46c9b82603921c",
   "lastOpenFiles": [
+    "__Home__.md",
+    "Daily/2022-10-19.md",
+    "Knowledge/Stardew Valley.md",
+    "Stardew Crops.md",
+    "Knowledge/Coffee roasters.md",
     "Knowledge/Coffee.md",
     "Orga/People Notes/Oma Internet + Telefon.md",
     "Ausfall Inexio 2022-10-19.md",
     "sell & pick/2022-10-28 George.md",
-    "sell & pick/Home.md",
-    "Knowledge/Stardew Valley.md",
-    "Stardew Crops.md",
-    "Orga/People/Oma.md",
-    "Orga/People.md",
-    "Orga/People/Parents.md"
+    "sell & pick/Home.md"
   ]
 }
