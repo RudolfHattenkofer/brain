@@ -19,6 +19,7 @@ Yearly theme 2021: Structure
 - [[Stardew Valley]]
 - [[Modern VPN]]
 - [[Landwirtschaft]]
+- [[Knowledge Management]]
 
 Projects:
 ```dataview

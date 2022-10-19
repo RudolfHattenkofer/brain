@@ -1,7 +1,7 @@
 - Rewe
 - Kaimug
 - Blattsalat
-- Cafe Fanitani -> F
+- Cafe Fanitani -> Fünf Höfe italienisch
 - Pausenhof
 - Popup beim Mini
 - A Domani
