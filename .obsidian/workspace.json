@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9cefb26945d0a192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2022-10-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stardew Crops.md",
+                "file": "Daily/2022-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stardew Crops.md",
+                "file": "Daily/2022-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stardew Crops.md"
+                "file": "Daily/2022-10-19.md"
               }
             }
           },
@@ -156,10 +169,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5d371c69a210af16",
+  "active": "9cefb26945d0a192",
   "lastOpenFiles": [
-    "Knowledge/Stardew Valley.md",
     "Stardew Crops.md",
+    "Knowledge/Stardew Valley.md",
     "__Home__.md",
     "Knowledge/Landwirtschaft.md",
     "Knowledge/All topics.md",
