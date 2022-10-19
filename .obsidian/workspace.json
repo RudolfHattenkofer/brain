@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11ef6809af82dcd6",
+        "id": "d3ba4b6a23b5999b",
         "type": "tabs",
         "children": [
           {
-            "id": "822782cd426dcc55",
+            "id": "ec46c9b82603921c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Stardew Valley.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cefb26945d0a192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ausfall Inexio 2022-10-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b136076a14d8b0f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga/People Notes/Oma Internet + Telefon.md",
+                "file": "Knowledge/Coffee roasters.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Stardew Valley.md",
+                "file": "Knowledge/Coffee roasters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Stardew Valley.md",
+                "file": "Knowledge/Coffee roasters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Stardew Valley.md"
+                "file": "Knowledge/Coffee roasters.md"
               }
             }
           },
@@ -168,17 +144,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "822782cd426dcc55",
+  "active": "ec46c9b82603921c",
   "lastOpenFiles": [
-    "Stardew Crops.md",
-    "Knowledge/Stardew Valley.md",
-    "Ausfall Inexio 2022-10-19.md",
+    "Knowledge/Coffee.md",
     "Orga/People Notes/Oma Internet + Telefon.md",
+    "Ausfall Inexio 2022-10-19.md",
+    "sell & pick/2022-10-28 George.md",
+    "sell & pick/Home.md",
+    "Knowledge/Stardew Valley.md",
+    "Stardew Crops.md",
     "Orga/People/Oma.md",
     "Orga/People.md",
-    "Orga/People/Parents.md",
-    "Orga/People Notes/GK Nummer Inexio.md",
-    "Orga/People Notes/Internet troubleshoot Parents.md",
-    "__Home__.md"
+    "Orga/People/Parents.md"
   ]
 }

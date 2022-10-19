@@ -1,8 +1,7 @@
 [[Coffee]]
 
 Me
-
-[[Homestead coffee roasters]]
+- [[Homestead coffee roasters]]
 
 Steini
 - Dinzler
@@ -35,9 +34,7 @@ James Hoffman
 - Square mile
 
 Anton
-
-[mahlefitz | mahlefitz](https://www.mahlefitz.de/)
-
+- [mahlefitz | mahlefitz](https://www.mahlefitz.de/)
 
 Stephanie
 - Cafe Bla
