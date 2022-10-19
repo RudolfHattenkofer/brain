@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-10-19.md",
+                "file": "Ausfall Inexio 2022-10-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b136076a14d8b0f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orga/People Notes/Oma Internet + Telefon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-19.md",
+                "file": "Orga/People Notes/Oma Internet + Telefon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-19.md",
+                "file": "Orga/People Notes/Oma Internet + Telefon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-10-19.md"
+                "file": "Orga/People Notes/Oma Internet + Telefon.md"
               }
             }
           },
@@ -169,17 +181,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9cefb26945d0a192",
+  "active": "b136076a14d8b0f5",
   "lastOpenFiles": [
-    "Stardew Crops.md",
+    "Orga/People/Oma.md",
+    "Orga/People.md",
+    "Orga/People/Parents.md",
+    "Orga/People Notes/GK Nummer Inexio.md",
+    "Ausfall Inexio 2022-10-19.md",
     "Knowledge/Stardew Valley.md",
+    "Orga/People Notes/Internet troubleshoot Parents.md",
+    "Stardew Crops.md",
     "__Home__.md",
-    "Knowledge/Landwirtschaft.md",
-    "Knowledge/All topics.md",
-    "Knowledge/Dronen in der Landwirtschaft.md",
-    "Knowledge/Wie erkenne ich Dronen in der Luft?.md",
-    "sell & pick/Home.md",
-    "zAssets/Screenshot 2022-10-18 at 13.49.58.png",
-    "sell & pick/2022-10-28 George.md"
+    "Daily/2022-10-19.md"
   ]
 }

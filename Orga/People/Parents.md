@@ -1,3 +1,4 @@
+
 [[Parents present ideas]]
 
 [[Internet troubleshoot Parents]]
@@ -8,3 +9,7 @@
 
 [[Parents Glasfaser]]
 
+
+
+
+[[Ausfall Inexio 2022-10-19]]
