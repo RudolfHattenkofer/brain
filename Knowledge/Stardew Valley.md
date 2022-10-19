@@ -1,2 +1,9 @@
 IGN
-Wiki
+[Wiki](https://stardewvalleywiki.com/)
+
+
+[Farm layout planner](https://stardew.info/)
+[Crop planner](https://exnil.github.io/crop_planner/)
+
+
+[[Stardew Crops]]
