@@ -14,12 +14,12 @@ Yearly theme 2021: Structure
 [[To Research]]
 
 ## Current
-- [[Project management]]
-- [[Data Platform]]
 - [[Stardew Valley]]
-- [[Modern VPN]]
 - [[Landwirtschaft]]
 - [[Knowledge Management]]
+- [[Modern VPN]]
+- [[Project management]]
+- [[Data Platform]]
 
 Projects:
 ```dataview

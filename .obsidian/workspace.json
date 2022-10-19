@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-10-19.md",
+                "file": "Knowledge/Stardew Valley.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-19.md",
+                "file": "Knowledge/Stardew Valley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-19.md",
+                "file": "Knowledge/Stardew Valley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-10-19.md"
+                "file": "Knowledge/Stardew Valley.md"
               }
             }
           },
@@ -147,8 +147,8 @@
   "active": "ec46c9b82603921c",
   "lastOpenFiles": [
     "__Home__.md",
-    "Daily/2022-10-19.md",
     "Knowledge/Stardew Valley.md",
+    "Daily/2022-10-19.md",
     "Stardew Crops.md",
     "Knowledge/Coffee roasters.md",
     "Knowledge/Coffee.md",
