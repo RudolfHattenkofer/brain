@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Stardew Valley.md",
+                "file": "Knowledge/Buddy System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Stardew Valley.md",
+                "file": "Knowledge/Buddy System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Stardew Valley.md",
+                "file": "Knowledge/Buddy System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Stardew Valley.md"
+                "file": "Knowledge/Buddy System.md"
               }
             }
           },
@@ -146,8 +146,8 @@
   },
   "active": "ec46c9b82603921c",
   "lastOpenFiles": [
-    "__Home__.md",
     "Knowledge/Stardew Valley.md",
+    "__Home__.md",
     "Daily/2022-10-19.md",
     "Stardew Crops.md",
     "Knowledge/Coffee roasters.md",
