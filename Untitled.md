@@ -16,4 +16,4 @@ Tobias: Retail Stores, 2nd Level Support
 - Challenge
 	- Betriebsprüfung
 	- Nachweis, Auditierung
-- 
+- Möchten verschiedene Konten etc buchen
