@@ -1,13 +1,13 @@
 Boiler:
 
 Einkreis
-Zweikreis
-Dualboiler
+Zweikreis vs Dualboiler
 Thermoblock
 
-Pumpe:
-Vibration
-Rotation
+Pumpe: Vibration vs Rotation
+
+Marken:
+[[Decent Espresso]]
 La cimbali
 Faema
 ECM
