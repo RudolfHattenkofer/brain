@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Coffee varieties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64987f070ad03ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Coffee.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Coffee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Coffee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Knowledge/Coffee.md"
               }
             }
           },
@@ -134,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bab1adef7337cad3",
+  "active": "64987f070ad03ac5",
   "lastOpenFiles": [
-    "Knowledge/Stardew Crops.md",
-    "Projects/Ausfall Inexio 2022-10-19.md",
-    "sell & pick/Home.md",
+    "Knowledge/Espresso.md",
+    "Knowledge/Foaming milk.md",
+    "Knowledge/Coffee.md",
+    "Knowledge/Moka.md",
+    "Knowledge/Coffee roasters.md",
+    "Coffee varieties.md",
+    "Coffee flavor profiles.md",
+    "Coffee regions.md",
     "__Home__.md",
-    "sell & pick/2022-10-20 Thalia Schnittstellen.md",
-    "Knowledge/Interest rates for loans.md",
-    "Knowledge/Financial.md",
-    "Knowledge/All topics.md",
-    "Knowledge/Buddy System.md",
-    "Knowledge/Stardew Valley.md"
+    "Untitled.md"
   ]
 }
