@@ -35,3 +35,8 @@
 > Ihre soeben gemeldete Anfrage wird bei uns im Ticket mit der Nummer #6717516 bearbeitet. Bitte nennen Sie bei jeglicher weiterer Korrespondenz die genannte Ticketnummer.
 > Ihr inexio Kundenservice.
 > Sie erreichen uns unter +49-800-7849375
+
+
+- Wollte Leitungsmessung machen
+- Keine Großstörung
+- Kann nicht in die Geschäftskunden nicht sehen
