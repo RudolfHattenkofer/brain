@@ -25,6 +25,13 @@ Oberbank:
 - Leitzins wird bei nächster EZB Sitzung nochmal um 3/4% steigen
 - Weitgehend eingepreist, Zinsen steigen dennoch tagesaktuell
 - Fordert 25% EK
+- Angebot vollständige Absicherung, EK
+	- 10J: 4.15%
+	- 15J: 4.25%
+	- Flexibel: 3.6%
+		- Empfehlung: 2 Jahre ohne Tilgung, maximal 3 Jahre tilgungsfrei möglich
+- Angebot Grundschuld, keine Absicherung
+	- Flexibel: 3.8%
 
 Hausbank:
 - Durchwahl 089 55 141 726, Evi Preißner
