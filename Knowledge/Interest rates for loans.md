@@ -26,5 +26,6 @@ Oberbank:
 - Weitgehend eingepreist, Zinsen steigen dennoch tagesaktuell
 - Fordert 25% EK
 
-
+Hausbank:
+- Durchwahl 089 55 141 726, Evi Preißner
 

@@ -11,8 +11,12 @@
             "id": "adbe99a80b5bda28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Data visualization.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge/Data visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge/Data visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge/Data visualization.md"
+              }
             }
           },
           {
@@ -136,17 +144,54 @@
   "ribbon": {
     "mostRecentAction": ""
   },
+  "floating": {
+    "id": "d688d0babbcfe5ad",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f52ede40564085ef",
+        "type": "window",
+        "children": [
+          {
+            "id": "8172b1b46504ffbe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9bf6a9916ae941c0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Knowledge/Taking analytics further.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3744,
+        "y": -693,
+        "width": 1180,
+        "height": 1415,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "adbe99a80b5bda28",
   "lastOpenFiles": [
+    "Knowledge/Taking analytics further.md",
+    "Knowledge/Data visualization.md",
+    "Knowledge/Interest rates for loans.md",
+    "__Home__.md",
     "Projects/Zacherlmühle.md",
     "Orga/People Notes/Glasfaser Parteien Schulfang.md",
     "Orga/People/Oma.md",
-    "Knowledge/Interest rates for loans.md",
     "Daily/2022-10-21.md",
-    "__Home__.md",
     "sell & pick/2022-10-28 George.md",
-    "sell & pick/Home.md",
-    "Untitled.md",
-    "Knowledge/Coffee flavor profiles.md"
+    "sell & pick/Home.md"
   ]
 }
