@@ -54,20 +54,24 @@ Heiztechnik von [[Buderus]], ca 25k€ Photovoltaik + 15k€ Heizung?
 ## Finanzierung
 Anbau muss gekauft werden, dann Simon schenken -> Grundsteuer!!! Rückforderung aus Notarvertrag
 
-| Objekt           | Größe  | Wert  | Gedacht für      | Gehört aktuell |
-| ---------------- | ------ | ----- | ---------------- | -------------- |
-| Westerberg 1 + 2 | 65 * 2 | 800k  | Rudi             | Rudi           |
-| Am Gries         | 67     | 335k  | Rudi             | Eltern         |
-| Thalbacher OG    | 73     | 365k  | Rudi             | Eltern         |
-| Thalbacher DG    | 53     | 265k  | Rudi             | Eltern         |
-| Schlossanger 52  | 45     | 225k  | Rudi (erledigt)  | Eltern         |
-| Schlossanger 52A | 47     | 235k  | Simon (erledigt) | Eltern         |
-| Schlossanger 52B | 47     | 235k  | Rudi             | Eltern         |
-| Brunnenstraße 6A | 300    | 1500k | Simon            | Eltern+Rudi    |
-| Pfarrheim DG     | 80     | 320k  | Rudi             | Eltern         |
-| Pfarrheim OG     | 80     | 320k  | Rudi             | Eltern         |
-| Pfarrheim EG     | 80     | 320k  | Rudi             | Eltern         |
+| Objekt           | Größe  | Wert  | Miete   | Gedacht für      | Gehört aktuell |
+| ---------------- | ------ | ----- | ------- | ---------------- | -------------- |
+| Westerberg 1 + 2 | 65 * 2 | 800k  | 925 * 2 | Rudi             | Rudi           |
+| Am Gries         | 67     | 335k  |         | Rudi             | Eltern         |
+| Thalbacher OG    | 73     | 365k  | 680     | Rudi             | Eltern         |
+| Thalbacher DG    | 53     | 265k  | 450     | Rudi             | Eltern         |
+| Schlossanger 52  | 45     | 225k  | 500     | Rudi (erledigt)  | Eltern         |
+| Schlossanger 52A | 47     | 235k  | 430     | Simon (erledigt) | Eltern         |
+| Schlossanger 52B | 47     | 235k  | 490     | Rudi             | Eltern         |
+| Brunnenstraße 6A | 300    | 1500k |         | Simon            | Eltern+Rudi    |
+| Pfarrheim DG     | 80     | 320k  |         | Rudi             | Eltern         |
+| Pfarrheim OG     | 80     | 320k  |         | Rudi             | Eltern         |
+| Pfarrheim EG     | 80     | 320k  |         | Rudi             | Eltern         |
 
+Kredite:
+- Thalbacher 37k, 430/m, 1.36%
+- Thalbacher 25k, 200/m, 1.35%
+- Schlossanger 37k, 450/m, 1.x%
 
 ## Freigabe
 - Bürgermeister keine Einwände, hat ihm sehr gut gefallen

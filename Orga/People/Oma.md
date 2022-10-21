@@ -6,5 +6,4 @@
 
 [[Oma Glasfaser]]
 
-
-
+[[Glasfaser Parteien Schulfang]]

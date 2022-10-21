@@ -11,8 +11,12 @@
             "id": "e946fb3a28ec7a89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Zacherlmühle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Zacherlmühle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Zacherlmühle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Zacherlmühle.md"
+              }
             }
           },
           {
@@ -126,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -135,17 +144,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e946fb3a28ec7a89",
+  "active": "745082d805e034ec",
   "lastOpenFiles": [
+    "Orga/People Notes/Glasfaser Parteien Schulfang.md",
+    "Orga/People/Oma.md",
+    "Knowledge/Interest rates for loans.md",
     "Daily/2022-10-21.md",
     "__Home__.md",
     "sell & pick/2022-10-28 George.md",
     "sell & pick/Home.md",
     "Untitled.md",
     "Knowledge/Coffee flavor profiles.md",
-    "zAssets/image-asset.png",
-    "Projects/Zacherlmühle.md",
-    "Knowledge/Financial.md",
-    "Knowledge/Tilgungsrechner.md"
+    "zAssets/image-asset.png"
   ]
 }
