@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-10-21.md",
+                "file": "Knowledge/Interest rates for loans.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-21.md",
+                "file": "Knowledge/Interest rates for loans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-21.md",
+                "file": "Knowledge/Interest rates for loans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-10-21.md"
+                "file": "Knowledge/Interest rates for loans.md"
               }
             }
           },
@@ -146,8 +146,8 @@
   },
   "active": "4e26332a181cc4b4",
   "lastOpenFiles": [
-    "__Home__.md",
     "Daily/2022-10-21.md",
+    "__Home__.md",
     "zAssets/vega-chartio.png",
     "zAssets/backend.png",
     "Knowledge/Data visualization.md",
