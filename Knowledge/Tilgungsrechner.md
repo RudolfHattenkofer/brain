@@ -1,1 +1,0 @@
-https://tilgungsrechner.fmh.de/rechner3/fmh2/tilgungsrechner/

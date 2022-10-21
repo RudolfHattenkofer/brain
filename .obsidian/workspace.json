@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a0ab778151e405f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coffee varieties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "64987f070ad03ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Coffee.md",
+                "file": "Projects/Zacherlmühle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Coffee.md",
+                "file": "Projects/Zacherlmühle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Coffee.md",
+                "file": "Projects/Zacherlmühle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Coffee.md"
+                "file": "Projects/Zacherlmühle.md"
               }
             }
           },
@@ -158,15 +145,15 @@
   },
   "active": "64987f070ad03ac5",
   "lastOpenFiles": [
+    "Knowledge/Financial.md",
+    "Knowledge/Tilgungsrechner.md",
+    "Knowledge/Interest rates for loans.md",
+    "Knowledge/Coffee.md",
+    "Coffee varieties.md",
     "Knowledge/Espresso.md",
     "Knowledge/Foaming milk.md",
-    "Knowledge/Coffee.md",
     "Knowledge/Moka.md",
     "Knowledge/Coffee roasters.md",
-    "Coffee varieties.md",
-    "Coffee flavor profiles.md",
-    "Coffee regions.md",
-    "__Home__.md",
-    "Untitled.md"
+    "Coffee flavor profiles.md"
   ]
 }
