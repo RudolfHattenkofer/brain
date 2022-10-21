@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3b80e3655d08e6a9",
+        "id": "144ecbb649a56fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "b432009a373137bb",
+            "id": "e946fb3a28ec7a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2022-10-21.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2022-10-21.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,8 +135,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b432009a373137bb",
+  "active": "e946fb3a28ec7a89",
   "lastOpenFiles": [
+    "Daily/2022-10-21.md",
     "__Home__.md",
     "sell & pick/2022-10-28 George.md",
     "sell & pick/Home.md",
@@ -153,7 +146,6 @@
     "zAssets/image-asset.png",
     "Projects/Zacherlmühle.md",
     "Knowledge/Financial.md",
-    "Knowledge/Tilgungsrechner.md",
-    "Knowledge/Interest rates for loans.md"
+    "Knowledge/Tilgungsrechner.md"
   ]
 }
