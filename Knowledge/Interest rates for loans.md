@@ -5,6 +5,11 @@
 
 D&R:
 - Variabel bei Stammkunden: 4.75%
+- 10 Jahre machen sie nicht
+
+Robin Petermann (Santel & Petermann)
+- petermann@immofin.de
+- 10 Jahre: 4.25-4.5%
 
 Sperrer:
 - 5 Jahre >4%
