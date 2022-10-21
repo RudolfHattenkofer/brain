@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "144ecbb649a56fbb",
+        "id": "f7ffa56a2199dcf1",
         "type": "tabs",
         "children": [
           {
-            "id": "e946fb3a28ec7a89",
+            "id": "adbe99a80b5bda28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Zacherlmühle.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Zacherlmühle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Zacherlmühle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Zacherlmühle.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +136,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "745082d805e034ec",
+  "active": "adbe99a80b5bda28",
   "lastOpenFiles": [
+    "Projects/Zacherlmühle.md",
     "Orga/People Notes/Glasfaser Parteien Schulfang.md",
     "Orga/People/Oma.md",
     "Knowledge/Interest rates for loans.md",
@@ -154,7 +147,6 @@
     "sell & pick/2022-10-28 George.md",
     "sell & pick/Home.md",
     "Untitled.md",
-    "Knowledge/Coffee flavor profiles.md",
-    "zAssets/image-asset.png"
+    "Knowledge/Coffee flavor profiles.md"
   ]
 }
