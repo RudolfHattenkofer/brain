@@ -77,6 +77,6 @@ Anbau muss gekauft werden, dann Simon schenken -> Grundsteuer!!! Rückforderung 
 - Wäscheschacht aus dem OG Bad Kinder in Mud+Wäsche
 - Küche
 	- [[Küchenideen Zachermühle]]
-- Buch ökologisches Bauen-> Keine Insel -> 
+- Buch ökologisches Bauen-> Keine Insel -> U? Einbindung Gäste?
 - Vorbereitungsküche
 - Coffee corner
