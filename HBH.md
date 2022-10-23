@@ -1,16 +1,20 @@
-
 [[Mermaid]]
 
 ```mermaid
 graph TD;
+	subgraph D[productsperweekday]
+		transactions --> productsperweekday
+		v2_products_to_remove --> productsperweekday
+		productsperweekday[productsperweekday]
+	end
 	subgraph C[with_products]
-		ordering_weekly_productsperweekday-- Filter food+themes -->with_products
+		productsperweekday-- Filter food+themes -->with_products
 		source_ordering_weekly_revenue-->with_products
 		with_products[ordering_weekly_with_products]
 	end
 	subgraph B[with_components]
-		csb_sortiment[csb_components<br />type=sortiment]-->components
-		csb_stocklager[csb_components<br />type=stocklager]-->components
+		csb_sortiment(csb_components<br />type=sortiment)-->components
+		csb_stocklager(csb_components<br />type=stocklager)-->components
 		components(components)-->with_components
 		with_products-->with_components
 		sameday_delivery-->with_components
