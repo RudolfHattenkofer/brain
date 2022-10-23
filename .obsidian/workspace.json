@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4805d1f162236da1",
+        "id": "594677593e33d056",
         "type": "tabs",
         "children": [
           {
-            "id": "4e26332a181cc4b4",
+            "id": "d07c4e9103458445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "HBH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aebbf90795f52f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Mermaid.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.5
+    "width": 182.5,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "HBH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "HBH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "HBH.md"
               }
             }
           },
@@ -139,22 +152,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e26332a181cc4b4",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
-    "Daily/2022-10-21.md",
+    "Knowledge/Mermaid.md",
+    "HBH.md",
+    "Excalidraw/Drawing 2022-10-23 17.28.21.excalidraw.md",
+    "Untitled.md",
     "__Home__.md",
+    "Daily/2022-10-21.md",
     "zAssets/vega-chartio.png",
     "zAssets/backend.png",
     "Knowledge/Data visualization.md",
-    "Knowledge/Taking analytics further.md",
-    "Knowledge/Why ChartIO chose Vega.md",
-    "Knowledge/Interest rates for loans.md",
-    "Projects/Zacherlmühle.md",
-    "Orga/People Notes/Glasfaser Parteien Schulfang.md"
+    "Knowledge/Taking analytics further.md"
   ]
 }

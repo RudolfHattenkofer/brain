@@ -6,7 +6,7 @@ Yearly theme 2021: Structure
 [[All topics]]
 [[Tech]] [[Python]] [[BigQuery]]
 [[Recipes index]]
-[[Coffee]] [[Elbgold]]
+[[Coffee]] [[Elbgold]] [[Cafe Bla]]
 
 [[sell & pick/Home|sell & pick]]
 [[People]]

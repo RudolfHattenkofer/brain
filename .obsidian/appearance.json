@@ -1,5 +1,8 @@
 {
   "theme": "moonstone",
   "accentColor": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "mermaid"
+  ]
 }
