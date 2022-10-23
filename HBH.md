@@ -4,7 +4,8 @@
 graph TD;
 	subgraph D[productsperweekday]
 		transactions --> productsperweekday
-		v2_products_to_remove --> productsperweekday
+		ml.v2_products_to_remove --> productsperweekday
+		ordering_weekly_productstoadd --> productsperweekday
 		productsperweekday[productsperweekday]
 	end
 	subgraph C[with_products]
