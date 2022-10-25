@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "227cdf712b6d209c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBN Live.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HBH.md",
+                "file": "BBN Live.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HBH.md",
+                "file": "BBN Live.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HBH.md"
+                "file": "BBN Live.md"
               }
             }
           },
@@ -136,24 +149,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d07c4e9103458445",
+  "active": "227cdf712b6d209c",
   "lastOpenFiles": [
-    "Knowledge/Mermaid.md",
     "HBH.md",
+    "Daily/2022-10-21.md",
+    "__Home__.md",
+    "Knowledge/Mermaid.md",
     "Excalidraw/Drawing 2022-10-23 17.28.21.excalidraw.md",
     "Untitled.md",
-    "__Home__.md",
-    "Daily/2022-10-21.md",
     "zAssets/vega-chartio.png",
     "zAssets/backend.png",
     "Knowledge/Data visualization.md",
