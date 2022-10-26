@@ -68,6 +68,8 @@ Anbau muss gekauft werden, dann Simon schenken -> Grundsteuer!!! Rückforderung 
 | Pfarrheim OG     | 80     | 320k  |         | Rudi             | Eltern         |
 | Pfarrheim EG     | 80     | 320k  |         | Rudi             | Eltern         |
 
+Zu verkaufen: Thalbacher
+
 Kredite:
 - Thalbacher 37k, 430/m, 1.36%
 - Thalbacher 25k, 200/m, 1.35%
@@ -84,3 +86,20 @@ Kredite:
 - Buch ökologisches Bauen-> Keine Insel -> U? Einbindung Gäste?
 - Vorbereitungsküche
 - Coffee corner
+
+
+
+## Finanzierung 2
+- 630k Thalbacher OG+DG
+- 150k KFW Sanierung beheizt
+- 120k KFW Neubau KFW40
+- 350k Simon
+
+Benötigt:
+-> Kurzfristig 630k zzgl
+-> 150+120 KFW
+-> 350k neu Simon
+
+Neue Situation:
+- 630k abgezahlt wg Wohnungen
+- 
