@@ -35,6 +35,12 @@ Oberbank:
 
 Hausbank:
 - Durchwahl 089 55 141 726, Evi Preißner
+- KFW: 270k
+	- 
+- Langfristig: 350k
+	- 
+- Kurzfristig: 630k zzgl Nebenkosten
+	- 
 
 
 

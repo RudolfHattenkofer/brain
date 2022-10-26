@@ -102,4 +102,8 @@ Benötigt:
 
 Neue Situation:
 - 630k abgezahlt wg Wohnungen
-- 
+- 1200€ tilgen auf 270k KFW
+- 1500€ tilgen auf ursprüngliches Darlehen
+
+
+# Steuerlich
