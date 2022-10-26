@@ -36,11 +36,12 @@ Oberbank:
 Hausbank:
 - Durchwahl 089 55 141 726, Evi Preißner
 - KFW: 270k
-	- 
+	- Machen sie
 - Langfristig: 350k
 	- 10J: 4.31%
 - Kurzfristig: 630k zzgl Nebenkosten
 	- 3,85% 18 Monate
+	- Machen sie nur in Kombination mit einer Finanzierung
 
 
 
