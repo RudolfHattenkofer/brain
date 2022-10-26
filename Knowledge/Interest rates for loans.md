@@ -38,9 +38,9 @@ Hausbank:
 - KFW: 270k
 	- 
 - Langfristig: 350k
-	- 
+	- 10J: 4.31%
 - Kurzfristig: 630k zzgl Nebenkosten
-	- 
+	- 3,85% 18 Monate
 
 
 
