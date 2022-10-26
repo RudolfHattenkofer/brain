@@ -104,6 +104,15 @@ Neue Situation:
 - 630k abgezahlt wg Wohnungen
 - 1200€ tilgen auf 270k KFW
 - 1500€ tilgen auf ursprüngliches Darlehen
+- 630€ Thalbacher
 
 
 # Steuerlich
+380k Ablöse
+Rückübertragung!
+
+Wir kaufen Grundstück, Preis wird geschenkt
+
+300 Darlehen, 10 Jahre Zinsfrei
+300 Schenkung
+

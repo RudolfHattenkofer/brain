@@ -48,7 +48,7 @@ Hausbank:
 KFW:
 - [BEG](https://www.kfw.de/inlandsfoerderung/Bundesf%C3%B6rderung-f%C3%BCr-effiziente-Geb%C3%A4ude/)
 - Förderung von [[Was ist ein KFW 40 oder Passivhaus]]
-- 461 und 463 sind nicht mehr aktiv
+- 461 und 463 sind nicht mehr aktiv -> Zuschuss Beratung
 - [Wohngebäude - Sanierung von bestehenden Immobilien](<https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/F%C3%B6rderprodukte/Bundesf%C3%B6rderung-f%C3%BCr-effiziente-Geb%C3%A4ude-Wohngeb%C3%A4ude-Kredit-(261-262)/>)
 	- Mindestens 5 Jahre
 	- Bei Effizienshaus 40 mit Eneuerbare-Energien-Klasse gibt es 25% Tilgungszuschuss von 150 000€ Kredit
@@ -64,3 +64,8 @@ KFW:
 	- Laufzeit 10J: 0.85%
 	- Laufzeit 20J: 1.75%
 	- Laufzeit 30J: 1.97%
+
+
+142 Wohneigentum
+- Sondertilgung?
+- 
