@@ -9,7 +9,7 @@
 
 [[Parents Glasfaser]]
 
-
+[[Parents Telekom Tmobile]]
 
 
 [[Ausfall Inexio 2022-10-19]]
