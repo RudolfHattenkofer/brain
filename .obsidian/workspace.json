@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "594677593e33d056",
+        "id": "38edcec24134dd11",
         "type": "tabs",
         "children": [
           {
-            "id": "227cdf712b6d209c",
+            "id": "927e835cdb1f1736",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zachermühle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d080106a58379fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parents Telekom Tmobile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c96a9405a2b46e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VS3.md",
+                "file": "__Home__.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parents Telekom Tmobile.md",
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parents Telekom Tmobile.md",
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parents Telekom Tmobile.md"
+                "file": "__Home__.md"
               }
             }
           },
@@ -170,17 +145,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9d080106a58379fb",
+  "active": "927e835cdb1f1736",
   "lastOpenFiles": [
+    "Software Hausverwaltung - VS3.md",
+    "__Home__.md",
+    "Parents Telekom Tmobile.md",
+    "Projects/Zachermühle.md",
     "Orga/People/Parents.md",
     "Knowledge/Interest rates for loans.md",
-    "VS3.md",
-    "Projects/Zachermühle.md",
     "Knowledge/Financial.md",
     "BBN Live.md",
     "HBH.md",
-    "Daily/2022-10-21.md",
-    "__Home__.md",
-    "Knowledge/Mermaid.md"
+    "Daily/2022-10-21.md"
   ]
 }
