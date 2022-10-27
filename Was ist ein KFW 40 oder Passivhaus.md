@@ -7,4 +7,4 @@ Referenz:
 München Barer Str: 100 / 130
 Belgradstr 41 / ??
 
-KFW loans have very good [[Interest rates for loans]].
+KFW loans have very good [[Typical interest rates for loans]].
