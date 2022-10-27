@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "mobilePullAction": "homepage:open-homepage",
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "promptDelete": false,
   "vimMode": true,
   "pdfExportSettings": {
@@ -9,5 +9,19 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "insert-template",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-link",
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:toggle-checklist-status",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
+  ]
 }

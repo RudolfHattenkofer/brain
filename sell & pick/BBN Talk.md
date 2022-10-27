@@ -1,4 +1,8 @@
-
+---
+client: Intern
+date: 2022-10-27
+tags: meeting
+---
 
 BBN Master
 
