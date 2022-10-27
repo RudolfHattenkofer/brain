@@ -2,9 +2,9 @@
 Kundennummer GV: 853 888 06
 
 Verträge Business Mobil M:
-- Papa (Hauptkarte) 44,xx
+- Papa (Hauptkarte) 44,50
 	- 0170 76 29 195
-- Mama (Zweitkarte) 16,76
+- Mama (Zweitkarte) 16,76 22.25
 	- 0151 11 740 555
 - Simon ()
 	- 0151 41472118‬
