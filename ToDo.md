@@ -1,12 +1,12 @@
 - Manage Goals (goal)
-	- Load -> BHAG, 3HAG, 1HAG
-	- List
-	- Add
-	- Edit
-	- Delete
+	- [x] Load -> BHAG, 3HAG, 1HAG
+	- [ ] List
+	- [ ]  Add
+	- [ ]  Edit
+	- [ ] Delete
 - KPIs verwalten
-	- Load
-	- List
-	- Add
-	- Focus
-	- Delete
+	- [ ] Load
+	- [ ] List
+	- [ ] Add
+	- [ ] Focus
+	- [ ] Delete
