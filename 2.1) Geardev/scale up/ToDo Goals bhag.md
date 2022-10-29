@@ -2,11 +2,11 @@
 	- [x] Load -> BHAG, 3HAG, 1HAG
 	- [x] List
 	- [x]  Add
-	- [ ]  Edit
-	- [ ] Delete
+	- [x]  Edit
+	- [x] Delete
 - KPIs verwalten
 	- [ ] Load
 	- [ ] List
-	- [ ] Add
+	- [x] Add
 	- [ ] Focus
 	- [ ] Delete
