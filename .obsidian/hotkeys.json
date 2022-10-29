@@ -16,5 +16,14 @@
     }
   ],
   "editor:delete-paragraph": [],
-  "editor:save-file": []
+  "editor:save-file": [],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
 }
