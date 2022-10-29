@@ -5,8 +5,8 @@
 	- [x]  Edit
 	- [x] Delete
 - KPIs verwalten
-	- [ ] Load
-	- [ ] List
+	- [x] Load
+	- [x] List
 	- [x] Add
-	- [ ] Focus
-	- [ ] Delete
+	- [x] Focus
+	- [x] Delete
