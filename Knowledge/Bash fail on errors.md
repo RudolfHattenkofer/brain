@@ -1,6 +1,0 @@
-```other
-set -eo pipefail
-```
-
-
-

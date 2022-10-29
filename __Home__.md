@@ -17,7 +17,6 @@ Yearly theme 2021: Structure
 - [[Stardew Valley]]
 - [[Landwirtschaft]]
 - [[Knowledge Management]]
-- [[Modern VPN]]
 - [[Project management]]
 - [[Data Platform]]
 

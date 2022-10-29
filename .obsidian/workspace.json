@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2022-10-28.md",
+                "file": "Orga/Daily/2022-10-29.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f0346fc8fdadb490",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2022-10-28.md",
+                "file": "Orga/Daily/2022-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2022-10-28.md",
+                "file": "Orga/Daily/2022-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2022-10-28.md"
+                "file": "Orga/Daily/2022-10-29.md"
               }
             }
           },
@@ -135,26 +145,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "161514ce03b1d64e",
+  "active": "4c773b1b90bfa0bf",
   "lastOpenFiles": [
-    "__Home__.md",
     "Orga/Daily/2022-10-28.md",
+    "Orga/Daily/2022-10-29.md",
+    "Orga/Daily/2022-10-10.md",
+    "Orga/Daily/2022-10-11.md",
+    "Orga/Daily/2022-10-14.md",
+    "__Home__.md",
     "Untitled.md",
     "Knowledge/Stardew Valley.md",
     "Knowledge/MOC.md",
-    "Knowledge/Knowledge Management.md",
-    "Knowledge/Digital garden.md",
-    "Knowledge/Mind like water.md",
-    "Knowledge/Task management.md",
-    "Knowledge/All topics.md"
+    "Knowledge/Knowledge Management.md"
   ]
 }
