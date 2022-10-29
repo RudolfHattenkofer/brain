@@ -1,0 +1,15 @@
+- Add privacy policy/tos
+   - Same domain?
+- Twilio troubleshooting
+   - Updates to notifications?
+   - \-> Wrong number!
+- Tableau data
+   - Data quality?
+   - \-> Fivetran trial ran out
+   - \-> Recheck after plan is activated
+   - [https://fivetran.com/dashboard/connectors/stripe/stripe_invoices/status?requiredGroup=ninja_reindeer](https://fivetran.com/dashboard/connectors/stripe/stripe_invoices/status?requiredGroup=ninja_reindeer)
+- Email errors
+   - \-> Added error handling
+- Photogs to support email/phone
+- Add on services like special video treatments (15s social media edits or more) - What would be the best way to do this
+

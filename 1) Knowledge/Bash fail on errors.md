@@ -1,0 +1,6 @@
+```other
+set -eo pipefail
+```
+
+
+

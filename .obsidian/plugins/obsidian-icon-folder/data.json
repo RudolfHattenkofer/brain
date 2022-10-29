@@ -5,11 +5,8 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasMoneyBill",
-      "FasBriefcase",
-      "IbHouse",
-      "RiHomeFill",
-      "FarImage"
+      "IbMoneyNote",
+      "FasBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,10 +17,6 @@
       "left": 0
     }
   },
-  "Knowledge": "FasBrain",
-  "Orga": "IbRectangleSmallWithBlocks",
-  "zAssets": "FarImage",
-  "__Home__.md": "IbHouse",
-  "sell & pick": "FasBriefcase",
-  "Geardev": "FasMoneyBill"
+  "1) Knowledge": "FasBrain",
+  "2.1) Geardev": "IbMoneyNote"
 }

@@ -1,0 +1,14 @@
+- Rewe
+- Kaimug
+- Blattsalat
+- Cafe Fanitani -> Fünf Höfe italienisch
+- Pausenhof
+- Popup beim Mini
+- A Domani
+- Cotidiano
+- L'Osteria
+- Brezelina
+- Pfistermühle
+- Café Salvatorplatz
+- Bite Delight
+- Ayinger am Platzl -> Mittagsmenü
