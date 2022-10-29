@@ -1,6 +1,6 @@
 - Manage Goals (goal)
 	- [x] Load -> BHAG, 3HAG, 1HAG
-	- [ ] List
+	- [x] List
 	- [x]  Add
 	- [ ]  Edit
 	- [ ] Delete

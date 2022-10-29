@@ -5,8 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IbMoneyNote",
-      "FasBrain"
+      "IbHouse",
+      "RiOrganizationChart",
+      "FarImage",
+      "RiBriefcaseLine",
+      "FasBriefcase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -18,5 +21,9 @@
     }
   },
   "1) Knowledge": "FasBrain",
-  "2.1) Geardev": "IbMoneyNote"
+  "2.1) Geardev": "IbMoneyNote",
+  "2.2) sell & pick": "RiBriefcaseLine",
+  "3) zAssets": "FarImage",
+  "Orga": "RiOrganizationChart",
+  "__Home__.md": "IbHouse"
 }

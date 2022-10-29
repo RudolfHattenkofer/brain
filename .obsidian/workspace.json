@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38edcec24134dd11",
+        "id": "4171113d05cbbc73",
         "type": "tabs",
         "children": [
           {
-            "id": "161514ce03b1d64e",
+            "id": "9ec5b35b602701f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "161514ce03b1d64e",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
+    "2.1) Geardev/scale up/Zapier concept.md",
+    "3) zAssets/wz2008.pdf",
+    "2.1) Geardev/scale up/ToDo Goals bhag.md",
     "Orga/Daily/2022-10-29.md",
     "Orga/Daily/2022-10-28.md",
     "Orga/Daily/2022-10-10.md",
     "Orga/Daily/2022-10-11.md",
     "Orga/Daily/2022-10-14.md",
     "__Home__.md",
-    "Untitled.md",
-    "Knowledge/Stardew Valley.md",
-    "Knowledge/MOC.md",
-    "Knowledge/Knowledge Management.md"
+    "Untitled.md"
   ]
 }
