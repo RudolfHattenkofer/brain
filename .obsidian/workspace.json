@@ -11,8 +11,12 @@
             "id": "8f9ec4293c2216d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Projects/Zachermühle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orga/Projects/Zachermühle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orga/Projects/Zachermühle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orga/Projects/Zachermühle.md"
+              }
             }
           },
           {
@@ -135,6 +143,8 @@
   },
   "active": "8f9ec4293c2216d8",
   "lastOpenFiles": [
+    "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
+    "Orga/Projects/Zachermühle.md",
     "2.1) Geardev/scale up/ToDo Goals bhag.md",
     "2.1) Geardev/scale up/Zapier concept.md",
     "3) zAssets/wz2008.pdf",
@@ -142,8 +152,6 @@
     "Orga/Daily/2022-10-28.md",
     "Orga/Daily/2022-10-10.md",
     "Orga/Daily/2022-10-11.md",
-    "Orga/Daily/2022-10-14.md",
-    "__Home__.md",
-    "Untitled.md"
+    "Orga/Daily/2022-10-14.md"
   ]
 }

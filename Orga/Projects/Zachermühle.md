@@ -116,3 +116,25 @@ Wir kaufen Grundstück, Preis wird geschenkt
 300 Darlehen, 10 Jahre Zinsfrei
 300 Schenkung
 
+
+## Traktor
+Kubota, John Deere, Fendt
+Hoflader?
+https://traktorpool.de/
+Kubota B1, ...
+
+
+## Video surveillance
+- G4 instant (100€), 2K, IPX5, Wifi
+- G3 Instant (29€), 2K, Wifi
+- G3 Flex (80€), 1080p, IPX4
+- G4 Dome (181€), 2K, IPX4, wired
+- G4 Pro (453€), 4K, IP67, wired, 3x optical zoom
+	- G4 Bullet IR Range (80€) -> 25m
+- Smart Flood Light (100€), IPX5
+
+Idea:
+- 1x G4 Pro for cars
+- 1x G3 Flex (one upstairs, two downstairs)
+- 2x G4 dome outdoors on either side of the house
+- 2x Flood light
