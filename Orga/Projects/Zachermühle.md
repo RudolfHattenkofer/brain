@@ -116,13 +116,11 @@ Wir kaufen Grundstück, Preis wird geschenkt
 300 Darlehen, 10 Jahre Zinsfrei
 300 Schenkung
 
-
 ## Traktor
-Kubota, John Deere, Fendt
+Kubota Bx, John Deere, Fendt, Weidemann "Hoftrac"
 Hoflader?
 https://traktorpool.de/
 Kubota B1, ...
-
 
 ## Video surveillance
 - G4 instant (100€), 2K, IPX5, Wifi
