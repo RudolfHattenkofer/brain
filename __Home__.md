@@ -1,23 +1,17 @@
 Yearly theme 2021: Structure
-
 [[What is my purpose?]]
 
 ## Topics
 [[All topics]]
 [[Tech]] [[Python]] [[BigQuery]]
-[[Recipes index]]
 [[Coffee]] [[Elbgold]] [[Cafe Bla]]
 
 [[Home|sell & pick]]
 [[People]]
 
-[[To Research]]
-
 ## Current
-- [[Stardew Valley]]
+- [[To Research]]
 - [[Landwirtschaft]]
-- [[Knowledge Management]]
-- [[Project management]]
 - [[Data Platform]]
 
 Projects:

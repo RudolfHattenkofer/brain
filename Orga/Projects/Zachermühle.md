@@ -123,6 +123,7 @@ https://traktorpool.de/
 Kubota B1, ...
 
 ## Video surveillance
+Cameras that are available as of 2022-10-30
 - G4 instant (100€), 2K, IPX5, Wifi
 - G3 Instant (29€), 2K, Wifi
 - G3 Flex (80€), 1080p, IPX4

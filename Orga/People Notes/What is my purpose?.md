@@ -6,7 +6,7 @@ Why am I having such a hard time pinning down my job description? -> I am a tech
 
 I want to lead multidisciplinary teams in early stage startups.
 
-This might translate to [[Technical Program Management]]or [[Staff Software Enginer]] at a bigger company.
+This might translate to [[Technical Program Management]] or [[Staff Software Enginer]] at a bigger company.
 
 References:
 [[Being a Generalist]]

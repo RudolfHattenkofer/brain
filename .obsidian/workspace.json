@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Projects/Zachermühle.md",
+                "file": "__Home__.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Projects/Zachermühle.md",
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Projects/Zachermühle.md",
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Projects/Zachermühle.md"
+                "file": "__Home__.md"
               }
             }
           },
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "8f9ec4293c2216d8",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
-    "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
-    "Orga/Projects/Zachermühle.md",
-    "2.1) Geardev/scale up/ToDo Goals bhag.md",
-    "2.1) Geardev/scale up/Zapier concept.md",
-    "3) zAssets/wz2008.pdf",
-    "Orga/Daily/2022-10-29.md",
-    "Orga/Daily/2022-10-28.md",
-    "Orga/Daily/2022-10-10.md",
-    "Orga/Daily/2022-10-11.md",
-    "Orga/Daily/2022-10-14.md"
+    "Orga/People Notes/What is my purpose?.md",
+    "__Home__.md",
+    "Orga/Recipes/Recipes index.md",
+    "Orga/To Research.md",
+    "Orga/Projects/Done/Apartment improvements.md",
+    "Orga/Projects/Security setup.md",
+    "Orga/Projects/Done/Segment centrifuge.md",
+    "Orga/Projects/Done/Slack incident response.md",
+    "Orga/Projects/Done/How Dropbox structures their engineering ladder.md",
+    "Orga/Projects/Zachermühle.md"
   ]
 }
