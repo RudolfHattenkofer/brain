@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4afb7eea3318390f",
+        "id": "0911bc444ed99b80",
         "type": "tabs",
         "children": [
           {
-            "id": "8f9ec4293c2216d8",
+            "id": "350bcf5270f71e57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "bab1adef7337cad3",
+  "active": "350bcf5270f71e57",
   "lastOpenFiles": [
-    "Orga/People Notes/What is my purpose?.md",
+    "1) Knowledge/Tech.md",
+    "1) Knowledge/Project management.md",
     "__Home__.md",
-    "Orga/Recipes/Recipes index.md",
-    "Orga/To Research.md",
-    "Orga/Projects/Done/Apartment improvements.md",
-    "Orga/Projects/Security setup.md",
-    "Orga/Projects/Done/Segment centrifuge.md",
-    "Orga/Projects/Done/Slack incident response.md",
-    "Orga/Projects/Done/How Dropbox structures their engineering ladder.md",
-    "Orga/Projects/Zachermühle.md"
+    "Orga/Projects/Done/Security setup.md",
+    "Orga/Projects/Ausfall Inexio 2022-10-19.md",
+    "Orga/Daily/2022-10-30.md",
+    "Orga/Daily/2022-10-29.md",
+    "Orga/Daily/2022-10-28.md",
+    "Orga/Daily/2022-10-19.md",
+    "Orga/Daily/2022-10-12.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 client: Intern
-date: 2022-10-28
+date: 
 tags: meeting
 ---
 

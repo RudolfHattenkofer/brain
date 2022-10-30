@@ -54,6 +54,7 @@ Vorfall:
 - Per Email Rechnung schicken
 - Wenns wieder geht kommt eine Gutschrift
 
+
 2022-10-20 13:00
 > Lieber Kunde,
 > aktuell gibt es in Ihrem Anschlussgebiet eine Störung.
@@ -71,3 +72,13 @@ Vorfall:
 - Ursprünglich zum 17.10; dauert zum 18.; verschoben zum 26.10.
 - billing@inexio.net für Datenpässe
 - Telekom warten, dann Techniker, dann Rückerstattung
+
+
+2022-10-26 8:30
+> Lieber Kunde,
+> unsere Techniker vor Ort arbeiten weiterhin intensiv und mit höchster Priorität an der Lösung.
+> Nach aktuellem Stand gehen wir davon aus, dass am 03.11.2022 Ihre Dienste wiederhergestellt sind.
+> Um die Störung zu beheben, haben wir folgende Maßnahmen eingeleitet:
+> Wir haben unseren Baupartner mit der Reparatur beauftragt.
+> Vielen Dank
+> Ihr inexio Team

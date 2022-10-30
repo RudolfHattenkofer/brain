@@ -2,7 +2,7 @@
 Other notes:
 ```dataview
 list
-from "sell & pick" and -#meeting and !"sell & pick/Home"
+from "2.2) sell & pick" and -#meeting and !"2.2) sell & pick/Home"
 where length(file.inlinks) =0
 ```
 
@@ -10,7 +10,7 @@ where length(file.inlinks) =0
 Meetings:
 ```dataview
 list
-from #meeting and "sell & pick"
+from #meeting and "2.2) sell & pick"
 sort date desc
 ```
 
