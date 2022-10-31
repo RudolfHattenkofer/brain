@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05398d0ef4a66427",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Orga/Excalidraw/Drawing 2022-10-10 19.59.36.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6429d6bca8a027f7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Orga/Excalidraw/Drawing 2022-10-31 17.39.42.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2022-10-10.md",
+                "file": "Orga/Excalidraw/Drawing 2022-10-31 17.39.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2022-10-10.md",
+                "file": "Orga/Excalidraw/Drawing 2022-10-31 17.39.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2022-10-10.md"
+                "file": "Orga/Excalidraw/Drawing 2022-10-31 17.39.42.excalidraw.md"
               }
             }
           },
@@ -142,17 +162,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "350bcf5270f71e57",
+  "active": "6429d6bca8a027f7",
   "lastOpenFiles": [
+    "Orga/Excalidraw/Drawing 2022-10-10 19.59.36.excalidraw.md",
+    "Orga/Daily/2022-10-10.md",
+    "Orga/Excalidraw/Drawing 2022-10-31 17.39.42.excalidraw.md",
     "__Home__.md",
     "Orga/Projects/Zachermühle.md",
     "1) Knowledge/Tech.md",
     "1) Knowledge/Project management.md",
     "Orga/Projects/Done/Security setup.md",
     "Orga/Projects/Ausfall Inexio 2022-10-19.md",
-    "Orga/Daily/2022-10-30.md",
-    "Orga/Daily/2022-10-29.md",
-    "Orga/Daily/2022-10-28.md",
-    "Orga/Daily/2022-10-19.md"
+    "Orga/Daily/2022-10-30.md"
   ]
 }
