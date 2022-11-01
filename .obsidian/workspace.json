@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "48e842abe450ac0d",
+        "id": "bb64c50f558d9191",
         "type": "tabs",
         "children": [
           {
-            "id": "0209a3a29003442b",
+            "id": "ce16a60d7cb3a750",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga/Daily/2022-11-01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2022-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2022-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Orga/Daily/2022-11-01.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,17 +133,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "0209a3a29003442b",
+  "active": "ce16a60d7cb3a750",
   "lastOpenFiles": [
+    "Orga/Projects/Zachermühle.md",
     "__Home__.md",
+    "Orga/Daily/2022-11-01.md",
     "Orga/Excalidraw/Drawing 2022-10-31 17.39.42.excalidraw.md",
     "Orga/Daily/2022-10-10.md",
     "Orga/Excalidraw/Drawing 2022-10-10 19.59.36.excalidraw.md",
-    "Orga/Projects/Zachermühle.md",
     "1) Knowledge/Tech.md",
     "1) Knowledge/Project management.md",
     "Orga/Projects/Done/Security setup.md",
-    "Orga/Projects/Ausfall Inexio 2022-10-19.md",
-    "Orga/Daily/2022-10-30.md"
+    "Orga/Projects/Ausfall Inexio 2022-10-19.md"
   ]
 }

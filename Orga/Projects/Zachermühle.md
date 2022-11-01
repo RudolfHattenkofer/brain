@@ -75,6 +75,9 @@ Kredite:
 - Thalbacher 25k, 200/m, 1.35%
 - Schlossanger 37k, 450/m, 1.x%
 
+## Finanzierung Vermietung
+Adi & Katrin -> 11€/m2
+
 ## Freigabe
 - Bürgermeister keine Einwände, hat ihm sehr gut gefallen
 - 
