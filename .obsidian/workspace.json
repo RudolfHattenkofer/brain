@@ -11,8 +11,12 @@
             "id": "0209a3a29003442b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Daily/2022-11-01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orga/Daily/2022-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orga/Daily/2022-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orga/Daily/2022-11-01.md"
+              }
             }
           },
           {
@@ -133,12 +141,12 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "bab1adef7337cad3",
+  "active": "0209a3a29003442b",
   "lastOpenFiles": [
+    "__Home__.md",
     "Orga/Excalidraw/Drawing 2022-10-31 17.39.42.excalidraw.md",
     "Orga/Daily/2022-10-10.md",
     "Orga/Excalidraw/Drawing 2022-10-10 19.59.36.excalidraw.md",
-    "__Home__.md",
     "Orga/Projects/Zachermühle.md",
     "1) Knowledge/Tech.md",
     "1) Knowledge/Project management.md",
