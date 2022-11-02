@@ -10,5 +10,4 @@
 
 [[Dispatch DOM events]]
 
-
-
+[[Barcode Scanner Web]]

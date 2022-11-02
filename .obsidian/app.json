@@ -13,6 +13,8 @@
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "insert-template",
+    "editor:move-caret-left",
+    "editor:move-caret-right",
     "editor:indent-list",
     "editor:unindent-list",
     "editor:insert-link",

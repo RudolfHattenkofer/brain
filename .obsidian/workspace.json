@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bb64c50f558d9191",
+        "id": "24f4d8a1cd221aa5",
         "type": "tabs",
         "children": [
           {
-            "id": "ce16a60d7cb3a750",
+            "id": "b4c628341674dbf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Daily/2022-11-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orga/Daily/2022-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orga/Daily/2022-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orga/Daily/2022-11-02.md"
+              }
             }
           },
           {
@@ -133,7 +141,7 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "ce16a60d7cb3a750",
+  "active": "b4c628341674dbf5",
   "lastOpenFiles": [
     "Orga/Projects/Zachermühle.md",
     "__Home__.md",
