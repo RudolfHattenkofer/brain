@@ -1,0 +1,1 @@
+[[Set grayscale in Affinity Designer]]
