@@ -3,3 +3,5 @@
 [[Webdev]]
 
 [[Barcode Scanner Web]]
+
+[[Table solutions for Javascript]]

@@ -1,0 +1,2 @@
+- Notion style editable: https://github.com/archit-p/editable-react-table
+- react-table: https://github.com/TanStack/table

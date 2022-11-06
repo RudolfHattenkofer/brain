@@ -6,7 +6,7 @@ Yearly theme 2021: Structure
 [[Tech]] [[Python]] [[BigQuery]]
 [[Coffee]] [[Elbgold]] [[Cafe Bla]]
 
-[[sell & pick/Home|sell & pick]] [[Geardev/scale up/Home|scale up]]
+[[sell & pick/Home|sell & pick]]
 [[People]]
 
 ## Current
@@ -25,6 +25,6 @@ SORT file.mtime DESC
 Orphans:
 ```dataview
 list
-from "1) Knowledge"
+from "Knowledge"
 where length(file.inlinks) =0 and length(file.tags) = 0
 ```
