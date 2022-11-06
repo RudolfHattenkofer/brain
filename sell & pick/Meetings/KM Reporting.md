@@ -3,7 +3,6 @@ client: Kreitinger Maierhofer
 date: 2022-10-17
 tags: meeting
 ---
-
 __Kontext:__
 - Finanzzahlen aus DATEV auswerten
 	- mit anderen Daten anreichern: Personio, ...

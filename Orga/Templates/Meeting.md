@@ -1,5 +1,4 @@
 ---
-date: 
-tags: meeting
+date: {{date}}
 ---
 

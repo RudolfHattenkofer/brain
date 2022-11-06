@@ -6,5 +6,7 @@
   "obsidian-excalidraw-plugin",
   "url-into-selection",
   "homepage",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-git",
+  "dbfolder"
 ]

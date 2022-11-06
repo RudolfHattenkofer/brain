@@ -6,7 +6,7 @@ Yearly theme 2021: Structure
 [[Tech]] [[Python]] [[BigQuery]]
 [[Coffee]] [[Elbgold]] [[Cafe Bla]]
 
-[[2.2) sell & pick/Home|sell & pick]] [[2.1) Geardev/scale up/Home|scale up]]
+[[sell & pick/Home|sell & pick]] [[Geardev/scale up/Home|scale up]]
 [[People]]
 
 ## Current

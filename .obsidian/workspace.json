@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2022-11-06.md",
-                "mode": "source",
+                "file": "sell & pick/Meetings.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2022-11-06.md",
+                "file": "sell & pick/Meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2022-11-06.md",
+                "file": "sell & pick/Meetings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2022-11-06.md"
+                "file": "sell & pick/Meetings.md"
               }
             }
           },
@@ -143,15 +143,15 @@
   },
   "active": "30e9b31b470c1091",
   "lastOpenFiles": [
-    "__Home__.md",
-    "Projects/Done/Birthday trip 2022.md",
-    "Projects/Untitled.md",
-    "Orga/Daily/2022-11-06.md",
-    "Orga/Daily/2022-11-05.md",
-    "2.1) Geardev/scale up/Scale up Platforms.md",
-    "2.1) Geardev/scale up/Home.md",
-    "Orga/Daily/2022-11-04.md",
-    "Orga/Daily/2022-11-03.md",
-    "1) Knowledge/Tableau Core Lizenz.md"
+    "sell & pick/Lunch Liste.md",
+    "sell & pick/Meetings.md",
+    "Orga/Templates/sell & pick Meeting.md",
+    "sell & pick/Meetings/Tobi Umzug Email.md",
+    "sell & pick/Meetings/George.md",
+    "Orga/Templates/Meeting.md",
+    "Orga/Templates/Meeting note.md",
+    "sell & pick/Meetings/Thalia Schnittstellen.md",
+    "sell & pick/Meetings/KM Reporting.md",
+    "sell & pick/Home.md"
   ]
 }

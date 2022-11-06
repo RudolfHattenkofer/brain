@@ -1,7 +1,6 @@
 ---
 date: 2022-10-20
 client: Thalia Kaffee Fleck
-tags: meeting
 ---
 
 Daniel: SAP / Kasse (SAP Seite)

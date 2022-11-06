@@ -1,4 +1,4 @@
-There are a few different rough categories of [[1) Knowledge/Tea]]:
+There are a few different rough categories of [[Knowledge/Tea]]:
 
 **1	White Tea** – White tea is made from the first buds picked and has a light color.
 

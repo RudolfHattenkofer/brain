@@ -20,11 +20,11 @@
       "left": 0
     }
   },
-  "1) Knowledge": "FasBrain",
-  "2.1) Geardev": "FasMoneyBill",
-  "2.2) sell & pick": "FasBriefcase",
   "Orga": "FasDiagramProject",
   "__Home__.md": "FasHouse",
   "Projects": "FarFolderOpen",
-  "zAssets": "FarImage"
+  "zAssets": "FarImage",
+  "Geardev": "FasMoneyBill",
+  "sell & pick": "FasBriefcase",
+  "Knowledge": "FasBrain"
 }
