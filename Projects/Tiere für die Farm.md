@@ -1,0 +1,3 @@
+- Highland Cow
+- Walisische Schafe
+- Alpacas

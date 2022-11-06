@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHouse",
+      "FarFolderOpen",
+      "RiTodoFill",
       "FasDiagramProject",
-      "FasBriefcase",
-      "FasMoneyBill",
-      "IbHouse",
-      "RiOrganizationChart"
+      "FasBriefcase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,7 +23,8 @@
   "1) Knowledge": "FasBrain",
   "2.1) Geardev": "FasMoneyBill",
   "2.2) sell & pick": "FasBriefcase",
-  "3) zAssets": "FarImage",
   "Orga": "FasDiagramProject",
-  "__Home__.md": "IbHouse"
+  "__Home__.md": "FasHouse",
+  "Projects": "FarFolderOpen",
+  "zAssets": "FarImage"
 }

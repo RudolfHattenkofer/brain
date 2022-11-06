@@ -4,4 +4,4 @@ Fermented El Pino - 8.5
 Monte Alegre 6.45 Adaptive
 Bombe - 6.45
 Neunbar - 6.55
-Araku - 6.4@19
+Araku - 6.4@18.5
