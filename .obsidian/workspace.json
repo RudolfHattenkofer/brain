@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b89da7ef4860c61",
+        "id": "674c67c351d02be3",
         "type": "tabs",
         "children": [
           {
-            "id": "a27f394122144704",
+            "id": "5a47627af315d12b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sell & pick/Meetings/Neumann.md",
+                "file": "__Home__.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sell & pick/Meetings/Neumann.md",
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sell & pick/Meetings/Neumann.md",
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sell & pick/Meetings/Neumann.md"
+                "file": "__Home__.md"
               }
             }
           },
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "a27f394122144704",
+  "active": "5a47627af315d12b",
   "lastOpenFiles": [
+    "Knowledge/Buddy System.md",
+    "__Home__.md",
     "sell & pick/Meetings.md",
     "sell & pick/Home.md",
     "Orga/Templates/Meeting.md",
-    "__Home__.md",
     "Knowledge/Python.md",
     "Geardev/scale up/Scale up Platforms.md",
     "Orga/Daily/2022-11-06.md",
     "Knowledge/Javascript.md",
-    "Knowledge/Table solutions for Javascript.md",
-    "Knowledge/Coffee.md"
+    "Knowledge/Table solutions for Javascript.md"
   ]
 }
