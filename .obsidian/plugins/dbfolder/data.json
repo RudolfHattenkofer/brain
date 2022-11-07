@@ -28,7 +28,7 @@
     "source_form_result": "root",
     "source_destination_path": "/",
     "frontmatter_quote_wrap": false,
-    "row_templates_folder": "/",
+    "row_templates_folder": "Orga/Templates",
     "current_row_template": "",
     "pagination_size": 10,
     "enable_js_formulas": false,
