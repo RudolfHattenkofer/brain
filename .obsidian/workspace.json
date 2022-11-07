@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff73285f803925c4",
+        "id": "974f79034ae5f52b",
         "type": "tabs",
         "children": [
           {
-            "id": "8847f2fa2bfdc482",
+            "id": "2dfd3b8ca25163e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Regex in Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Regex in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Regex in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Knowledge/Regex in Python.md"
               }
             }
           },
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "8847f2fa2bfdc482",
+  "active": "2dfd3b8ca25163e3",
   "lastOpenFiles": [
+    "Knowledge/Python.md",
+    "__Home__.md",
     "Geardev/scale up/Scale up Platforms.md",
     "Orga/Daily/2022-11-06.md",
     "Knowledge/Javascript.md",
     "Knowledge/Table solutions for Javascript.md",
-    "__Home__.md",
     "Knowledge/Coffee.md",
     "Geardev/scale up/Home.md",
     "Geardev/scale up/First intro.md",
-    "Geardev/scale up/Codebase.md",
-    "Geardev/scale up/Arbeitspaket 1 - Integrationen Make + Zapier.md"
+    "Geardev/scale up/Codebase.md"
   ]
 }

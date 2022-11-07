@@ -15,7 +15,6 @@ import regex as re
 
 p = re.compile('test')
 p.search('test_string')
-# -> 'new_text_string'
 ```
 
 
