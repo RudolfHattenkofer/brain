@@ -99,7 +99,7 @@ config:
   source_destination_path: sell & pick/Meetings
   frontmatter_quote_wrap: false
   row_templates_folder: /
-  current_row_template: 
+  current_row_template: sell & pick/Meetings/George.md
   pagination_size: 10
   enable_js_formulas: false
   formula_folder_path: /

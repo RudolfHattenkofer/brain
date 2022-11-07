@@ -1,4 +1,4 @@
 
-[[Meeting]]
+[[Meetings]]
 [[Lunch Liste]]
 [[Core values]]
