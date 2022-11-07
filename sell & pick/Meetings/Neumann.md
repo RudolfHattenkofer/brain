@@ -11,4 +11,8 @@ tags: meeting
 - TCPOS Version 7.1.6
 - BI
 	- Schulung mit PowerBI
-	- KumoAPI
+- KumoAPI
+		- Verschlüsselung am Load balancer
+		- Authentifizierung durch LB
+		- https://kemptechnologies.com/ -> Load balancer
+		- 
