@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9693a6525eae7b8a",
+        "id": "ff73285f803925c4",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f00804a043b438",
+            "id": "8847f2fa2bfdc482",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,7 +141,7 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "f7f00804a043b438",
+  "active": "8847f2fa2bfdc482",
   "lastOpenFiles": [
     "Geardev/scale up/Scale up Platforms.md",
     "Orga/Daily/2022-11-06.md",
