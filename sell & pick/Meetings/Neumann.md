@@ -8,4 +8,7 @@ tags: meeting
 - TCPOS zu viel angepasst, modelliert, etc
 	- Viele Plugins
 - Tagesexport auf jeden Fall ok, erstmal Top-to-Bottom
-- 
+- TCPOS Version 7.1.6
+- BI
+	- Schulung mit PowerBI
+	- KumoAPI
