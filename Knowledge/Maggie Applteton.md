@@ -2,8 +2,6 @@
 
 Author, active in the fields of [[Knowledge Management]] and [[Software engineering]].
 
-#research 
-
 - https://maggieappleton.com/programmatic-notes
 - https://maggieappleton.com/block-data
 - https://maggieappleton.com/basb

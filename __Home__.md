@@ -7,6 +7,7 @@ Yearly theme 2021: Structure
 [[Coffee]] [[Elbgold]] [[Cafe Bla]]
 
 [[sell & pick/Home|sell & pick]]
+
 [[People]]
 
 ## Current
@@ -28,3 +29,13 @@ list
 from "Knowledge"
 where length(file.inlinks) =0 and length(file.tags) = 0
 ```
+
+
+
+Buttons:
+```button
+name New meeting
+type note(Meeting, split) template
+action "Orga/Templates/sell & pick Meeting" Template
+```
+^ button-create-sp-meeting
