@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d40a62fc8f6a5e87",
+        "id": "e41bf58a9a166e94",
         "type": "tabs",
         "children": [
           {
-            "id": "b871d5f57431b5b0",
+            "id": "a70f5e5b01a38aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Dronen in der Landwirtschaft.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Dronen in der Landwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Dronen in der Landwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Knowledge/Dronen in der Landwirtschaft.md"
               }
             }
           },
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "b871d5f57431b5b0",
+  "active": "a70f5e5b01a38aa7",
   "lastOpenFiles": [
-    "Knowledge/Buddy System.md",
+    "Knowledge/Landwirtschaft.md",
     "__Home__.md",
+    "Knowledge/Buddy System.md",
     "sell & pick/Meetings.md",
     "sell & pick/Home.md",
     "Orga/Templates/Meeting.md",
     "Knowledge/Python.md",
     "Geardev/scale up/Scale up Platforms.md",
     "Orga/Daily/2022-11-06.md",
-    "Knowledge/Javascript.md",
-    "Knowledge/Table solutions for Javascript.md"
+    "Knowledge/Javascript.md"
   ]
 }

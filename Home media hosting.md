@@ -1,0 +1,5 @@
+- [[Plex]]
+- Jellyfin
+- Emby
+
+#research 
