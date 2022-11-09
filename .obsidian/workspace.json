@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Dronen in der Landwirtschaft.md",
+                "file": "Orga/Daily/2022-11-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Dronen in der Landwirtschaft.md",
+                "file": "Orga/Daily/2022-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Dronen in der Landwirtschaft.md",
+                "file": "Orga/Daily/2022-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Dronen in der Landwirtschaft.md"
+                "file": "Orga/Daily/2022-11-09.md"
               }
             }
           },
@@ -143,6 +143,7 @@
   },
   "active": "a70f5e5b01a38aa7",
   "lastOpenFiles": [
+    "Knowledge/Dronen in der Landwirtschaft.md",
     "Knowledge/Landwirtschaft.md",
     "__Home__.md",
     "Knowledge/Buddy System.md",
@@ -151,7 +152,6 @@
     "Orga/Templates/Meeting.md",
     "Knowledge/Python.md",
     "Geardev/scale up/Scale up Platforms.md",
-    "Orga/Daily/2022-11-06.md",
-    "Knowledge/Javascript.md"
+    "Orga/Daily/2022-11-06.md"
   ]
 }
