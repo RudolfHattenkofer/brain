@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Buderus.md",
+                "file": "Knowledge/Plex.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Buderus.md",
+                "file": "Knowledge/Plex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Buderus.md",
+                "file": "Knowledge/Plex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Buderus.md"
+                "file": "Knowledge/Plex.md"
               }
             }
           },
@@ -144,6 +144,7 @@
   },
   "active": "a70f5e5b01a38aa7",
   "lastOpenFiles": [
+    "Knowledge/Buderus.md",
     "Projects/Zachermühle.md",
     "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
     "Orga/Daily/2022-11-09.md",
@@ -152,7 +153,6 @@
     "__Home__.md",
     "Knowledge/Buddy System.md",
     "sell & pick/Meetings.md",
-    "sell & pick/Home.md",
-    "Orga/Templates/Meeting.md"
+    "sell & pick/Home.md"
   ]
 }
