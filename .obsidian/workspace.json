@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2022-11-09.md",
+                "file": "Knowledge/Buderus.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "checkout sess",
+                "query": "Verbrauch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2022-11-09.md",
+                "file": "Knowledge/Buderus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2022-11-09.md",
+                "file": "Knowledge/Buderus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2022-11-09.md"
+                "file": "Knowledge/Buderus.md"
               }
             }
           },
@@ -143,15 +144,15 @@
   },
   "active": "a70f5e5b01a38aa7",
   "lastOpenFiles": [
+    "Projects/Zachermühle.md",
+    "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
+    "Orga/Daily/2022-11-09.md",
     "Knowledge/Dronen in der Landwirtschaft.md",
     "Knowledge/Landwirtschaft.md",
     "__Home__.md",
     "Knowledge/Buddy System.md",
     "sell & pick/Meetings.md",
     "sell & pick/Home.md",
-    "Orga/Templates/Meeting.md",
-    "Knowledge/Python.md",
-    "Geardev/scale up/Scale up Platforms.md",
-    "Orga/Daily/2022-11-06.md"
+    "Orga/Templates/Meeting.md"
   ]
 }
