@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e41bf58a9a166e94",
+        "id": "557aa406ae51248a",
         "type": "tabs",
         "children": [
           {
-            "id": "a70f5e5b01a38aa7",
+            "id": "c11405de93817f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Plex.md",
+                "file": "Orga/Daily/2022-11-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Plex.md",
+                "file": "Orga/Daily/2022-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Plex.md",
+                "file": "Orga/Daily/2022-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Plex.md"
+                "file": "Orga/Daily/2022-11-09.md"
               }
             }
           },
@@ -142,17 +142,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "a70f5e5b01a38aa7",
+  "active": "c11405de93817f8d",
   "lastOpenFiles": [
+    "Knowledge/Plex.md",
+    "__Home__.md",
     "Knowledge/Buderus.md",
     "Projects/Zachermühle.md",
     "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
     "Orga/Daily/2022-11-09.md",
     "Knowledge/Dronen in der Landwirtschaft.md",
     "Knowledge/Landwirtschaft.md",
-    "__Home__.md",
     "Knowledge/Buddy System.md",
-    "sell & pick/Meetings.md",
-    "sell & pick/Home.md"
+    "sell & pick/Meetings.md"
   ]
 }
