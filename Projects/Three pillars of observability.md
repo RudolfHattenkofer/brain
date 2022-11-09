@@ -8,5 +8,5 @@ Only combined do they form the basis for a performant and observable Distributed
 
 
 
-- 
+- [](https://cloud.google.com/blog/products/api-management/3-best-practices-to-monitor-apis-using-google-cloud/)
 
