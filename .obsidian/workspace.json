@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5b4245518ad9744",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2022-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2022-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Orga/Daily/2022-11-10.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,11 +146,11 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "7a2f9a67a9340a97",
+  "active": "e5b4245518ad9744",
   "lastOpenFiles": [
+    "Orga/Daily/2022-11-10.md",
     "__Home__.md",
     "Knowledge/Tableau Core Lizenz.md",
-    "Orga/Daily/2022-11-10.md",
     "Johnny Decimal.md",
     "Knowledge/Knowledge Management.md",
     "Knowledge management on a large canvas.md",
