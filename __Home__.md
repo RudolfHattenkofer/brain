@@ -35,7 +35,7 @@ where length(file.inlinks) =0 and length(file.tags) = 0
 Buttons:
 ```button
 name New Meeting
-type note(Meeting, split) note
-action Orga/Templates/sell & pick Meeting
+type note
+action "Orga/Templates/sell & pick Meeting"
 ```
 ^ button-create-sp-meeting
