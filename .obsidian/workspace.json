@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6885bca7fde495a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Daily/2022-11-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fccf44ffb86792e0",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,17 +167,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "c11405de93817f8d",
+  "active": "6885bca7fde495a2",
   "lastOpenFiles": [
+    "Johnny Decimal.md",
+    "Knowledge/Knowledge Management.md",
+    "Knowledge management on a large canvas.md",
+    "Orga/Daily/2022-11-10.md",
     "Orga/Daily/2022-11-09.md",
     "Orga/Daily/2022-11-08.md",
     "Knowledge/Bash for each file in a folder.md",
     "Knowledge/Bash.md",
     "Knowledge/Plex.md",
-    "__Home__.md",
-    "Knowledge/Buderus.md",
-    "Projects/Zachermühle.md",
-    "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
-    "Knowledge/Dronen in der Landwirtschaft.md"
+    "__Home__.md"
   ]
 }
