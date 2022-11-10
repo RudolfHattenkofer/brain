@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Orga/Daily/2022-11-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Orga/Daily/2022-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Orga/Daily/2022-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Orga/Daily/2022-11-10.md"
               }
             }
           },
@@ -143,6 +143,7 @@
   },
   "active": "7a2f9a67a9340a97",
   "lastOpenFiles": [
+    "__Home__.md",
     "Knowledge/Tableau Core Lizenz.md",
     "Orga/Daily/2022-11-10.md",
     "Johnny Decimal.md",
@@ -151,7 +152,6 @@
     "Orga/Daily/2022-11-09.md",
     "Orga/Daily/2022-11-08.md",
     "Knowledge/Bash for each file in a folder.md",
-    "Knowledge/Bash.md",
-    "Knowledge/Plex.md"
+    "Knowledge/Bash.md"
   ]
 }
