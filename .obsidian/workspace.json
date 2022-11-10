@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,7 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "6885bca7fde495a2",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
     "Johnny Decimal.md",
     "Knowledge/Knowledge Management.md",
