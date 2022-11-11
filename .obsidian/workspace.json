@@ -8,27 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a2f9a67a9340a97",
+            "id": "f9b440f78360a0c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2022-11-10.md",
+                "file": "Erstgespräch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5b4245518ad9744",
+            "id": "4f303ad6a8822973",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Mermaid.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Erstgespräch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Erstgespräch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Erstgespräch.md"
+              }
             }
           },
           {
@@ -144,19 +152,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
-  "active": "e5b4245518ad9744",
+  "active": "f9b440f78360a0c5",
   "lastOpenFiles": [
+    "Knowledge/Mermaid.md",
+    "Erstgespräch.md",
     "Orga/Daily/2022-11-10.md",
+    "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
+    "Projects/Zachermühle.md",
     "__Home__.md",
     "Knowledge/Tableau Core Lizenz.md",
     "Johnny Decimal.md",
     "Knowledge/Knowledge Management.md",
-    "Knowledge management on a large canvas.md",
-    "Orga/Daily/2022-11-09.md",
-    "Orga/Daily/2022-11-08.md",
-    "Knowledge/Bash for each file in a folder.md",
-    "Knowledge/Bash.md"
+    "Knowledge management on a large canvas.md"
   ]
 }
