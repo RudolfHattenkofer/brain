@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9b440f78360a0c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Erstgespräch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4f303ad6a8822973",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Mermaid.md",
+                "file": "Orga/Daily/2022-11-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Verbrauch",
+                "query": "zlib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Erstgespräch.md",
+                "file": "Orga/Daily/2022-11-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Erstgespräch.md",
+                "file": "Orga/Daily/2022-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Erstgespräch.md"
+                "file": "Orga/Daily/2022-11-12.md"
               }
             }
           },
@@ -152,20 +140,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
-  "active": "f9b440f78360a0c5",
+  "active": "021b48435ddd97aa",
   "lastOpenFiles": [
+    "Orga/Daily/2022-11-11.md",
+    "Orga/Daily/2022-11-10.md",
+    "Orga/Daily/2022-11-12.md",
     "Knowledge/Mermaid.md",
     "Erstgespräch.md",
-    "Orga/Daily/2022-11-10.md",
+    "__Home__.md",
     "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
     "Projects/Zachermühle.md",
-    "__Home__.md",
     "Knowledge/Tableau Core Lizenz.md",
-    "Johnny Decimal.md",
-    "Knowledge/Knowledge Management.md",
-    "Knowledge management on a large canvas.md"
+    "Johnny Decimal.md"
   ]
 }
