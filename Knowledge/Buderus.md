@@ -1,4 +1,6 @@
+Anbieter von Systemlösungen zur [[Solarthermie und Photovoltaik]].
 https://www.buderus.de/de
+Gehört zum Bosch Konzern.
 
 Werden gefördert von [BEG](https://www.buderus.de/de/beg)
 
@@ -15,12 +17,4 @@ Besteht aus:
 
 
 ## Photovoltaik
-Grobe Richtwerte:
-
-* 1kWp -> 1000 kWh pro Jahr
-	* M+R etwa 3500 kWh pro Jahr
-	* Eltern 15 000 kWh pro Jahr (Heizung mit Wärmepumpe)
-* Panel + Wechselrichter = 1k€ für 1kWp
-	* Etwa 15kWp benötigt -> 15k€
-* Batterie: 1000€ pro kWh
-	* Etwa die Hälfte des Tagesenergieverbrauchs als Speicher -> 10kWh -> 10k€
+Bieten sie nicht an, jedoch andere Tochterfirmen von Bosch.
