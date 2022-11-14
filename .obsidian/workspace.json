@@ -28,9 +28,21 @@
                 "file": "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "46813f9c02b1b27d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Buderus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
+                "file": "Knowledge/Buderus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
+                "file": "Knowledge/Buderus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md"
+                "file": "Knowledge/Buderus.md"
               }
             }
           },
@@ -153,7 +165,7 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "49c5aeaecece1c52",
+  "active": "46813f9c02b1b27d",
   "lastOpenFiles": [
     "Projects/Zachermühle.md",
     "__Home__.md",
