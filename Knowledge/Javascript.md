@@ -12,3 +12,5 @@
 - https://preactjs.com/
 - Elm (complies to JS)
 - https://svelte.dev/
+
+#research 

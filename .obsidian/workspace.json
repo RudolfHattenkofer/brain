@@ -11,17 +11,21 @@
             "id": "88646439ecd6c482",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Daily/2022-11-15.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "d7cb6c9c23ae0a36",
+            "id": "7194ddc488b086a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Javascript.md",
+                "file": "__Home__.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Javascript.md",
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Javascript.md",
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Javascript.md"
+                "file": "__Home__.md"
               }
             }
           },
@@ -151,17 +155,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "d7cb6c9c23ae0a36",
+  "active": "7194ddc488b086a0",
   "lastOpenFiles": [
-    "Knowledge/Webdev.md",
+    "Orga/Daily/2022-11-15.md",
     "Knowledge/Javascript.md",
+    "Knowledge/Webdev.md",
     "__Home__.md",
     "Knowledge/BigQuery deduplication.md",
     "Orga/Daily/2022-11-12.md",
     "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
     "Knowledge/Buderus.md",
     "Solarthermie und Photovoltaik.md",
-    "Projects/Zachermühle.md",
-    "Untitled.md"
+    "Projects/Zachermühle.md"
   ]
 }
