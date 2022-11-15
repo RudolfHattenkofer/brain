@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Knowledge/Javascript.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "7194ddc488b086a0",
   "lastOpenFiles": [
+    "__Home__.md",
     "Orga/Daily/2022-11-15.md",
     "Knowledge/Javascript.md",
     "Knowledge/Webdev.md",
-    "__Home__.md",
     "Knowledge/BigQuery deduplication.md",
     "Orga/Daily/2022-11-12.md",
     "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
