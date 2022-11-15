@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zlib",
+                "query": "qualify",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,15 +136,15 @@
   },
   "active": "88646439ecd6c482",
   "lastOpenFiles": [
+    "Knowledge/BigQuery deduplication.md",
+    "__Home__.md",
     "Orga/Daily/2022-11-12.md",
     "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
     "Knowledge/Buderus.md",
     "Solarthermie und Photovoltaik.md",
     "Projects/Zachermühle.md",
-    "__Home__.md",
     "Untitled.md",
     "Orga/Daily/2022-11-11.md",
-    "Orga/Daily/2022-11-10.md",
-    "Knowledge/Mermaid.md"
+    "Orga/Daily/2022-11-10.md"
   ]
 }
