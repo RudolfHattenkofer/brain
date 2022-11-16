@@ -7,7 +7,7 @@
 
 
 Languages:
-[[Javascript]]
+[[Javascript]] [[Typescript]]
 [[Python]]
 [[Elixir]]
 [[Ruby]]

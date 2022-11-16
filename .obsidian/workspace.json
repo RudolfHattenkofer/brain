@@ -25,38 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Knowledge/Software engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6188b81c90b0eab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Knowledge/Javascript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d4ff20d188e0da1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga/Daily/2022-11-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d734ae27c8b13a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga/Daily/2022-11-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2022-11-16.md",
+                "file": "Knowledge/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2022-11-16.md",
+                "file": "Knowledge/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2022-11-16.md"
+                "file": "Knowledge/Javascript.md"
               }
             }
           },
@@ -172,24 +160,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "1d734ae27c8b13a5",
+  "active": "6188b81c90b0eab7",
   "lastOpenFiles": [
+    "Typescript.md",
+    "Knowledge/Software engineering.md",
+    "Knowledge/Javascript.md",
+    "Orga/Daily/2022-11-16.md",
     "__Home__.md",
     "Orga/Daily/2022-11-15.md",
-    "Knowledge/Javascript.md",
     "Knowledge/Webdev.md",
     "Knowledge/BigQuery deduplication.md",
     "Orga/Daily/2022-11-12.md",
-    "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
-    "Knowledge/Buderus.md",
-    "Solarthermie und Photovoltaik.md",
-    "Projects/Zachermühle.md"
+    "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md"
   ]
 }
