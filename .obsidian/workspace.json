@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "607ec06d070cc0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Daily/2022-11-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6188b81c90b0eab7",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Python.md",
+                "file": "Orga/Daily/2022-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Python.md",
+                "file": "Orga/Daily/2022-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Python.md"
+                "file": "Orga/Daily/2022-11-16.md"
               }
             }
           },
@@ -153,14 +166,14 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "7194ddc488b086a0",
+  "active": "607ec06d070cc0d2",
   "lastOpenFiles": [
+    "__Home__.md",
     "Knowledge/Software engineering.md",
     "Orga/Daily/2022-11-15.md",
     "Knowledge/Javascript.md",
     "Typescript.md",
     "Orga/Daily/2022-11-16.md",
-    "__Home__.md",
     "Knowledge/Webdev.md",
     "Knowledge/BigQuery deduplication.md",
     "Orga/Daily/2022-11-12.md",
