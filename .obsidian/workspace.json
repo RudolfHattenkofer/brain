@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b142c158ff61c990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Python.md",
+                "file": "SvelteKit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Python.md",
+                "file": "SvelteKit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Python.md"
+                "file": "SvelteKit.md"
               }
             }
           },
@@ -154,12 +141,12 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "b142c158ff61c990",
+  "active": "4aeaf9e89fa84179",
   "lastOpenFiles": [
+    "Knowledge/Python.md",
     "Django.md",
     "SvelteKit.md",
     "Knowledge/Javascript.md",
-    "Knowledge/Python.md",
     "Orga/Daily/2022-11-16.md",
     "__Home__.md",
     "Knowledge/Software engineering.md",
