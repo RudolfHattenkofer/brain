@@ -14,5 +14,11 @@
 - https://preactjs.com/
 - Elm (complies to JS)
 - https://svelte.dev/
+	- Svelte UI
+	- Svelte Headless UI
+	- Attractions
+	- Smelte (Tailwind)
+	- Sveltestrap (Bootstrap)
+	- 
 
 #research 
