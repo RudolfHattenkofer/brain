@@ -6,7 +6,7 @@ UI Frameworks ([reference](https://madewithsvelte.com/ui-library)):
 - Svelte UI
 - [Svelte Headless UI](https://svelte-headlessui.goss.io/docs)
 - [Svelte Material UI](https://sveltematerialui.com/)
-- Attractions
+- [Attractions](https://illright.github.io/attractions//docs/components/button)
 - Smelte (Tailwind)
 - Sveltestrap (Bootstrap)
 
