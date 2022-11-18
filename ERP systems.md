@@ -1,0 +1,10 @@
+- Sage X3
+	- https://www.sage.com/de-de/sage-business-cloud/sage-x3/industrie/dienstleistungen/
+- Odoo
+- Oracle Netsuite
+- Salesforce
+- Microsoft Dynamics 365
+- SYSPRO
+- Sage Business Cloud
+- https://www.zoho.com/
+- https://erpnext.com/
