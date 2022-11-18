@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Svelte & SvelteKit.md",
+                "file": "Geardev/LMU/Erstgespräch.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Svelte & SvelteKit.md",
+                "file": "Geardev/LMU/Erstgespräch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Svelte & SvelteKit.md",
+                "file": "Geardev/LMU/Erstgespräch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Svelte & SvelteKit.md"
+                "file": "Geardev/LMU/Erstgespräch.md"
               }
             }
           },
@@ -159,7 +159,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,15 +168,15 @@
   },
   "active": "fbc99bb25fdfeb7b",
   "lastOpenFiles": [
-    "Knowledge/Javascript.md",
-    "__Home__.md",
-    "Solarthermie und Photovoltaik.md",
-    "Knowledge/Svelte & SvelteKit.md",
     "Orga/Daily/2022-11-10.md",
+    "__Home__.md",
+    "Geardev/LMU/Erstgespräch.md",
+    "Knowledge/Svelte & SvelteKit.md",
+    "Knowledge/Javascript.md",
+    "Solarthermie und Photovoltaik.md",
     "Seating arrangement at a table.md",
     "Online learning solutions.md",
     "Knowledge management on a large canvas.md",
-    "Coffee machine electricity consumption.md",
-    "Knowledge/Django.md"
+    "Coffee machine electricity consumption.md"
   ]
 }
