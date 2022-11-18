@@ -10,7 +10,7 @@
 5) Blog, Landingpage etc
 
 ### Referenz / Konzept
-- Konzept in Proto.io
+- Konzept in [Figma](https://www.figma.com/file/7jJq6KePXijWk5JNdPjny6/SRN!?node-id=0%3A1)
 - Jupyter Notebook
 - Streamlit App
 

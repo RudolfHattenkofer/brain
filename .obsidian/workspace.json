@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d81cff05dd077763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Home__.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "93f5f00c63f7c9a8",
             "type": "leaf",
             "state": {
@@ -168,10 +180,10 @@
   },
   "active": "fbc99bb25fdfeb7b",
   "lastOpenFiles": [
-    "Orga/Daily/2022-11-10.md",
-    "__Home__.md",
-    "Geardev/LMU/Erstgespräch.md",
     "Knowledge/Svelte & SvelteKit.md",
+    "Geardev/LMU/Erstgespräch.md",
+    "__Home__.md",
+    "Orga/Daily/2022-11-10.md",
     "Knowledge/Javascript.md",
     "Solarthermie und Photovoltaik.md",
     "Seating arrangement at a table.md",
