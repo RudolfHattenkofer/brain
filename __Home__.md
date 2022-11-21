@@ -42,8 +42,8 @@ action Meeting
 
 
 ```button
-name Log
-type note(Meeting)
-action Hourly Log Template Note
+name To the Forum Batman!
+type link
+action https://forum.obsidian.md/
 ```
 ^button-forum

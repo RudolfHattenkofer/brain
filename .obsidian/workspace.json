@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58882dfaa10bfb79",
+        "id": "a66b54f50318da99",
         "type": "tabs",
         "children": [
           {
-            "id": "4975835e8331970f",
+            "id": "d474842a8b08de60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,7 +141,7 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "4975835e8331970f",
+  "active": "d474842a8b08de60",
   "lastOpenFiles": [
     "__Home__.md",
     "Knowledge/Svelte & SvelteKit.md",
