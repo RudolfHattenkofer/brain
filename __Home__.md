@@ -7,7 +7,18 @@ Yearly theme 2021: Structure
 [[Coffee]] [[Elbgold]] [[Cafe Bla]]
 
 [[sell & pick/Home|sell & pick]]
-
+```button
+name New Meeting
+type note(<% tp.date.now("YYYY-MM-DD HH-MM") %>) template
+action Meeting
+templater True
+```
+```button
+name New s&p Meeting
+type note(<% tp.date.now("YYYY-MM-DD HH-MM") %>) template
+action sell & pick Meeting
+templater True
+```
 
 [[People]]
 
@@ -34,18 +45,8 @@ where length(file.inlinks) =0 and length(file.tags) = 0
 
 
 Buttons:
-```button
-name Meeting
-type note(<% tp.date.now("YYYY-MM-DD HH-MM") %>) template
-action Meeting
-templater True
-```
-^button-meeting-general
 
-```button
-name s&p
-type note(<% tp.date.now("YYYY-MM-DD HH-MM") %>) template
-action sell & pick Meeting
-templater True
-```
-^button-meeting-sp
+^button-general
+
+
+^button-sp

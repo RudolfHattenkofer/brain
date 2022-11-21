@@ -34,6 +34,7 @@ Book: How to take smart notes
 - [[Coda]]
 - [Logseq](https://logseq.com/#)
 
+[[Knowledge management on a large canvas]]
 [[Comparison of note taking apps]]
 
 **Archive**

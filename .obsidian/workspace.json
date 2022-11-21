@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Knowledge/Was ist ein KFW 40 oder Passivhaus.md"
               }
             }
           },
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "7b2d8d2b56d0369f",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
-    "__Home__.md",
-    "sell & pick/Meetings/2022-11-21 13-11.md",
-    "2022-11-21 13-11.md",
+    "Knowledge/Construction.md",
+    "Knowledge/Solarthermie und Photovoltaik.md",
+    "Seating arrangement at a table.md",
+    "Online learning solutions.md",
     "Meeting.md",
-    "Coffee machine electricity consumption.md",
-    "Orga/Templates/Meeting.md",
-    "Orga/Templates/sell & pick Meeting.md",
-    "Orga/Protocols/Set up new Mac.md",
-    "Meeting-10-11.md",
-    "Meeting-<%tp.date.now(\"HH-MM\".md"
+    "Knowledge/Home media hosting.md",
+    "Buddy System.md",
+    "Projects/ERP systems.md",
+    "Projects/Coffee machine electricity consumption.md",
+    "Knowledge/Knowledge Management.md"
   ]
 }
