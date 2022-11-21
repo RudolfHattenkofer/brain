@@ -38,4 +38,3 @@ name New Meeting 2
 type note(Meeting 2, split) note
 action Meeting
 ```
-^ button-create-sp-meeting
