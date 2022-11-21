@@ -34,7 +34,16 @@ where length(file.inlinks) =0 and length(file.tags) = 0
 
 Buttons:
 ```button
-name New Meeting 2
-type note(Meeting 2, split) note
+name New Meeting
+type note(Meeting, split) note
 action Meeting
 ```
+
+
+
+```button
+name Log
+type note(Meeting)
+action Hourly Log Template Note
+```
+^button-forum

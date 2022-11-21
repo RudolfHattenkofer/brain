@@ -11,14 +11,6 @@
             "id": "4975835e8331970f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "07704993c03f6823",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "__Home__.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,14 +141,14 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "07704993c03f6823",
+  "active": "4975835e8331970f",
   "lastOpenFiles": [
+    "__Home__.md",
     "Knowledge/Svelte & SvelteKit.md",
     "Geardev/LMU/Erstgespräch.md",
     "Orga/Daily/2022-11-16.md",
     "Orga/Daily/2022-11-18.md",
     "Orga/Daily/2022-11-19.md",
-    "__Home__.md",
     "Solarthermie und Photovoltaik.md",
     "Orga/Daily/2022-11-05.md",
     "Orga/Daily/2022-11-06.md",
