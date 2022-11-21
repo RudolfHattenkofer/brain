@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d474842a8b08de60",
+            "id": "f8b8e7eb6785ef14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "d474842a8b08de60",
+  "active": "f8b8e7eb6785ef14",
   "lastOpenFiles": [
-    "Meeting-<%tp.date.now(\"HH-MM\".md",
+    "Meeting-10-11.md",
     "__Home__.md",
-    "Meeting 1werfd.md",
     "Meeting.md",
+    "Orga/Templates/Meeting.md",
+    "Orga/Templates/sell & pick Meeting.md",
+    "Meeting-<%tp.date.now(\"HH-MM\".md",
+    "Meeting 1werfd.md",
     "Knowledge/Svelte & SvelteKit.md",
     "Geardev/LMU/Erstgespräch.md",
-    "Orga/Daily/2022-11-16.md",
-    "Orga/Daily/2022-11-18.md",
-    "Orga/Daily/2022-11-19.md",
-    "Solarthermie und Photovoltaik.md"
+    "Orga/Daily/2022-11-16.md"
   ]
 }

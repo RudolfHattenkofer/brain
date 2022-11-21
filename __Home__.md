@@ -34,17 +34,8 @@ where length(file.inlinks) =0 and length(file.tags) = 0
 
 Buttons:
 ```button
-name New Meeting
-type note(Meeting-<%tp.date.now("HH-MM") %>) template
+name Meeting
+type note(Meeting-2022-11-21 10:11) template
 action Meeting
 templater True
 ```
-
-
-
-```button
-name To the Forum Batman!
-type link
-action https://forum.obsidian.md/
-```
-^button-forum
