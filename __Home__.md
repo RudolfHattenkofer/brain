@@ -35,16 +35,16 @@ where length(file.inlinks) =0 and length(file.tags) = 0
 Buttons:
 ```button
 name Meseting
-type note(<% tp.date.now("YYYY-MM-DD HH:MM") %>) template
+type note(<% tp.date.now("YYYY-MM-DD HH-MM") %>) template
 action Meeting
 templater True
 ```
-
+^ meeting-general
 
 ```button
 name s&p
-type note(Meeting) template
-action Meeting
+type note(sell & pick/Meetings/<% tp.date.now("YYYY-MM-DD HH-MM") %>) template
+action s&p Meeting
 templater True
 ```
-
+^ meeting-sp
