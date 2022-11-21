@@ -7,15 +7,15 @@
    - Log in to Google
       - Private
       - S&P
-- ​File Stream
+- File Stream
    - [https://support.google.com/drive/answer/7329379](https://support.google.com/drive/answer/7329379)
-- ​Keyboard settings
+- Keyboard settings
    - Modifier keys -> Caps lock to Ctrl
    - Disable autocorrect
    - key repeat to max
    - Disable smart quotes
    - Shortcuts -> Display -> Turn off all
-- ​Touchpad: Tap vs click
+- Touchpad: Tap vs click
 - Mouse: Right click
 - Finder
    - New window opens home folder
@@ -64,7 +64,7 @@ git config --global user.name "Rudolf Hattenkofer"
 git config --global user.email "rudolf@geardev.de"
 ```
 
-- ​Install fonts
+- Install fonts
 - [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 
 ```other
@@ -73,13 +73,13 @@ mkdir ~/client
 ```
 
 - Google cloud [https://cloud.google.com/sdk/](https://cloud.google.com/sdk/)
-- ​Firebase
+- Firebase
 
 `npm install -g firebase-tools`
 
 ## Tools
 
-- ​BetterSnapTool
+- BetterSnapTool
 - Timery
 - Toggl
 - Fantastical

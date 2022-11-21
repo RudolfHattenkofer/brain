@@ -35,7 +35,7 @@ where length(file.inlinks) =0 and length(file.tags) = 0
 Buttons:
 ```button
 name Meeting
-type note(Meeting-<%tp.date.now("YYYY-MM-DD HH:MM") %>) template
+type note(Meeting-) template
 action Meeting
 templater True
 ```
