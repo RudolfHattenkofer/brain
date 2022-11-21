@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a66b54f50318da99",
+        "id": "ac5cd9ceabdc6838",
         "type": "tabs",
         "children": [
           {
-            "id": "f8b8e7eb6785ef14",
+            "id": "293b1d4032008fd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Protocols/Set up new Mac.md",
+                "file": "__Home__.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Protocols/Set up new Mac.md",
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Protocols/Set up new Mac.md",
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Protocols/Set up new Mac.md"
+                "file": "__Home__.md"
               }
             }
           },
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "f8b8e7eb6785ef14",
+  "active": "293b1d4032008fd1",
   "lastOpenFiles": [
-    "__Home__.md",
-    "Meeting-10-11.md",
+    "Coffee machine electricity consumption.md",
     "Meeting.md",
+    "__Home__.md",
     "Orga/Templates/Meeting.md",
     "Orga/Templates/sell & pick Meeting.md",
+    "Orga/Protocols/Set up new Mac.md",
+    "Meeting-10-11.md",
     "Meeting-<%tp.date.now(\"HH-MM\".md",
     "Meeting 1werfd.md",
-    "Knowledge/Svelte & SvelteKit.md",
-    "Geardev/LMU/Erstgespräch.md",
-    "Orga/Daily/2022-11-16.md"
+    "Knowledge/Svelte & SvelteKit.md"
   ]
 }
