@@ -1,4 +1,6 @@
-Don't includ
+Don't include blooming!
+
+
 ### Costa Rica
 15@9 - 4:00
 15@10 - 2:30
