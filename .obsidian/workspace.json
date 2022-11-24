@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-24 10-11.md",
+                "file": "2022-11-24 10-11 Vectron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94a164720172c0d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-24 10-11 Paulaner.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-24 10-11.md",
+                "file": "2022-11-24 10-11 Paulaner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-24 10-11.md",
+                "file": "2022-11-24 10-11 Paulaner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-24 10-11.md"
+                "file": "2022-11-24 10-11 Paulaner.md"
               }
             }
           },
@@ -154,9 +166,10 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "c5944e6a2a3b8e24",
+  "active": "94a164720172c0d3",
   "lastOpenFiles": [
     "__Home__.md",
+    "2022-11-24 10-11 Vectron.md",
     "Orga/Daily/2022-11-24.md",
     "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
     "Knowledge/Construction.md",
@@ -164,7 +177,6 @@
     "Seating arrangement at a table.md",
     "Online learning solutions.md",
     "Meeting.md",
-    "Knowledge/Home media hosting.md",
-    "Buddy System.md"
+    "Knowledge/Home media hosting.md"
   ]
 }
