@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
+                "file": "Orga/Daily/2022-11-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5944e6a2a3b8e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-24 10-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
+                "file": "2022-11-24 10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
+                "file": "2022-11-24 10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Was ist ein KFW 40 oder Passivhaus.md"
+                "file": "2022-11-24 10-11.md"
               }
             }
           },
@@ -141,17 +154,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "bab1adef7337cad3",
+  "active": "c5944e6a2a3b8e24",
   "lastOpenFiles": [
+    "__Home__.md",
+    "Orga/Daily/2022-11-24.md",
+    "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
     "Knowledge/Construction.md",
     "Knowledge/Solarthermie und Photovoltaik.md",
     "Seating arrangement at a table.md",
     "Online learning solutions.md",
     "Meeting.md",
     "Knowledge/Home media hosting.md",
-    "Buddy System.md",
-    "Projects/ERP systems.md",
-    "Projects/Coffee machine electricity consumption.md",
-    "Knowledge/Knowledge Management.md"
+    "Buddy System.md"
   ]
 }
