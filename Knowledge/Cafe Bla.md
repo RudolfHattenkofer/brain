@@ -18,3 +18,4 @@ Don't include blooming!
 ## Kenya
 30@11.5 - 2:15
 30@11 - 2:30
+30

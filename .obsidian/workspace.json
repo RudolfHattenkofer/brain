@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "254b43fcc92c71a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-25 14-11 Brothaus <> ShopIQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-24 10-11 Tableau <> Vectron.md",
+                "file": "2022-11-25 14-11 Brothaus <> ShopIQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-24 10-11 Tableau <> Vectron.md",
+                "file": "2022-11-25 14-11 Brothaus <> ShopIQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-24 10-11 Tableau <> Vectron.md"
+                "file": "2022-11-25 14-11 Brothaus <> ShopIQ.md"
               }
             }
           },
@@ -154,10 +166,10 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "c5944e6a2a3b8e24",
+  "active": "254b43fcc92c71a5",
   "lastOpenFiles": [
-    "2022-11-24 10-11 Paulaner.md",
     "__Home__.md",
+    "2022-11-24 10-11 Paulaner.md",
     "2022-11-24 10-11 Tableau <> Vectron.md",
     "Orga/Daily/2022-11-24.md",
     "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",

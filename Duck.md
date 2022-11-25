@@ -1,1 +1,2 @@
-- Prick with needles for cris
+- Prick with needles for crispy skin
+- 
