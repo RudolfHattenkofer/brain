@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-24 10-11 Vectron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94a164720172c0d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-24 10-11 Paulaner.md",
+                "file": "2022-11-24 10-11 Tableau <> Vectron.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-24 10-11 Paulaner.md",
+                "file": "2022-11-24 10-11 Tableau <> Vectron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-24 10-11 Paulaner.md",
+                "file": "2022-11-24 10-11 Tableau <> Vectron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-24 10-11 Paulaner.md"
+                "file": "2022-11-24 10-11 Tableau <> Vectron.md"
               }
             }
           },
@@ -166,17 +154,17 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "94a164720172c0d3",
+  "active": "c5944e6a2a3b8e24",
   "lastOpenFiles": [
+    "2022-11-24 10-11 Paulaner.md",
     "__Home__.md",
-    "2022-11-24 10-11 Vectron.md",
+    "2022-11-24 10-11 Tableau <> Vectron.md",
     "Orga/Daily/2022-11-24.md",
     "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
     "Knowledge/Construction.md",
     "Knowledge/Solarthermie und Photovoltaik.md",
     "Seating arrangement at a table.md",
     "Online learning solutions.md",
-    "Meeting.md",
-    "Knowledge/Home media hosting.md"
+    "Meeting.md"
   ]
 }
