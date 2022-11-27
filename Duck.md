@@ -7,4 +7,4 @@
 
 Ref:
 [recipe 1](https://omnivorescookbook.com/slow-roast-duck/)
-[](https://www.justalittlebitofbacon.com/slow-roasted-duck-with-crispy-skin/)
+[recipe 2](https://www.justalittlebitofbacon.com/slow-roasted-duck-with-crispy-skin/)
