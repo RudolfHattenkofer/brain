@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b2d8d2b56d0369f",
+            "id": "cb17e8783192f918",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2022-11-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5944e6a2a3b8e24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-24 10-11 Tableau <> Vectron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "254b43fcc92c71a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-25 14-11 Brothaus <> ShopIQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4ab411cbcd569f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geardev/LMU/Erstgespräch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c38ac1c270bec4e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "i;.md",
+                "file": "2022-11-28 09-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -134,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geardev/LMU/Erstgespräch.md",
+                "file": "2022-11-28 09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geardev/LMU/Erstgespräch.md",
+                "file": "2022-11-28 09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geardev/LMU/Erstgespräch.md"
+                "file": "2022-11-28 09-11.md"
               }
             }
           },
@@ -188,19 +140,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
-  "active": "c4ab411cbcd569f9",
+  "active": "cb17e8783192f918",
   "lastOpenFiles": [
-    "__Home__.md",
-    "2022-11-24 10-11 Paulaner.md",
+    "i;.md",
+    "2022-11-28 09-11.md",
+    "Geardev/LMU/Erstgespräch.md",
+    "2022-11-25 14-11 Brothaus <> ShopIQ.md",
     "2022-11-24 10-11 Tableau <> Vectron.md",
     "Orga/Daily/2022-11-24.md",
+    "__Home__.md",
+    "2022-11-24 10-11 Paulaner.md",
     "Knowledge/Was ist ein KFW 40 oder Passivhaus.md",
-    "Knowledge/Construction.md",
-    "Knowledge/Solarthermie und Photovoltaik.md",
-    "Seating arrangement at a table.md",
-    "Online learning solutions.md",
-    "Meeting.md"
+    "Knowledge/Construction.md"
   ]
 }
