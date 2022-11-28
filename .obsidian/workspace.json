@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Geardev/LMU/Erstgespräch.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i;.md",
+                "file": "Geardev/LMU/Erstgespräch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "i;.md",
+                "file": "Geardev/LMU/Erstgespräch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i;.md"
+                "file": "Geardev/LMU/Erstgespräch.md"
               }
             }
           },
@@ -190,7 +190,7 @@
     "direction": "horizontal",
     "width": 300.5
   },
-  "active": "c38ac1c270bec4e9",
+  "active": "c4ab411cbcd569f9",
   "lastOpenFiles": [
     "__Home__.md",
     "2022-11-24 10-11 Paulaner.md",
