@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "__Home__.md"
+              }
             }
           },
           {
@@ -159,7 +163,7 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "bab1adef7337cad3",
+  "active": "02448785df3b1fcd",
   "lastOpenFiles": [
     "__Home__.md",
     "i;.md",
