@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b973cc1fc7111f98",
+        "id": "851eb72f702d99cc",
         "type": "tabs",
         "children": [
           {
-            "id": "cb17e8783192f918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-28 09-11 Johannes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7f5883d88ae46b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liquidity Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b0ec1c8776f97bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sell & pick/Lunch Liste.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7beaa087ff8871ce",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1fa001dde1c448a0",
+            "id": "9e71991b532533ed",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sell & pick/Lunch Liste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sell & pick/Lunch Liste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sell & pick/Lunch Liste.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,17 +134,17 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "4b0ec1c8776f97bb",
+  "active": "9e71991b532533ed",
   "lastOpenFiles": [
+    "2022-11-28 09-11 Johannes.md",
+    "Liquidity Management.md",
+    "sell & pick/Lunch Liste.md",
     "sell & pick/Home.md",
     "__Home__.md",
     "Trip Christmas.md",
-    "2022-11-28 09-11 Johannes.md",
     "i;.md",
     "Geardev/LMU/Erstgespräch.md",
     "2022-11-25 14-11 Brothaus <> ShopIQ.md",
-    "2022-11-24 10-11 Tableau <> Vectron.md",
-    "Orga/Daily/2022-11-24.md",
-    "2022-11-24 10-11 Paulaner.md"
+    "2022-11-24 10-11 Tableau <> Vectron.md"
   ]
 }
