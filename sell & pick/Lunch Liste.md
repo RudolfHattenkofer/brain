@@ -5,7 +5,6 @@
 - Pausenhof
 - Popup beim Mini
 - A Domani
-- Cotidiano
 - L'Osteria
 - Brezelina
 - Pfistermühle
