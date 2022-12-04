@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5744355bd1c60e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automate Spotify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Automate Spotify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Automate Spotify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Automate Spotify.md"
               }
             }
           },
@@ -151,13 +163,13 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "f1f82ed959ea8537",
+  "active": "5744355bd1c60e4b",
   "lastOpenFiles": [
+    "__Home__.md",
     "2022-11-28 09-11 Johannes.md",
     "Liquidity Management.md",
     "sell & pick/Lunch Liste.md",
     "sell & pick/Home.md",
-    "__Home__.md",
     "Trip Christmas.md",
     "i;.md",
     "Geardev/LMU/Erstgespräch.md",
