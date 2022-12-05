@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e71991b532533ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f1f82ed959ea8537",
+            "id": "3954223f6656c9d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zachermühle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5744355bd1c60e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automate Spotify.md",
+                "file": "2022-12-05 17-12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Zachermühle.md",
+                "file": "2022-12-05 17-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Zachermühle.md",
+                "file": "2022-12-05 17-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Zachermühle.md"
+                "file": "2022-12-05 17-12.md"
               }
             }
           },
@@ -163,17 +143,17 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "f1f82ed959ea8537",
+  "active": "3954223f6656c9d9",
   "lastOpenFiles": [
+    "Automate Spotify.md",
+    "2022-12-05 17-12.md",
+    "Projects/Zachermühle.md",
     "__Home__.md",
     "2022-11-28 09-11 Johannes.md",
     "Liquidity Management.md",
     "sell & pick/Lunch Liste.md",
     "sell & pick/Home.md",
     "Trip Christmas.md",
-    "i;.md",
-    "Geardev/LMU/Erstgespräch.md",
-    "2022-11-25 14-11 Brothaus <> ShopIQ.md",
-    "2022-11-24 10-11 Tableau <> Vectron.md"
+    "i;.md"
   ]
 }
