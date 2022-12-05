@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Projects/Zachermühle.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automate Spotify.md",
+                "file": "Projects/Zachermühle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automate Spotify.md",
+                "file": "Projects/Zachermühle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automate Spotify.md"
+                "file": "Projects/Zachermühle.md"
               }
             }
           },
@@ -163,7 +163,7 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "5744355bd1c60e4b",
+  "active": "f1f82ed959ea8537",
   "lastOpenFiles": [
     "__Home__.md",
     "2022-11-28 09-11 Johannes.md",
