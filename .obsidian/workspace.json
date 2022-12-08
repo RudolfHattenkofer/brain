@@ -14,8 +14,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "81809c6f93bece33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Documenting software systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a180505a90e25d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Home__.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge/Documenting software systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge/Documenting software systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge/Documenting software systems.md"
+              }
             }
           },
           {
@@ -134,17 +163,17 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "48f01c610853134c",
+  "active": "81809c6f93bece33",
   "lastOpenFiles": [
-    "EurKEY installation.md",
     "__Home__.md",
+    "Knowledge/Documenting software systems.md",
+    "EurKEY installation.md",
     "Orga/Liquidity Management.md",
     "Duck.md",
     "API design.md",
     "Automate Spotify.md",
     "sell & pick/Meetings/2022-11-28 09-11 Johannes.md",
     "2022-11-25 14-11 Brothaus <> ShopIQ.md",
-    "sell & pick/Meetings/2022-11-24 10-11 Tableau <> Vectron.md",
-    "sell & pick/Meetings/2022-11-24 10-11 Paulaner.md"
+    "sell & pick/Meetings/2022-11-24 10-11 Tableau <> Vectron.md"
   ]
 }

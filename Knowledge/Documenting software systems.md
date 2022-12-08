@@ -1,8 +1,7 @@
 DANIELE PROCIDA
 
-[https://twitter.com/evildmp?lang=en](https://twitter.com/evildmp?lang=en)
+https://diataxis.fr/
 
 [https://www.divio.com/](https://www.divio.com/)
 
-
-
+![Diátaxis](https://diataxis.fr/_images/diataxis.png)

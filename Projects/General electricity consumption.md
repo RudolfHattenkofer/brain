@@ -1,3 +1,4 @@
+Coffee machine
 0.6 kwh start
 800W warmup
 60w standby
