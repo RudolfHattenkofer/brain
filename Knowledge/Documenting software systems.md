@@ -28,3 +28,18 @@ How-to guides matter not just because users need to be able to accomplish things
 
 If they’re well-written and address the right subjects, you’re likely to find that how-to guides are the most-read sections of your documentation.
 
+### Reference
+The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference material is led by the product it describes.
+
+Reference - information oriented, theoretical knowledge, that serves our work
+In the case of software, reference guides describe the software itself - APIs, classes, functions and so on - and how to use them.
+
+Your users need reference material because they need truth and certainty - firm platforms on which to stand while they work. Good technical reference is essential to provide users with the confidence to do their work.
+
+### Explanation
+Explanation clarifies, deepens and broadens the reader’s understanding of a subject.
+
+Explanation - understanding oriented, theoretical knowledge, that serves our study
+It’s not concerned with what the user might be doing, like tutorials and how-to guides. It’s not a close-up view of the machinery, like reference material. It’s documentation that approaches a topic from a higher perspective, and from different angles.
+
+This allows explanation to become discussion, a more relaxed, freer way to consider something. Explanation joins things together. It’s documentation that it makes sense to read while away from the product itself.
