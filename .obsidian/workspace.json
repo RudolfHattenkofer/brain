@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "851eb72f702d99cc",
+        "id": "06a495a3b027d210",
         "type": "tabs",
         "children": [
           {
-            "id": "3954223f6656c9d9",
+            "id": "48f01c610853134c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seating arrangement at a table.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seating arrangement at a table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seating arrangement at a table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Seating arrangement at a table.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,8 +134,10 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "bab1adef7337cad3",
+  "active": "48f01c610853134c",
   "lastOpenFiles": [
+    "EurKEY installation.md",
+    "__Home__.md",
     "Orga/Liquidity Management.md",
     "Duck.md",
     "API design.md",
@@ -151,8 +145,6 @@
     "sell & pick/Meetings/2022-11-28 09-11 Johannes.md",
     "2022-11-25 14-11 Brothaus <> ShopIQ.md",
     "sell & pick/Meetings/2022-11-24 10-11 Tableau <> Vectron.md",
-    "sell & pick/Meetings/2022-11-24 10-11 Paulaner.md",
-    "Geardev/Koaware/2022-12-05 17-12.md",
-    "Projects/Zachermühle.md"
+    "sell & pick/Meetings/2022-11-24 10-11 Paulaner.md"
   ]
 }

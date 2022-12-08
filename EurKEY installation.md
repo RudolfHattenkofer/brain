@@ -1,0 +1,4 @@
+- Place in `/Library/Keyboard Layouts`
+	- Cmd + Shift + G
+- System Preferences -> Keyboard -> Input Sources
+- Scroll to Other -> Add EurKEY
