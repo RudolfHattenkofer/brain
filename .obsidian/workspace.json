@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c9de5b99e469205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Home__.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Duck.md",
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Duck.md",
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Duck.md"
+                "file": "__Home__.md"
               }
             }
           },
@@ -142,8 +155,9 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "d1a459f722488254",
+  "active": "5c9de5b99e469205",
   "lastOpenFiles": [
+    "Duck.md",
     "__Home__.md",
     "Knowledge/Data Platform.md",
     "Knowledge/Typical interest rates for loans.md",
@@ -152,7 +166,6 @@
     "Untitled.md",
     "Knowledge/Documenting software systems.md",
     "Knowledge/Loan.md",
-    "Knowledge/Calculate interest for a loan.md",
-    "EurKEY installation.md"
+    "Knowledge/Calculate interest for a loan.md"
   ]
 }
