@@ -22,6 +22,10 @@ templater True
 
 [[People]]
 
+```note-blue
+Test
+```
+
 ## Current
 - [[To Research]]
 - [[Landwirtschaft]]
