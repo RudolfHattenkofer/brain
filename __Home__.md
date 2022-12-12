@@ -1,12 +1,13 @@
 Yearly theme 2021: Structure
 [[What is my purpose?]]
 
-## Topics
-[[All topics]]
-[[Tech]] [[Python]] [[BigQuery]]
-[[Coffee]] [[Elbgold]] [[Cafe Bla]]
+> [!note]  Topics
+> [[All topics]]
+> [[Tech]] [[Python]] [[BigQuery]]
+> [[Coffee]] [[Elbgold]] [[Cafe Bla]]
+> 
+[[People]]
 
-[[sell & pick/Home|sell & pick]]
 ```button
 name New Meeting
 type note(<% tp.date.now("YYYY-MM-DD HH-MM") %>) template
@@ -19,17 +20,11 @@ type note(<% tp.date.now("YYYY-MM-DD HH-MM") %>) template
 action sell & pick Meeting
 templater True
 ```
+[[sell & pick/Home|sell & pick]]
 
-[[People]]
-
-```note-blue
-Test
-```
-
-## Current
-- [[To Research]]
-- [[Landwirtschaft]]
-- [[Data Platform]]
+> [!abstract] Current
+> - [[To Research]] 
+> - [[Data Platform]]
 
 Projects:
 ```dataview
