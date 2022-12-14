@@ -14,7 +14,7 @@ GoT:
 - https://acoup.blog/2020/12/18/collections-that-dothraki-horde-part-iii-horse-fiddles/
 - https://acoup.blog/2021/01/08/collections-that-dothraki-horde-part-iv-screamers-and-howlers/
 
-Grass? haha
+Grass?
 - https://www.historynet.com/mongols-on-the-march-the-logistics-of-grass/
 
 #research 
