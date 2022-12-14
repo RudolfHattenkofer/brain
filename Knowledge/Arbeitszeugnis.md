@@ -41,3 +41,7 @@
 
 "Sie hat im Rahmen ihrer Möglichkeiten gearbeitet."
 (= Mitarbeiterin hatte keinen Erfolg)
+
+
+References:
+- Christina Linke
