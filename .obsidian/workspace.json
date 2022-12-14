@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0c48ea1118a94f6c",
+        "id": "7cb20e5e8c42777f",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9de5b99e469205",
+            "id": "20c89d182f4039d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Documenting software systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a0a959580bc4547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Home__.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Documenting software systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Documenting software systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Knowledge/Documenting software systems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,15 +136,15 @@
   },
   "active": "bab1adef7337cad3",
   "lastOpenFiles": [
+    "Knowledge/Documenting software systems.md",
+    "Knowledge/Arbeitszeugnis.md",
+    "Knowledge/HR.md",
+    "Knowledge/All topics.md",
     "__Home__.md",
     "Duck.md",
     "Knowledge/Data Platform.md",
     "Knowledge/Typical interest rates for loans.md",
     "Orga/Liquidity Management.md",
-    "Orga/Daily/2022-12-11.md",
-    "Untitled.md",
-    "Knowledge/Documenting software systems.md",
-    "Knowledge/Loan.md",
-    "Knowledge/Calculate interest for a loan.md"
+    "Orga/Daily/2022-12-11.md"
   ]
 }
