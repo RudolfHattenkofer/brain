@@ -1,8 +1,12 @@
-Jelly Key
+[[EurKEY installation]]
 
-Ergodox EZ
+Sources:
+- [Drop.com Closet](https://mechkeys.drop.com/)
+- Jellykey
 
-[Drop.com Closet](https://mechkeys.drop.com/)
+
+Specialty keyboards:
+- Ergodox EZ
 
 
 
