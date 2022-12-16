@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "59d3fe8d51bc4588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Liquidity Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orga/Liquidity Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orga/Liquidity Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orga/Liquidity Management.md"
+              }
             }
           },
           {
@@ -134,11 +151,11 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "f2660a8d36fa9cf9",
+  "active": "59d3fe8d51bc4588",
   "lastOpenFiles": [
+    "__Home__.md",
     "Knowledge/Arbeitszeugnis.md",
     "Logistics of medieval warfare.md",
-    "__Home__.md",
     "Knowledge/Documenting software systems.md",
     "Knowledge/HR.md",
     "Knowledge/All topics.md",
