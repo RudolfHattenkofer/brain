@@ -1,6 +1,6 @@
 Type of [[Coffee]] drink. Want more? [[Foaming milk]]
 
-Measured variables are time and volume of the Espresso produced. All other factors are input variables that can be varied! The fewer variables, the more consistent results can be achieved.
+Measured variables are time and volume of the Espresso produced. All other factors are input variables that can be varied! The more variables can be made constant, the more consistent results can be achieved. Examples of this are weighing how much coffee is used, having stable brew temperatures, or timing how long coffee extracts for.
 
 ### Dose
 

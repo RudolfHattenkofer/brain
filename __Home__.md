@@ -12,6 +12,7 @@
 > [[To Research]] 
 > [[Logistics of medieval warfare]]
 > [[Liquidity Management]]
+> [[Short introduction to coffee]]
 
 Projects:
 ```dataview

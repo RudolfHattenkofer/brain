@@ -10,3 +10,4 @@ After the green beans were shipped to the consuming country, the beans are prepa
 
 ### Resources
 - The physics of filter coffee, Jonathan Gagné, 2020
+- [[Short introduction to coffee]]
