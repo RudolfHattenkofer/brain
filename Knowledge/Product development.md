@@ -2,6 +2,8 @@
 
 [[Challenge product ideas by stakeholders]]
 
+[[Project management]]
+
 Further areas:
 
 [[Design Thinking]]

@@ -1,10 +1,8 @@
-[[Full Life Cycle API Management]]
-[[API Gateway]]
+[[API design]]
 [[Documenting software systems]]
 [[Document architecture decisions]]
 [[Formal specification]]
 [[Diagrams]]
-
 
 Languages:
 [[Javascript]] [[Typescript]]

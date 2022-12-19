@@ -9,11 +9,9 @@
 [[People]]
 
 > [!abstract] Current
-> - [[To Research]] 
-> - [[Data Platform]]
-> - [[Logistics of medieval warfare]]
-> - [[Liquidity Management]]
-
+> [[To Research]] 
+> [[Logistics of medieval warfare]]
+> [[Liquidity Management]]
 
 Projects:
 ```dataview

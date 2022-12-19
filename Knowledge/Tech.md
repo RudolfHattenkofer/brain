@@ -23,3 +23,7 @@
 [[Keyboard + Keycaps]]
 
 [[Cryptocurrency]]
+
+[[Automation]]
+
+[[Online learning solutions for tech and data]]

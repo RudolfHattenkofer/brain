@@ -9,3 +9,5 @@ When you're not building within a Siedlung, more restrictive laws are in effect.
 Managing a bunch of building requires a [[Software zur Hausverwaltung]]
 
 Green building often includes [[Solarthermie und Photovoltaik]]
+
+[[Interior design]]

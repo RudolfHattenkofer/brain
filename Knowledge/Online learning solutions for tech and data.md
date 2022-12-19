@@ -1,6 +1,4 @@
 
-
-
 Resources:
 - Coursera
 - Datacamp

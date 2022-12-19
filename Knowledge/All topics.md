@@ -13,7 +13,7 @@
 
 [[Games]] [[Crafts]] [[Academia]] [[Navigation under water]]
 
-[[Diving]]
+[[Diving]] [[Logistics of medieval warfare]]
 
 **Linguistics**
 
