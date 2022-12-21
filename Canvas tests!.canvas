@@ -3,7 +3,7 @@
 		{"id":"1b99500409059d83","x":-824,"y":-695,"width":574,"height":1022,"type":"file","file":"Short introduction to coffee.md"},
 		{"id":"ade1f9887a296ac4","x":13,"y":-677,"width":400,"height":400,"type":"file","file":"Knowledge/Espresso.md"},
 		{"id":"5921d76268b3b781","x":13,"y":-241,"width":400,"height":114,"type":"text","text":"This is a small test.\n\n```\nWhat!\n```"},
-		{"id":"46ad62bad84bb37c","x":-790,"y":429,"width":400,"height":400,"type":"link","url":"https://obsidian.md/canvas#protips"},
+		{"id":"46ad62bad84bb37c","x":-1580,"y":429,"width":1190,"height":951,"type":"link","url":"https://obsidian.md/canvas#protips"},
 		{"id":"016a33f439b65073","x":-250,"y":576,"width":250,"height":107,"type":"text","text":"There's a bunch of YT videos on here!"}
 	],
 	"edges":[
