@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1f99316010ca93cd","x":-1260,"y":-640,"width":371,"height":250,"type":"text","text":"## Rough ToDo\n- [ ] Merge into prod\n- [ ] Finish up API?\n- [ ] Bias for autocomplete?\n- [x] Search radius not applying"}
+		{"id":"1f99316010ca93cd","x":-1260,"y":-640,"width":371,"height":250,"type":"text","text":"## Rough ToDo\n- [x] Merge into prod\n- [x] Finish up API?\n- [x] Bias for autocomplete?\n- [x] Search radius not applying"}
 	],
 	"edges":[]
 }
