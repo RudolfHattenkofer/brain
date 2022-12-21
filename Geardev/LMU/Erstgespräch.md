@@ -32,7 +32,7 @@
 - Orga erstellen -> sustainabilityreportingnavigator
 - Reference
 	- Streamlit
-	- Jupyter
+	- [Jupyter](https://github.com/victor-234/srn-random-stuff)
 	- ...
 - Backend
 - Frontend
