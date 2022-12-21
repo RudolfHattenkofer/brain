@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7379cd57fd2f2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/People/Me.md",
+                "file": "Knowledge/Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/People/Me.md",
+                "file": "Knowledge/Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/People/Me.md"
+                "file": "Knowledge/Django.md"
               }
             }
           },
@@ -142,7 +155,7 @@
     "width": 300.5,
     "collapsed": true
   },
-  "active": "6afe6fea3fabc4a5",
+  "active": "f7379cd57fd2f2b7",
   "lastOpenFiles": [
     "__Home__.md",
     "Knowledge/Operations & Infrastructure.md",
