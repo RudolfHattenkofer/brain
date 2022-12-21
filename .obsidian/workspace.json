@@ -21,10 +21,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Alex.canvas",
+                "file": "Canvas tests!.canvas",
                 "viewState": {
-                  "x": -1107.2763317871095,
-                  "y": -515,
+                  "x": -332.55000000000007,
+                  "y": 1215.8168543188322,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alex.canvas",
+                "file": "Canvas tests!.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alex.canvas",
+                "file": "Canvas tests!.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alex.canvas"
+                "file": "Canvas tests!.canvas"
               }
             }
           },
@@ -172,11 +172,11 @@
   },
   "active": "b2694f95b6434254",
   "lastOpenFiles": [
+    "Alex.canvas",
     "__Home__.md",
     "Untitled.canvas",
     "Geardev/LMU/Erstgespräch.md",
     "Canvas tests!.canvas",
-    "Alex.canvas",
     "Canvas.md",
     "Knowledge/Espresso.md",
     "Orga/People/Me.md",

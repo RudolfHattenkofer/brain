@@ -1,13 +1,16 @@
 {
 	"nodes":[
-		{"id":"1b99500409059d83","x":-824,"y":-695,"width":574,"height":1022,"type":"file","file":"Short introduction to coffee.md"},
-		{"id":"ade1f9887a296ac4","x":13,"y":-677,"width":400,"height":400,"type":"file","file":"Knowledge/Espresso.md"},
-		{"id":"5921d76268b3b781","x":13,"y":-241,"width":400,"height":114,"type":"text","text":"This is a small test.\n\n```\nWhat!\n```"},
-		{"id":"46ad62bad84bb37c","x":-1580,"y":429,"width":1190,"height":951,"type":"link","url":"https://obsidian.md/canvas#protips"},
-		{"id":"016a33f439b65073","x":-250,"y":576,"width":250,"height":107,"type":"text","text":"There's a bunch of YT videos on here!"}
+		{"id":"a268fef38976b5dd","x":902,"y":519,"width":250,"height":60,"type":"text","text":"Other plugins?"},
+		{"id":"edc450328fe79259","x":707,"y":767,"width":640,"height":364,"type":"link","url":"https://www.youtube.com/watch?v=W7kTtn9empU"},
+		{"id":"ee8fdec7ebfceaea","x":-977,"y":1671,"width":513,"height":347,"type":"link","url":"https://www.youtube.com/watch?v=hey_hMseA9U"},
+		{"id":"9a649088f4bd0f23","x":-390,"y":1671,"width":513,"height":347,"type":"link","url":"https://www.youtube.com/watch?v=EULnUXpWpwI"},
+		{"id":"016a33f439b65073","x":-555,"y":1454,"width":250,"height":107,"type":"text","text":"There's a bunch of YT videos on here!"},
+		{"id":"46ad62bad84bb37c","x":-849,"y":359,"width":838,"height":951,"type":"link","url":"https://obsidian.md/canvas#protips"}
 	],
 	"edges":[
-		{"id":"845016d8c556c7e8","fromNode":"1b99500409059d83","fromSide":"right","toNode":"ade1f9887a296ac4","toSide":"left"},
-		{"id":"d7f4cdd3705d1bb0","fromNode":"46ad62bad84bb37c","fromSide":"right","toNode":"016a33f439b65073","toSide":"left"}
+		{"id":"d7f4cdd3705d1bb0","fromNode":"46ad62bad84bb37c","fromSide":"bottom","toNode":"016a33f439b65073","toSide":"top"},
+		{"id":"918976cd567b217f","fromNode":"016a33f439b65073","fromSide":"bottom","toNode":"ee8fdec7ebfceaea","toSide":"top"},
+		{"id":"d59b65142cdabced","fromNode":"016a33f439b65073","fromSide":"bottom","toNode":"9a649088f4bd0f23","toSide":"top"},
+		{"id":"64914759834a3a71","fromNode":"a268fef38976b5dd","fromSide":"bottom","toNode":"edc450328fe79259","toSide":"top"}
 	]
 }
