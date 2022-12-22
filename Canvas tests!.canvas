@@ -9,7 +9,12 @@
 		{"id":"8dafb2d8b466abcf","x":707,"y":1326,"width":165,"height":60,"type":"text","text":"Fantasy calendar"},
 		{"id":"415633e8fc0fcb5e","x":900,"y":1326,"width":165,"height":60,"type":"text","text":"Kanban"},
 		{"id":"8565079bd0d8ceff","x":1082,"y":1326,"width":253,"height":216,"type":"text","text":"Outliner?\nmove in list up-down, undentation level? Does it already do all of that?"},
-		{"id":"bbd9734f0da06b27","x":1362,"y":1326,"width":261,"height":108,"type":"text","text":"Periodic Notes\nDaily/Monthly/Quarterly/Yearly"}
+		{"id":"bbd9734f0da06b27","x":1362,"y":1326,"width":261,"height":108,"type":"text","text":"Periodic Notes\nDaily/Monthly/Quarterly/Yearly"},
+		{"id":"dc53d017df0f77dd","x":697,"y":-798,"width":1688,"height":767,"color":"4","type":"group","label":"Vierwasser JF"},
+		{"id":"0e515544c880732d","x":717,"y":-653,"width":928,"height":602,"type":"text","text":"```\nwith t as (SELECT\n\n  \n\ndatetime(TIMESTAMP(ordered_at), 'Europe/Berlin') as ordered_at,\n\n  \n\nproduct_name, amount, price,\n\n* except(ordered_at, amount, price),\n\nFROM `sellpick-analytics-client.vierwasser.source_transactions_amadeus_flat`\n\nwhere business_day = \"2022-12-21\"\n\nand waiter_id = 1023\n\nand vat != 0\n\n  \n\nqualify row_number() over (partition by unique_id order by imported_at desc) = 1\n\n  \n\norder by ordered_at desc\n\n)\n\n  \n\nselect sum(price * amount) from t\n```\n\n660€ Soll!\n\nIm Dashboard Mitarbeiter sind es 61€"},
+		{"id":"72020cb6988faf37","x":1746,"y":-648,"width":326,"height":400,"type":"file","file":"Screenshot 2022-12-22 at 08.58.19.png"},
+		{"id":"4e856df16bcd25ae","x":2115,"y":-544,"width":250,"height":192,"type":"text","text":"Gelbe Linie sieht so aus, als würde der Datumsfilter nicht greifen?\n\nDie grüne Linie ist realistisch..."},
+		{"id":"acf8ab8f73d8278c","x":962,"y":-778,"width":439,"height":60,"type":"text","text":"Abweichung Mitarbeiter Dashboard"}
 	],
 	"edges":[
 		{"id":"d7f4cdd3705d1bb0","fromNode":"46ad62bad84bb37c","fromSide":"bottom","toNode":"016a33f439b65073","toSide":"top"},
@@ -19,6 +24,8 @@
 		{"id":"7982fbc6cab66f38","fromNode":"edc450328fe79259","fromSide":"bottom","toNode":"8dafb2d8b466abcf","toSide":"top"},
 		{"id":"178b74c10d729253","fromNode":"edc450328fe79259","fromSide":"bottom","toNode":"415633e8fc0fcb5e","toSide":"top"},
 		{"id":"9f9690ac80a6b710","fromNode":"edc450328fe79259","fromSide":"bottom","toNode":"8565079bd0d8ceff","toSide":"top"},
-		{"id":"8cb2a7dd96e7c3d0","fromNode":"edc450328fe79259","fromSide":"bottom","toNode":"bbd9734f0da06b27","toSide":"top"}
+		{"id":"8cb2a7dd96e7c3d0","fromNode":"edc450328fe79259","fromSide":"bottom","toNode":"bbd9734f0da06b27","toSide":"top"},
+		{"id":"bd8836da074923fa","fromNode":"72020cb6988faf37","fromSide":"right","toNode":"4e856df16bcd25ae","toSide":"left"},
+		{"id":"5d743e1e30f5a6db","fromNode":"acf8ab8f73d8278c","fromSide":"bottom","toNode":"0e515544c880732d","toSide":"top"}
 	]
 }
