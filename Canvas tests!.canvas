@@ -1,16 +1,24 @@
 {
 	"nodes":[
-		{"id":"a268fef38976b5dd","x":902,"y":519,"width":250,"height":60,"type":"text","text":"Other plugins?"},
-		{"id":"edc450328fe79259","x":707,"y":767,"width":640,"height":364,"type":"link","url":"https://www.youtube.com/watch?v=W7kTtn9empU"},
+		{"id":"edc450328fe79259","x":707,"y":621,"width":1000,"height":510,"type":"link","url":"https://www.youtube.com/watch?v=W7kTtn9empU"},
 		{"id":"ee8fdec7ebfceaea","x":-977,"y":1671,"width":513,"height":347,"type":"link","url":"https://www.youtube.com/watch?v=hey_hMseA9U"},
 		{"id":"9a649088f4bd0f23","x":-390,"y":1671,"width":513,"height":347,"type":"link","url":"https://www.youtube.com/watch?v=EULnUXpWpwI"},
 		{"id":"016a33f439b65073","x":-555,"y":1454,"width":250,"height":107,"type":"text","text":"There's a bunch of YT videos on here!"},
-		{"id":"46ad62bad84bb37c","x":-849,"y":359,"width":838,"height":951,"type":"link","url":"https://obsidian.md/canvas#protips"}
+		{"id":"46ad62bad84bb37c","x":-849,"y":359,"width":838,"height":951,"type":"link","url":"https://obsidian.md/canvas#protips"},
+		{"id":"a268fef38976b5dd","x":1082,"y":460,"width":250,"height":60,"type":"text","text":"Other plugins?"},
+		{"id":"8dafb2d8b466abcf","x":707,"y":1326,"width":165,"height":60,"type":"text","text":"Fantasy calendar"},
+		{"id":"415633e8fc0fcb5e","x":900,"y":1326,"width":165,"height":60,"type":"text","text":"Kanban"},
+		{"id":"8565079bd0d8ceff","x":1082,"y":1326,"width":253,"height":216,"type":"text","text":"Outliner?\nmove in list up-down, undentation level? Does it already do all of that?"},
+		{"id":"bbd9734f0da06b27","x":1362,"y":1326,"width":261,"height":108,"type":"text","text":"Periodic Notes\nDaily/Monthly/Quarterly/Yearly"}
 	],
 	"edges":[
 		{"id":"d7f4cdd3705d1bb0","fromNode":"46ad62bad84bb37c","fromSide":"bottom","toNode":"016a33f439b65073","toSide":"top"},
 		{"id":"918976cd567b217f","fromNode":"016a33f439b65073","fromSide":"bottom","toNode":"ee8fdec7ebfceaea","toSide":"top"},
 		{"id":"d59b65142cdabced","fromNode":"016a33f439b65073","fromSide":"bottom","toNode":"9a649088f4bd0f23","toSide":"top"},
-		{"id":"64914759834a3a71","fromNode":"a268fef38976b5dd","fromSide":"bottom","toNode":"edc450328fe79259","toSide":"top"}
+		{"id":"64914759834a3a71","fromNode":"a268fef38976b5dd","fromSide":"bottom","toNode":"edc450328fe79259","toSide":"top"},
+		{"id":"7982fbc6cab66f38","fromNode":"edc450328fe79259","fromSide":"bottom","toNode":"8dafb2d8b466abcf","toSide":"top"},
+		{"id":"178b74c10d729253","fromNode":"edc450328fe79259","fromSide":"bottom","toNode":"415633e8fc0fcb5e","toSide":"top"},
+		{"id":"9f9690ac80a6b710","fromNode":"edc450328fe79259","fromSide":"bottom","toNode":"8565079bd0d8ceff","toSide":"top"},
+		{"id":"8cb2a7dd96e7c3d0","fromNode":"edc450328fe79259","fromSide":"bottom","toNode":"bbd9734f0da06b27","toSide":"top"}
 	]
 }
