@@ -21,10 +21,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas tests!.canvas",
+                "file": "Scratch pad.canvas",
                 "viewState": {
                   "x": -616.2000000000005,
-                  "y": -1484.9031456811672,
+                  "y": -1541.633145681167,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas tests!.canvas",
+                "file": "Scratch pad.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas tests!.canvas",
+                "file": "Scratch pad.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas tests!.canvas"
+                "file": "Scratch pad.canvas"
               }
             }
           },
@@ -176,7 +176,7 @@
     "__Home__.md",
     "Untitled.canvas",
     "Geardev/LMU/Erstgespräch.md",
-    "Canvas tests!.canvas",
+    "Scratch pad.canvas",
     "Canvas.md",
     "Knowledge/Espresso.md",
     "Orga/People/Me.md",
