@@ -14,7 +14,8 @@
 		{"id":"0e515544c880732d","x":717,"y":-653,"width":928,"height":602,"type":"text","text":"```\nwith t as (SELECT\n\n  \n\ndatetime(TIMESTAMP(ordered_at), 'Europe/Berlin') as ordered_at,\n\n  \n\nproduct_name, amount, price,\n\n* except(ordered_at, amount, price),\n\nFROM `sellpick-analytics-client.vierwasser.source_transactions_amadeus_flat`\n\nwhere business_day = \"2022-12-21\"\n\nand waiter_id = 1023\n\nand vat != 0\n\n  \n\nqualify row_number() over (partition by unique_id order by imported_at desc) = 1\n\n  \n\norder by ordered_at desc\n\n)\n\n  \n\nselect sum(price * amount) from t\n```\n\n660€ Soll!\n\nIm Dashboard Mitarbeiter sind es 61€"},
 		{"id":"72020cb6988faf37","x":1746,"y":-648,"width":326,"height":400,"type":"file","file":"Screenshot 2022-12-22 at 08.58.19.png"},
 		{"id":"4e856df16bcd25ae","x":2115,"y":-544,"width":250,"height":192,"type":"text","text":"Gelbe Linie sieht so aus, als würde der Datumsfilter nicht greifen?\n\nDie grüne Linie ist realistisch..."},
-		{"id":"acf8ab8f73d8278c","x":962,"y":-778,"width":439,"height":60,"type":"text","text":"Abweichung Mitarbeiter Dashboard"}
+		{"id":"acf8ab8f73d8278c","x":962,"y":-778,"width":439,"height":60,"type":"text","text":"Abweichung Mitarbeiter Dashboard"},
+		{"id":"fba26d248fd637b6","x":-1190,"y":-2044,"width":250,"height":80,"type":"text","text":"Weihnachtsgeschenke:\n- Lose El Gordo?"}
 	],
 	"edges":[
 		{"id":"d7f4cdd3705d1bb0","fromNode":"46ad62bad84bb37c","fromSide":"bottom","toNode":"016a33f439b65073","toSide":"top"},
