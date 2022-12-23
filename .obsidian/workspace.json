@@ -11,32 +11,13 @@
             "id": "ca5136f054b0a46c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b2694f95b6434254",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0d07392df8c5d5cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Short introduction to coffee.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshot 2022-12-22 at 08.58.19.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short introduction to coffee.md",
+                "file": "Screenshot 2022-12-22 at 08.58.19.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short introduction to coffee.md",
+                "file": "Screenshot 2022-12-22 at 08.58.19.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short introduction to coffee.md"
+                "file": "Screenshot 2022-12-22 at 08.58.19.png"
               }
             }
           },
@@ -174,8 +155,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "0d07392df8c5d5cd",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
+    "Short introduction to coffee.md",
     "Untitled.canvas",
     "Untitled 1.md",
     "Untitled.md",
@@ -184,7 +166,6 @@
     "Knowledge/Why bubbles hold in things.md",
     "Scratch pad.canvas",
     "Alex.canvas",
-    "Geardev/LMU/Erstgespräch.md",
-    "Canvas.md"
+    "Geardev/LMU/Erstgespräch.md"
   ]
 }
