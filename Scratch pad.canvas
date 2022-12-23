@@ -16,8 +16,7 @@
 		{"id":"bbd9734f0da06b27","x":1362,"y":1326,"width":261,"height":108,"type":"text","text":"Periodic Notes\nDaily/Monthly/Quarterly/Yearly"},
 		{"id":"acf8ab8f73d8278c","x":962,"y":-778,"width":439,"height":60,"type":"text","text":"Abweichung Mitarbeiter Dashboard"},
 		{"id":"8e502d26441fedb6","x":-1839,"y":-2054,"width":400,"height":400,"type":"group","label":"Zacherlmühle"},
-		{"id":"62432050aa6072a7","x":-1778,"y":-1894,"width":250,"height":76,"type":"text","text":"Söhmisch kauft DG Thalbacherstraße 5000€"},
-		{"id":"93e947d8c4769cb0","x":-878,"y":-2081,"width":548,"height":281,"type":"text","text":"Koppe\n\nsupport+id683@sell-pick.zendesk.com\n\nDatei 2022_Company 11-36"}
+		{"id":"62432050aa6072a7","x":-1778,"y":-1894,"width":250,"height":76,"type":"text","text":"Söhmisch kauft DG Thalbacherstraße 5000€"}
 	],
 	"edges":[
 		{"id":"d7f4cdd3705d1bb0","fromNode":"46ad62bad84bb37c","fromSide":"bottom","toNode":"016a33f439b65073","toSide":"top"},
