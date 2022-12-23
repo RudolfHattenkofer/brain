@@ -16,8 +16,25 @@
                 "file": "Screenshot 2022-12-22 at 08.58.19.png"
               }
             }
+          },
+          {
+            "id": "dd3defda780a2446",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Scratch pad.canvas",
+                "viewState": {
+                  "x": -388.7000000000001,
+                  "y": -1966.0000000000002,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshot 2022-12-22 at 08.58.19.png",
+                "file": "Scratch pad.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Screenshot 2022-12-22 at 08.58.19.png",
+                "file": "Scratch pad.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshot 2022-12-22 at 08.58.19.png"
+                "file": "Scratch pad.canvas"
               }
             }
           },
@@ -155,13 +172,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "bab1adef7337cad3",
+  "active": "dd3defda780a2446",
   "lastOpenFiles": [
+    "__Home__.md",
     "Short introduction to coffee.md",
     "Untitled.canvas",
     "Untitled 1.md",
     "Untitled.md",
-    "__Home__.md",
     "Knowledge/Foaming milk.md",
     "Knowledge/Why bubbles hold in things.md",
     "Scratch pad.canvas",
