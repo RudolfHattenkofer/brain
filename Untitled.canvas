@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"dc1ecd7ae9b099e8","x":-1133,"y":-877,"width":400,"height":1629,"type":"file","file":"Short introduction to coffee.md"},
+		{"id":"28fe686eff16769e","x":83,"y":-1073,"width":400,"height":498,"type":"file","file":"Knowledge/Foaming milk.md"},
+		{"id":"acc9a0f23e521153","x":-547,"y":-852,"width":400,"height":400,"type":"file","file":"Knowledge/Espresso.md"},
+		{"id":"eb7f36bda515f947","x":-547,"y":-381,"width":830,"height":638,"type":"file","file":"Knowledge/Coffee regions.md"},
+		{"id":"197fcf74c745039d","x":-547,"y":352,"width":400,"height":400,"type":"file","file":"Knowledge/Coffee flavor profiles.md"},
+		{"id":"3511e6af7338aa8c","x":723,"y":-1024,"width":400,"height":400,"type":"file","file":"Knowledge/Why bubbles hold in things.md"},
+		{"id":"e2fb210df230ec3e","x":516,"y":-381,"width":250,"height":60,"type":"text","text":"I don't like the spicy coffees from India!"},
+		{"id":"5a3494b7f6d592ec","x":641,"y":-242,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=v5WQ1sZzW4o&"},
+		{"id":"5f0feb826db502ba","x":-11,"y":352,"width":400,"height":400,"type":"link","url":"https://www.coffeecircle.com/de/e/sca-flavor-wheel"},
+		{"id":"a091b93554240814","x":-488,"y":868,"width":677,"height":957,"type":"file","file":"Pasted image 20221222115121.png"}
+	],
+	"edges":[
+		{"id":"7497209a94be5a77","fromNode":"dc1ecd7ae9b099e8","fromSide":"right","toNode":"acc9a0f23e521153","toSide":"left"},
+		{"id":"c6ce6128101f6efd","fromNode":"dc1ecd7ae9b099e8","fromSide":"right","toNode":"eb7f36bda515f947","toSide":"left"},
+		{"id":"e763e3c7828ab3d0","fromNode":"dc1ecd7ae9b099e8","fromSide":"right","toNode":"197fcf74c745039d","toSide":"left"},
+		{"id":"43f77922cc1c78a8","fromNode":"acc9a0f23e521153","fromSide":"right","toNode":"28fe686eff16769e","toSide":"left"},
+		{"id":"26bb84c5da3fe157","fromNode":"28fe686eff16769e","fromSide":"right","toNode":"3511e6af7338aa8c","toSide":"left","label":"background"},
+		{"id":"ce3934cb8a683b11","fromNode":"eb7f36bda515f947","fromSide":"right","toNode":"e2fb210df230ec3e","toSide":"left","label":"Rudis preference"},
+		{"id":"e59d4eb8bd54a6f5","fromNode":"eb7f36bda515f947","fromSide":"right","toNode":"5a3494b7f6d592ec","toSide":"left"},
+		{"id":"f98cf03b76264ba9","fromNode":"197fcf74c745039d","fromSide":"right","toNode":"5f0feb826db502ba","toSide":"left"},
+		{"id":"d552eed600889a19","fromNode":"197fcf74c745039d","fromSide":"bottom","toNode":"a091b93554240814","toSide":"top"}
+	]
+}

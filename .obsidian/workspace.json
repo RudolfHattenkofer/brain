@@ -21,10 +21,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Scratch pad.canvas",
+                "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -616.2000000000005,
-                  "y": -1541.633145681167,
+                  "x": 458,
+                  "y": 853.790201579139,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratch pad.canvas",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scratch pad.canvas",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratch pad.canvas"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -172,15 +172,15 @@
   },
   "active": "b2694f95b6434254",
   "lastOpenFiles": [
+    "Knowledge/Foaming milk.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Knowledge/Why bubbles hold in things.md",
+    "Scratch pad.canvas",
     "Alex.canvas",
     "__Home__.md",
-    "Untitled.canvas",
     "Geardev/LMU/Erstgespräch.md",
-    "Scratch pad.canvas",
-    "Canvas.md",
-    "Knowledge/Espresso.md",
-    "Orga/People/Me.md",
-    "Knowledge/Django.md",
-    "Knowledge/Operations & Infrastructure.md"
+    "Canvas.md"
   ]
 }
