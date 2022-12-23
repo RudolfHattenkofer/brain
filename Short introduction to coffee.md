@@ -22,6 +22,7 @@ What is coffee?
 	- Even roast
 	- Even grind
 
+
 Brewing
 - Extraction
 	- grind size

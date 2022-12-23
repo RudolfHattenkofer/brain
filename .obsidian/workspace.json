@@ -19,20 +19,24 @@
             "id": "b2694f95b6434254",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d07392df8c5d5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 458,
-                  "y": 853.790201579139,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Short introduction to coffee.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Short introduction to coffee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Short introduction to coffee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Short introduction to coffee.md"
               }
             }
           },
@@ -170,16 +174,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "b2694f95b6434254",
+  "active": "0d07392df8c5d5cd",
   "lastOpenFiles": [
-    "Knowledge/Foaming milk.md",
+    "Untitled.canvas",
     "Untitled 1.md",
     "Untitled.md",
-    "Untitled.canvas",
+    "__Home__.md",
+    "Knowledge/Foaming milk.md",
     "Knowledge/Why bubbles hold in things.md",
     "Scratch pad.canvas",
     "Alex.canvas",
-    "__Home__.md",
     "Geardev/LMU/Erstgespräch.md",
     "Canvas.md"
   ]
