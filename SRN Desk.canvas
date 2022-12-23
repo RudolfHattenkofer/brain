@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"671be72976259c8b","x":-1481,"y":-619,"width":629,"height":1101,"type":"file","file":"Geardev/SRN/Erstgespräch.md"},
+		{"id":"5973a1053bcca62d","x":-793,"y":-619,"width":398,"height":551,"type":"text","text":"## Frontend\n\n[The app itself](https://srn-prod.web.app/#/inside)\n\n[Github](https://github.com/Geardev/srn-app)\n[Firebase Hosting](https://console.firebase.google.com/project/srn-prod/overview)\n[Figma concept](https://www.figma.com/file/7jJq6KePXijWk5JNdPjny6/SRN!?node-id=0%3A1)\n\n[Docs for Tailwind](https://tailwindcss.com/docs/installation)"},
+		{"id":"13fbb00104e05440","x":-320,"y":-619,"width":398,"height":551,"type":"text","text":"## Backend\n\n[The app itself](https://srn-api-bwf2acmbzq-ew.a.run.app/)\n\n[Github](https://github.com/Geardev/srn-api)\n[Cloud Run Hosting](https://console.cloud.google.com/run/detail/europe-west1/srn-api/metrics?project=srn-prod)\n\n\n\nReadiness script:\n[Old Jupyter notebook reference](https://github.com/victor-234/srn-random-stuff)"}
+	],
+	"edges":[]
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Screenshot 2022-12-22 at 08.58.19.png"
+                "file": "zAssets/Screenshot 2022-12-22 at 08.58.19.png"
               }
             }
           },
@@ -23,10 +23,26 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Scratch pad.canvas",
+                "file": "s&p Desk.canvas",
                 "viewState": {
-                  "x": -393.3500000000001,
-                  "y": -1966.0000000000002,
+                  "x": 245.46476047904193,
+                  "y": -533.2191705738151,
+                  "zoom": -1.5659765367903302,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "f8d127ab6faf7231",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "SRN Desk.canvas",
+                "viewState": {
+                  "x": 16.739999999999956,
+                  "y": -49.290000000000006,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -34,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratch pad.canvas",
+                "file": "SRN Desk.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scratch pad.canvas",
+                "file": "SRN Desk.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratch pad.canvas"
+                "file": "SRN Desk.canvas"
               }
             }
           },
@@ -172,17 +188,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "dd3defda780a2446",
+  "active": "f8d127ab6faf7231",
   "lastOpenFiles": [
-    "__Home__.md",
+    "Desk.canvas",
+    "s&p Desk.canvas",
     "Short introduction to coffee.md",
-    "Untitled.canvas",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Knowledge/Foaming milk.md",
-    "Knowledge/Why bubbles hold in things.md",
-    "Scratch pad.canvas",
     "Alex.canvas",
-    "Geardev/LMU/Erstgespräch.md"
+    "zAssets/Pasted image 20221222115121.png",
+    "zAssets/Screenshot 2022-12-22 at 08.58.19.png",
+    "__Home__.md",
+    "SRN Desk.canvas",
+    "Untitled 1.md",
+    "Untitled.md"
   ]
 }

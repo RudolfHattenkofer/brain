@@ -15,7 +15,7 @@
 - Streamlit App
 
 
-### Infra
+### Infra !! OLD -> Refer to [[SRN Desk.canvas]]
 - Backend -> Cloud Run
 	- Python
 - Frontend -> Firebase
@@ -36,22 +36,3 @@
 	- ...
 - Backend
 - Frontend
-
-
-## Dokumentation?
-- Von oben nach unten lesen
-- Kardinalität
-	- `||`  bedeutet "genau eins"
-	- `|}` bedeutet "eins oder mehrere"
-	- z.B. Standard describes one or more StandardRequirement
-
-```mermaid
-erDiagram
-Company ||--o{ CompanyValue : reports
-CompanyValue }|--|| ComplianceItem : fulfills
-Standard ||--|{ StandardRequirement : describes
-StandardRequirement ||--|{ StandardFulfilment : allows
-StandardFulfilment }|--|| ComplianceItem : maps
-StandardRequirement }|--|| ReportingRequirement : maps
-ReportingRequirement ||--|{ ComplianceItem : describes
-```
