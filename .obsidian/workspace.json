@@ -60,9 +60,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1e373b42b208593",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "SRN Desk.canvas",
+                "viewState": {
+                  "x": -597.1288856650934,
+                  "y": -306.41003974803084,
+                  "zoom": 0.0836075763774627,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Subprojects/Apartment Keys.md",
+                "file": "SRN Desk.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Subprojects/Apartment Keys.md",
+                "file": "SRN Desk.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Subprojects/Apartment Keys.md"
+                "file": "SRN Desk.canvas"
               }
             }
           },
@@ -200,8 +216,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "622ae5c95cf9ecc0",
+  "active": "c1e373b42b208593",
   "lastOpenFiles": [
+    "__Home__.md",
     "SRN Desk.canvas",
     "Desk.canvas",
     "s&p Desk.canvas",
@@ -209,7 +226,6 @@
     "Alex.canvas",
     "zAssets/Pasted image 20221222115121.png",
     "zAssets/Screenshot 2022-12-22 at 08.58.19.png",
-    "__Home__.md",
     "Untitled 1.md",
     "Untitled.md"
   ]
