@@ -8,60 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca5136f054b0a46c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zAssets/Screenshot 2022-12-22 at 08.58.19.png"
-              }
-            }
-          },
-          {
-            "id": "dd3defda780a2446",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "s&p Desk.canvas",
-                "viewState": {
-                  "x": 245.46476047904193,
-                  "y": -533.2191705738151,
-                  "zoom": -1.5659765367903302,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "f8d127ab6faf7231",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SRN Desk.canvas",
-                "viewState": {
-                  "x": 16.739999999999956,
-                  "y": -49.290000000000006,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "622ae5c95cf9ecc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga/Subprojects/Apartment Keys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c1e373b42b208593",
             "type": "leaf",
             "state": {
@@ -77,8 +23,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
