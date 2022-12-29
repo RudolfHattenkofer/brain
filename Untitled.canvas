@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9a903c7fcbfe09e5","x":-95,"y":-481,"width":400,"height":400,"type":"link","url":"https://www.visitdenmark.com/denmark/destinations/most-beautiful-towns"},
+		{"id":"096a7eb974094f7e","x":-37,"y":163,"width":650,"height":565,"type":"file","file":"Screenshot 2022-12-29 at 22.11.02.png"},
+		{"id":"e63df7af8578ad79","x":537,"y":387,"width":114,"height":50,"type":"text","text":"Dragor\n\n"},
+		{"id":"9b69cb8dab8aeb7b","x":795,"y":382,"width":250,"height":60,"type":"text","text":"45 Minutes\nby the airport"}
+	],
+	"edges":[
+		{"id":"cf2c93c57f2df670","fromNode":"e63df7af8578ad79","fromSide":"right","toNode":"9b69cb8dab8aeb7b","toSide":"left"}
+	]
+}

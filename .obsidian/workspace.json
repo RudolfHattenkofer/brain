@@ -11,11 +11,15 @@
             "id": "e84cb6f198a8b88d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "__Home__.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 482.0571454813823,
+                  "y": 363.393659243005,
+                  "zoom": -0.16943373113870616,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -69,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Untitled.canvas"
               }
             }
           },
