@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dabc0629e6444cf3",
+            "id": "e84cb6f198a8b88d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "__Home__.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "__Home__.md"
+              }
             }
           },
           {
@@ -149,7 +157,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "dabc0629e6444cf3",
+  "active": "e84cb6f198a8b88d",
   "lastOpenFiles": [
     "__Home__.md",
     "SRN Desk.canvas",
