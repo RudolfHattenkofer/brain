@@ -5,8 +5,9 @@
   "homepage",
   "obsidian-icon-folder",
   "obsidian-git",
-  "buttons",
-  "templater-obsidian",
   "actions-uri",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-annotator",
+  "periodic-notes",
+  "quickadd"
 ]
