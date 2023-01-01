@@ -1,14 +1,12 @@
 [
   "table-editor-obsidian",
-  "calendar",
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-excalidraw-plugin",
   "homepage",
   "obsidian-icon-folder",
   "obsidian-git",
-  "dbfolder",
   "buttons",
   "templater-obsidian",
-  "actions-uri"
+  "actions-uri",
+  "obsidian-outliner"
 ]
