@@ -1,22 +1,22 @@
 {
 	"nodes":[
 		{"id":"9a903c7fcbfe09e5","x":-95,"y":-481,"width":400,"height":400,"type":"link","url":"https://www.visitdenmark.com/denmark/destinations/most-beautiful-towns"},
-		{"id":"096a7eb974094f7e","x":-37,"y":163,"width":650,"height":565,"type":"file","file":"Screenshot 2022-12-29 at 22.11.02.png"},
+		{"id":"096a7eb974094f7e","x":-37,"y":163,"width":650,"height":565,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.11.02.png"},
 		{"id":"e63df7af8578ad79","x":537,"y":387,"width":114,"height":50,"type":"text","text":"Dragor\n\n"},
 		{"id":"99f3af510a809ebf","x":499,"y":488,"width":114,"height":57,"type":"text","text":"Stevns Klint"},
 		{"id":"a3bcca28c934cb89","x":720,"y":589,"width":400,"height":632,"type":"link","url":"https://stevnsklint.dk/"},
 		{"id":"647360de777a526e","x":720,"y":1358,"width":400,"height":400,"type":"link","url":"https://www.southcoastofdenmark.com/holiday/holiday-adults/directions-selected-attractions"},
-		{"id":"9e03abee554d4daf","x":1636,"y":672,"width":741,"height":467,"type":"file","file":"Screenshot 2022-12-29 at 22.32.58.png"},
-		{"id":"3e2770cd31e49c65","x":1636,"y":1194,"width":587,"height":329,"type":"file","file":"Screenshot 2022-12-29 at 22.34.03.png"},
-		{"id":"9ddb6f45fdf52910","x":2247,"y":1194,"width":260,"height":400,"type":"file","file":"Screenshot 2022-12-29 at 22.34.23.png"},
-		{"id":"d91b0b512877f834","x":1636,"y":1558,"width":348,"height":400,"type":"file","file":"Screenshot 2022-12-29 at 22.34.39.png"},
-		{"id":"a78b126b393a74be","x":2023,"y":1626,"width":400,"height":264,"type":"file","file":"Screenshot 2022-12-29 at 22.34.54.png"},
-		{"id":"82e7cf2b8b088bbf","x":2447,"y":1626,"width":459,"height":264,"type":"file","file":"Screenshot 2022-12-29 at 22.35.06.png"},
-		{"id":"448119e26de210a9","x":2531,"y":1306,"width":400,"height":288,"type":"file","file":"Screenshot 2022-12-29 at 22.35.50.png"},
-		{"id":"4443d13c38b379d4","x":2531,"y":1071,"width":400,"height":198,"type":"file","file":"Screenshot 2022-12-29 at 22.36.09.png"},
+		{"id":"9e03abee554d4daf","x":1636,"y":672,"width":741,"height":467,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.32.58.png"},
+		{"id":"3e2770cd31e49c65","x":1636,"y":1194,"width":587,"height":329,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.34.03.png"},
+		{"id":"9ddb6f45fdf52910","x":2247,"y":1194,"width":260,"height":400,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.34.23.png"},
+		{"id":"d91b0b512877f834","x":1636,"y":1558,"width":348,"height":400,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.34.39.png"},
+		{"id":"a78b126b393a74be","x":2023,"y":1626,"width":400,"height":264,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.34.54.png"},
+		{"id":"82e7cf2b8b088bbf","x":2447,"y":1626,"width":459,"height":264,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.35.06.png"},
+		{"id":"448119e26de210a9","x":2531,"y":1306,"width":400,"height":288,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.35.50.png"},
+		{"id":"4443d13c38b379d4","x":2531,"y":1071,"width":400,"height":198,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.36.09.png"},
 		{"id":"9b69cb8dab8aeb7b","x":741,"y":265,"width":250,"height":60,"type":"text","text":"45 Minutes\nby the airport"},
 		{"id":"b3b73637b92712fc","x":1260,"y":693,"width":250,"height":425,"type":"file","file":"Day Trip Copenhagen.md"},
-		{"id":"9d3025989b4ecbac","x":1436,"y":-154,"width":1259,"height":640,"type":"file","file":"Screenshot 2022-12-29 at 22.47.49.png"}
+		{"id":"9d3025989b4ecbac","x":1436,"y":-154,"width":1259,"height":640,"type":"file","file":"zAssets/Screenshot 2022-12-29 at 22.47.49.png"}
 	],
 	"edges":[
 		{"id":"cf2c93c57f2df670","fromNode":"e63df7af8578ad79","fromSide":"right","toNode":"9b69cb8dab8aeb7b","toSide":"left"},

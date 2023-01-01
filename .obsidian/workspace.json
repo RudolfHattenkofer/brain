@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "86469d803541ec2f",
+        "id": "b3f01ddf922f06d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e84cb6f198a8b88d",
+            "id": "70d32157cd055fe6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 2041.8066374140096,
-                  "y": 236.7830299093946,
-                  "zoom": -0.1694337311387062,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -90,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -162,17 +149,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "e84cb6f198a8b88d",
+  "active": "70d32157cd055fe6",
   "lastOpenFiles": [
-    "__Home__.md",
-    "SRN Desk.canvas",
-    "Orga/People Notes/What is my purpose?.md",
-    "Desk.canvas",
+    "Projects/Done/Copenhagen day trip.canvas",
+    "Knowledge/Coffee.md",
+    "Knowledge/Short introduction to coffee.md",
+    "Projects/Vacations 2023.md",
+    "Projects/Done/Copenhagen.md",
+    "Emily Cat.md",
+    "Timeline christmas.md",
     "s&p Desk.canvas",
-    "Short introduction to coffee.md",
-    "Alex.canvas",
-    "zAssets/Pasted image 20221222115121.png",
-    "zAssets/Screenshot 2022-12-22 at 08.58.19.png",
-    "Untitled 1.md"
+    "NAS Network storage.md",
+    "Orga/Recipes/Fluffy pancakes.md"
   ]
 }
