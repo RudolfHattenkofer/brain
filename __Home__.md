@@ -1,4 +1,5 @@
 > [!tip] Yearly theme 2023: Structure
+[[Yearly theme 2023 Structure]]
 [[What is my purpose?]]
 
 > [!note]  Topics
