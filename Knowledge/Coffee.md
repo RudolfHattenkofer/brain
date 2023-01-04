@@ -5,7 +5,7 @@ After the green beans were shipped to the consuming country, the beans are prepa
 I also prepared a [[Short introduction to coffee]].
 
 ### Types
-[[Moka]]  [[Espresso]]  [[V60]]  [[Americano]]  [[Cold Brew]]
+[[Moka]]  [[Espresso]]  [[V60]]  [[Americano]]  [[Cold Brew]] [[Hario Syphon]]
 
 ### Techniques
 [[Foaming milk]]
