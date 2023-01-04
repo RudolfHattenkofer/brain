@@ -4,18 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b3f01ddf922f06d0",
+        "id": "f27b1ecdcaebf947",
         "type": "tabs",
         "children": [
           {
-            "id": "70d32157cd055fe6",
+            "id": "14521645a35d0a2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "__Home__.md",
-                "mode": "source",
-                "source": false
+                "file": "Desk.canvas",
+                "viewState": {
+                  "x": -3750.393023240593,
+                  "y": -3073.9929140244353,
+                  "zoom": 0.23326394022196908,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Desk.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Desk.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Desk.canvas"
               }
             }
           },
@@ -131,32 +135,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open this week": false,
       "canvas:Create new canvas": false,
+      "periodic-notes:Open today": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false,
-      "homepage:Open homepage": false
+      "templates:Insert template": false
     }
   },
-  "active": "70d32157cd055fe6",
+  "active": "14521645a35d0a2b",
   "lastOpenFiles": [
-    "sell & pick/Meetings.md",
     "Desk.canvas",
+    "Orga/Daily/2023-W01.md",
+    "2023 - Foundation.md",
+    "Orga/Daily/2023-01-04.md",
+    "Orga/Daily/2022-12-16.md",
+    "Orga/Daily/2022-10-10.md",
+    "__Home__.md",
+    "sell & pick/Meetings.md",
     "Knowledge/NAS Network storage.md",
-    "Knowledge/Operations & Infrastructure.md",
-    "Knowledge/How to google error messages.md",
-    "Knowledge/Software engineering.md",
-    "Knowledge/Tech.md",
-    "Projects/Done/Copenhagen day trip.canvas",
-    "Knowledge/Coffee.md",
-    "Knowledge/Short introduction to coffee.md"
+    "Knowledge/Operations & Infrastructure.md"
   ]
 }
