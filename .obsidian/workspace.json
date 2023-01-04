@@ -11,8 +11,12 @@
             "id": "334f0b6b800865bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Daily/2023-W01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orga/Daily/2023-W01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orga/Daily/2023-W01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orga/Daily/2023-W01.md"
+              }
             }
           },
           {
@@ -139,8 +147,8 @@
   },
   "active": "334f0b6b800865bb",
   "lastOpenFiles": [
-    "Knowledge/Coffee.md",
     "__Home__.md",
+    "Knowledge/Coffee.md",
     "Desk.canvas",
     "Hario Syphon.md",
     "Orga/Daily/2023.md",
