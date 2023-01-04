@@ -8,8 +8,7 @@
 		{"id":"8dafb2d8b466abcf","x":-3488,"y":-1090,"width":165,"height":60,"type":"text","text":"Fantasy calendar"},
 		{"id":"415633e8fc0fcb5e","x":-3295,"y":-1090,"width":165,"height":60,"type":"text","text":"Kanban"},
 		{"id":"8565079bd0d8ceff","x":-3113,"y":-1090,"width":253,"height":216,"type":"text","text":"Outliner?\nmove in list up-down, undentation level? Does it already do all of that?"},
-		{"id":"bbd9734f0da06b27","x":-2833,"y":-1090,"width":261,"height":108,"type":"text","text":"Periodic Notes\nDaily/Monthly/Quarterly/Yearly"},
-		{"id":"72d4505218fcac79","x":-3946,"y":-3265,"width":382,"height":380,"type":"text","text":"# scale up\n- [ ] Gruppierung Tools Journeys"}
+		{"id":"bbd9734f0da06b27","x":-2833,"y":-1090,"width":261,"height":108,"type":"text","text":"Periodic Notes\nDaily/Monthly/Quarterly/Yearly"}
 	],
 	"edges":[
 		{"id":"64914759834a3a71","fromNode":"a268fef38976b5dd","fromSide":"bottom","toNode":"edc450328fe79259","toSide":"top"},
