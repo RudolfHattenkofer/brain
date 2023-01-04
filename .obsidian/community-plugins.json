@@ -5,9 +5,11 @@
   "homepage",
   "obsidian-icon-folder",
   "obsidian-git",
+  "dbfolder",
+  "buttons",
   "actions-uri",
-  "obsidian-outliner",
   "obsidian-annotator",
+  "obsidian-outliner",
   "periodic-notes",
   "quickadd"
 ]
