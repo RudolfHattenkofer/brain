@@ -140,3 +140,19 @@ Idea:
 - 1x G3 Flex (one upstairs, two downstairs)
 - 2x G4 dome outdoors on either side of the house
 - 2x Flood light
+
+
+## Kaminkehrer
+Original info sale:
+09422 402 9272
+
+Info Buch:
+https://www.buch-am-erlbach.de/Kaminkehrer.n46.html
+
+Mario Rinkl, Bezirksschornsteinfeger
+Kehrbezirk Landshut-Land II
+
+Postanschrift:	Nolteweg 2
+94336 Hunderdorf
+Telefon:	09422/4029272
+E-Mail:	info@kaminkehrer-rinkl.de
