@@ -1,24 +1,32 @@
 Work goals:
-- [ ] scaleup
-	- [ ] Ideally consume 4h
-- [ ] SRN
-	- [ ] Make meaningful progress
-	- [x] Ask about project continuation
-- [x] s&p -> VACATION!! :)
+- [ ] 
 
 Private goals:
-- [ ] Returns
-- [x] Pay bills
-- [ ] Workout in some way, shape or form
-
+- [ ] 
 
 ## Days
-Wednesday
-- [x] Felt productive?
-- [x] Freelanced?
-- [x] Good partner?
+Monday
+- [ ] Felt productive?
+- [ ] Freelanced?
+- [ ] Good partner?
 - [ ] Excersise?
-- [x] Chore or organized something?
+- [ ] Chore or organized something?
+- [ ] Cooked or learned something?
+
+Tuesday
+- [ ] Felt productive?
+- [ ] Freelanced?
+- [ ] Good partner?
+- [ ] Excersise?
+- [ ] Chore or organized something?
+- [ ] Cooked or learned something?
+
+Wednesday
+- [ ] Felt productive?
+- [ ] Freelanced?
+- [ ] Good partner?
+- [ ] Excersise?
+- [ ] Chore or organized something?
 - [ ] Cooked or learned something?
 
 Thursday
@@ -39,7 +47,6 @@ Friday
 
 Saturday
 - [ ] Felt productive?
-- [ ] Freelanced?
 - [ ] Good partner?
 - [ ] Excersise?
 - [ ] Chore or organized something?
