@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-W01.md",
+                "file": "Orga/Daily/2023-01-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-W01.md",
+                "file": "Orga/Daily/2023-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-W01.md",
+                "file": "Orga/Daily/2023-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-W01.md"
+                "file": "Orga/Daily/2023-01-05.md"
               }
             }
           },
@@ -142,20 +142,21 @@
       "graph:Open graph view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "d3fc4ba167596d99",
   "lastOpenFiles": [
+    "Desk.canvas",
+    "Orga/Daily/2023-01-05.md",
+    "__Home__.md",
     "Orga/Templates/Weekly.md",
     "Orga/Daily/2023-W01.md",
     "SRN Desk.canvas",
-    "__Home__.md",
     "Knowledge/Coffee.md",
-    "Desk.canvas",
     "Hario Syphon.md",
     "Orga/Daily/2023.md",
-    "2023 - Foundation.md",
-    "Projects/Zachermühle.md"
+    "2023 - Foundation.md"
   ]
 }

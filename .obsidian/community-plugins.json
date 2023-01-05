@@ -2,14 +2,12 @@
   "table-editor-obsidian",
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
+  "obsidian-excalidraw-plugin",
   "homepage",
   "obsidian-icon-folder",
   "obsidian-git",
   "dbfolder",
   "buttons",
-  "actions-uri",
-  "obsidian-annotator",
-  "obsidian-outliner",
-  "periodic-notes",
-  "quickadd"
+  "templater-obsidian",
+  "periodic-notes"
 ]

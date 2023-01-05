@@ -5,7 +5,7 @@
   "daily": {
     "folder": "Orga/Daily",
     "template": "Orga/Templates/Daily.md",
-    "enabled": false
+    "enabled": true
   },
   "weekly": {
     "format": "",
