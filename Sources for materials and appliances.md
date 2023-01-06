@@ -1,3 +1,3 @@
 BayWa
 https://www.reuter.de/en/
-A&
+ao.de
