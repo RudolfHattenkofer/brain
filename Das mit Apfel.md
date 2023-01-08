@@ -4,4 +4,4 @@
 - Brühe
 - Tomatenmark
 
-Schweinemedaillons
+Schweinemedaillons, Käse und Äpfel 

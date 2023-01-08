@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Windows x64 on Mac.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b972235c3472ea11",
+  "active": "b03ad83838cd1a47",
   "lastOpenFiles": [
     "__Home__.md",
     "Landshuter Hochzeit.md",
