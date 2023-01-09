@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-01-09.md",
+                "file": "Landshuter Hochzeit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-01-09.md",
+                "file": "Landshuter Hochzeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-01-09.md",
+                "file": "Landshuter Hochzeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-01-09.md"
+                "file": "Landshuter Hochzeit.md"
               }
             }
           },
@@ -150,6 +150,7 @@
   },
   "active": "62bd17a8f2967aca",
   "lastOpenFiles": [
+    "Orga/Daily/2023-01-09.md",
     "Orga/Daily/2023-W02.md",
     "__Home__.md",
     "Kodak S2000 on Mac M1.md",
@@ -158,7 +159,6 @@
     "SRN Desk.canvas",
     "Orga/Daily/2023-01-06.md",
     "KUG.md",
-    "Orga/Daily/2023-01-05.md",
-    "Desk.canvas"
+    "Orga/Daily/2023-01-05.md"
   ]
 }

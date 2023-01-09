@@ -5,6 +5,12 @@ Immer am Samstag (nacht) oder Sonntag (Abend).
 Immer Klasse 1 bestellen
 Oma will auf jeden Fall mit, primär am Abend
 
+10 Karten F&T Samstag
+6 Karten Nachtlager Samstag
+
+6 Karten Umzug
+6 Karten Reiterspiele
+
 ## Fest- und Tanzspiel
 Mittwoch 19, Donnerstag 19, Freitag 18, Samstag 13
 
