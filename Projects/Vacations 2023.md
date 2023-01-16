@@ -3,6 +3,7 @@
 
 March: Megan USA
 Ende Mai (Pfingsten): Israel
+June: Megan's parents visit
 Juli: Megan USA
 Oktober: Ägypten
 December: Christmas USA

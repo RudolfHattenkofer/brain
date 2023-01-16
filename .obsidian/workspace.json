@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "115546ef6b523880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Document management.md",
+                "file": "KUG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Document management.md",
+                "file": "KUG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Document management.md",
+                "file": "KUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Document management.md"
+                "file": "KUG.md"
               }
             }
           },
@@ -161,8 +148,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "115546ef6b523880",
+  "active": "62bd17a8f2967aca",
   "lastOpenFiles": [
+    "Document management.md",
+    "KUG.md",
     "__Home__.md",
     "Orga/Daily/2023-01-09.md",
     "Orga/Daily/2023-W02.md",
@@ -170,8 +159,6 @@
     "Landshuter Hochzeit.md",
     "Kodak S2000 on Mac M1.md",
     "Orga/People Notes/Taxes Steuern.md",
-    "SRN Desk.canvas",
-    "Orga/Daily/2023-01-06.md",
-    "KUG.md"
+    "SRN Desk.canvas"
   ]
 }
