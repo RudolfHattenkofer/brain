@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Knowledge/Access logs to recover old BigQuery view definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kost Steingress.md",
+                "file": "Knowledge/Access logs to recover old BigQuery view definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kost Steingress.md",
+                "file": "Knowledge/Access logs to recover old BigQuery view definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kost Steingress.md"
+                "file": "Knowledge/Access logs to recover old BigQuery view definitions.md"
               }
             }
           },
@@ -161,8 +160,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcdfcf9a5544aff6",
+  "active": "62bd17a8f2967aca",
   "lastOpenFiles": [
+    "Knowledge/BigQuery.md",
     "__Home__.md",
     "Document management.md",
     "Projects/Done/KUG.md",
@@ -171,7 +171,6 @@
     "Projects/Vacations 2023.md",
     "Landshuter Hochzeit.md",
     "Kodak S2000 on Mac M1.md",
-    "Orga/People Notes/Taxes Steuern.md",
-    "SRN Desk.canvas"
+    "Orga/People Notes/Taxes Steuern.md"
   ]
 }
