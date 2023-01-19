@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62bd17a8f2967aca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Home__.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fcdfcf9a5544aff6",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2f5af9586fccddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G&S Rezepturen SQL Datenbank.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "G&S Rezepturen SQL Datenbank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "G&S Rezepturen SQL Datenbank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "G&S Rezepturen SQL Datenbank.md"
               }
             }
           },
@@ -160,17 +161,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "62bd17a8f2967aca",
+  "active": "e2f5af9586fccddf",
   "lastOpenFiles": [
-    "Knowledge/BigQuery.md",
+    "Kost Steingress.md",
+    "G&S Rezepturen SQL Datenbank.md",
     "__Home__.md",
+    "Knowledge/BigQuery.md",
     "Document management.md",
     "Projects/Done/KUG.md",
     "Orga/Daily/2023-01-09.md",
     "Orga/Daily/2023-W02.md",
     "Projects/Vacations 2023.md",
-    "Landshuter Hochzeit.md",
-    "Kodak S2000 on Mac M1.md",
-    "Orga/People Notes/Taxes Steuern.md"
+    "Landshuter Hochzeit.md"
   ]
 }
