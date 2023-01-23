@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Orga/Daily/2023-W04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Orga/Daily/2023-W04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Orga/Daily/2023-W04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Orga/Daily/2023-W04.md"
               }
             }
           },
@@ -150,8 +150,8 @@
   },
   "active": "fcdfcf9a5544aff6",
   "lastOpenFiles": [
-    "Orga/Daily/2023-W04.md",
     "__Home__.md",
+    "Orga/Daily/2023-W04.md",
     "Orga/Daily/2023-W03.md",
     "Orga/Daily/2023-01-21.md",
     "New display monitor.md",
