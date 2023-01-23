@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-01-21.md",
+                "file": "__Home__.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-01-21.md",
+                "file": "__Home__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-01-21.md",
+                "file": "__Home__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-01-21.md"
+                "file": "__Home__.md"
               }
             }
           },
@@ -150,15 +150,15 @@
   },
   "active": "fcdfcf9a5544aff6",
   "lastOpenFiles": [
-    "New display monitor.md",
-    "Orga/Daily/2023-01-21.md",
+    "Orga/Daily/2023-W04.md",
     "__Home__.md",
+    "Orga/Daily/2023-W03.md",
+    "Orga/Daily/2023-01-21.md",
+    "New display monitor.md",
     "Kost Steingress.md",
     "G&S Rezepturen SQL Datenbank.md",
     "Knowledge/BigQuery.md",
     "Document management.md",
-    "Projects/Done/KUG.md",
-    "Orga/Daily/2023-01-09.md",
-    "Orga/Daily/2023-W02.md"
+    "Projects/Done/KUG.md"
   ]
 }

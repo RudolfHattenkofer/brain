@@ -1,6 +1,7 @@
+
 > [!tip] Yearly theme 2023: Foundation
 [[2023|2023 - Foundation]]
-[[2023-W03]]
+[[2023-W04]]
 [[What is my purpose?]]
 
 > [!note]  Topics
