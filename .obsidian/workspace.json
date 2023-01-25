@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-W04.md",
+                "file": "sell & pick/Lunch Liste.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-W04.md",
+                "file": "sell & pick/Lunch Liste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-W04.md",
+                "file": "sell & pick/Lunch Liste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-W04.md"
+                "file": "sell & pick/Lunch Liste.md"
               }
             }
           },
