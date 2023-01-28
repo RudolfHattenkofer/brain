@@ -7,8 +7,12 @@ May 25th to June 2nd: Israel
 June 16th to 20th: Garmisch Patenkirchen
 June 21st to 25th: Megan's parents visit
 July 28th - Aug 3rd: Megan USA
-October 20th - 29th: Egypt?
 December: Christmas USA
+
+
+
+
+
 
 Megan:
 Semester from March 13th to June 23rd
