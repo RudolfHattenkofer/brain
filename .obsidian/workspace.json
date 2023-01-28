@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/People Notes/Taxes Steuern.md",
+                "file": "Projects/Zachermühle.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/People Notes/Taxes Steuern.md",
+                "file": "Projects/Zachermühle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/People Notes/Taxes Steuern.md",
+                "file": "Projects/Zachermühle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/People Notes/Taxes Steuern.md"
+                "file": "Projects/Zachermühle.md"
               }
             }
           },
@@ -151,6 +151,8 @@
   },
   "active": "fccab34da09ec186",
   "lastOpenFiles": [
+    "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
+    "Orga/People Notes/Taxes Steuern.md",
     "__Home__.md",
     "Knowledge/Update or Export BigQuery schema.md",
     "Orga/Daily/2023-W04.md",
@@ -158,8 +160,6 @@
     "Orga/Daily/2023-01-21.md",
     "New display monitor.md",
     "Kost Steingress.md",
-    "G&S Rezepturen SQL Datenbank.md",
-    "Knowledge/BigQuery.md",
-    "Document management.md"
+    "G&S Rezepturen SQL Datenbank.md"
   ]
 }

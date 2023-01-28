@@ -11,6 +11,9 @@ Zacherlmühle 16
 * Sonnenblumenring - November 2022 Glasfaser
 * Bauherrenservice is nur für geschlossene Ortschaften
 * Individueller Ausbau: mbfm-ausbau@telekom.de -> Verweis auf [Formular](https://www.telekom.de/netz/glasfaser/mehr-breitband-fuer-mich)
+	- Leerrohr: mit
+	- SpeedNet-Rohr: Mit
+	- KEINE weiße Wanne
 
 
 ## Grundstück
