@@ -15,10 +15,9 @@ Ingest all invoices
 - [ ] Email invoices
 - [ ] Amazon
 - [ ] Papierrechnungen
-- [ ] Internet Belgradstraße
+- [ ] Internet
 
 Recheck
-
 - [ ] Offene Posten
 
 

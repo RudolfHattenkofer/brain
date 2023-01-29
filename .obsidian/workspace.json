@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1fbaec1e607fe7c7",
+        "id": "745d943d4338a406",
         "type": "tabs",
         "children": [
           {
-            "id": "fccab34da09ec186",
+            "id": "590062c4c9712821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zachermühle.md",
+                "file": "Orga/Daily/2023-W04.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Zachermühle.md",
+                "file": "Orga/Daily/2023-W04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Zachermühle.md",
+                "file": "Orga/Daily/2023-W04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Zachermühle.md"
+                "file": "Orga/Daily/2023-W04.md"
               }
             }
           },
@@ -149,17 +149,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fccab34da09ec186",
+  "active": "590062c4c9712821",
   "lastOpenFiles": [
-    "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
-    "Orga/People Notes/Taxes Steuern.md",
     "__Home__.md",
+    "Orga/People Notes/Taxes Steuern.md",
+    "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
+    "Projects/Zachermühle.md",
+    "Geardev/Geardev/Geardev Accounting.md",
     "Knowledge/Update or Export BigQuery schema.md",
     "Orga/Daily/2023-W04.md",
     "Orga/Daily/2023-W03.md",
     "Orga/Daily/2023-01-21.md",
-    "New display monitor.md",
-    "Kost Steingress.md",
-    "G&S Rezepturen SQL Datenbank.md"
+    "New display monitor.md"
   ]
 }
