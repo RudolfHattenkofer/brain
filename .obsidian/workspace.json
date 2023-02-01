@@ -11,8 +11,12 @@
             "id": "9daa5ceb112228b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Daily/2023-02-01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orga/Daily/2023-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orga/Daily/2023-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orga/Daily/2023-02-01.md"
+              }
             }
           },
           {
@@ -143,15 +151,15 @@
   },
   "active": "9daa5ceb112228b0",
   "lastOpenFiles": [
-    "Orga/Daily/2023-01-31.md",
     "__Home__.md",
+    "Orga/Daily/2023-02-01.md",
+    "Orga/Daily/2023-01-31.md",
     "Knowledge/Access old table data in BigQuery.md",
     "Knowledge/BigQuery.md",
     "Orga/Daily/2023-01-29.md",
     "Orga/Daily/2023-01-21.md",
     "Orga/Daily/2023-01-23.md",
     "Orga/Daily/2023-W01.md",
-    "Orga/People Notes/Taxes Steuern.md",
-    "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md"
+    "Orga/People Notes/Taxes Steuern.md"
   ]
 }
