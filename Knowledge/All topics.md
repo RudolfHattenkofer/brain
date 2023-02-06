@@ -7,7 +7,7 @@
 
 **Food**
 
-[[Wine]] [[Coffee]] [[Gin & Tonic]] [[Water database]]
+[[Wine]] [[Coffee]] [[Gin & Tonic]] [[Water database]] [[Cooking]]
 
 **Hobbies**
 

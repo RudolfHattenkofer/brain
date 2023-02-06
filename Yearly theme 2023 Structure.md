@@ -1,2 +1,0 @@
-- Workout routine (eg running)
-- Freelance working vs s&p times

@@ -1,2 +1,4 @@
 - [Great expectations](https://greatexpectations.io/)
+	- Manual
 - https://mastheadata.com/
+	- Has to authenticate entire Google account -> No fucking way :-)

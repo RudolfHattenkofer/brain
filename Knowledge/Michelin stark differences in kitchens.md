@@ -1,3 +1,5 @@
+Top down vs collaborative approach!
+
 https://youtu.be/NO-8wSqfS4s
 - Very cocky (Michelin star tattoo)
 - top down hierarchy

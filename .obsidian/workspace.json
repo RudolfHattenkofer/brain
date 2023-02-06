@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tableau meetup.md",
+                "file": "Knowledge/Cooking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tableau meetup.md",
+                "file": "Knowledge/Cooking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tableau meetup.md",
+                "file": "Knowledge/Cooking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tableau meetup.md"
+                "file": "Knowledge/Cooking.md"
               }
             }
           },
@@ -150,15 +150,15 @@
   },
   "active": "8452d243c61d4244",
   "lastOpenFiles": [
-    "Yearly theme 2023 Structure.md",
-    "Desk.canvas",
-    "Enkelausflug.md",
-    "G&S Rezepturen SQL Datenbank.md",
-    "Michelin stark differences.md",
+    "Knowledge/All topics.md",
+    "Knowledge/Cooking.md",
+    "Knowledge/Michelin stark differences in kitchens.md",
     "LATCH.md",
-    "__Home__.md",
-    "Projects/Megan Visa fucked up.md",
-    "Orga/Daily/2023-02-01.md",
-    "Orga/Daily/2023-01-31.md"
+    "Tableau meetup.md",
+    "Keep innovation going.md",
+    "Document generation and management.md",
+    "Data quality monitoring.md",
+    "sell & pick/Meetings/Kost Steingress.md",
+    "Oma abholen.md"
   ]
 }

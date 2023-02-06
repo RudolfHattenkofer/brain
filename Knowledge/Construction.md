@@ -11,3 +11,5 @@ Managing a bunch of building requires a [[Software zur Hausverwaltung]]
 Green building often includes [[Solarthermie und Photovoltaik]]
 
 [[Interior design]]
+
+[[Sources for materials and appliances]]
