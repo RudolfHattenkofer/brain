@@ -13,4 +13,4 @@
 - Ayinger am Platzl -> Mittagsmenü
 - Verde
 - Organic Garden @ Mercedes Benz?
-- 
+- Pfistermühle
