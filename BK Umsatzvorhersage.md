@@ -1,0 +1,2 @@
+- Zuvor <5%
+- Letzte Monate schwierig?
