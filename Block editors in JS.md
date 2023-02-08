@@ -9,3 +9,5 @@ Editor.js
 
 strikethrough?
 headline
+
+First edit? It's really fking empty at the start!

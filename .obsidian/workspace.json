@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bda21942f84b3060",
+        "id": "44fe7d79676e3cab",
         "type": "tabs",
         "children": [
           {
-            "id": "8cd6a23219712a42",
+            "id": "faa28227d7722234",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,17 +149,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8cd6a23219712a42",
+  "active": "faa28227d7722234",
   "lastOpenFiles": [
-    "Knowledge/Mermaid.md",
+    "Knowledge/Coffee regions.md",
     "Block editors in JS.md",
+    "Knowledge/Access old table data in BigQuery.md",
+    "Knowledge/Mermaid.md",
     "Flow editors in JS.md",
     "BK Umsatzvorhersage.md",
     "__Home__.md",
     "Orga/Daily/2023-02-06.md",
     "Tableau meetup.md",
-    "Document generation and management.md",
-    "Knowledge/All topics.md",
-    "Knowledge/Cooking.md"
+    "Document generation and management.md"
   ]
 }
