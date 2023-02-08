@@ -5,3 +5,7 @@ Editor.js
 
 - Drag'n'Drop via plugin
 - Undo via plugin
+
+
+strikethrough?
+headline
