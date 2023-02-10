@@ -125,3 +125,26 @@ from before
 left join after on (before.store_label = after.store_label)
 
 ```
+
+
+# Proper comparison FH plan
+FH plan Dec+Jan by store:
+store	diff_fh
+14114	11.11%
+14569	6.95%
+13163	35.96%
+8350	18.32%
+15456	20.14%
+12760	14.73%
+
+Overall	20.46%
+Dec		15.7%
+Jan		34.6%
+
+
+s&p model										overall	dec	jan
+v1_revenue_daily_base_prev_year	10.3%
+v2_revenue_daily_base_prev_year	10.4%
+v3_revenue_daily_base_prev_year	9.4%
+v4_revenue_daily_base_prev_year 4.9% 3.9% 5.8%
+v5_revenue_daily_base_prev_year 22.1% 27.8% 16.3%
