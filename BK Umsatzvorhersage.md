@@ -148,10 +148,84 @@ v2_revenue_daily_base_prev_year	10.4%
 v3_revenue_daily_base_prev_year	9.4%
 v4_revenue_daily_base_prev_year 4.9% 3.9% 5.8%
 v5_revenue_daily_base_prev_year 22.1% 27.8% 16.3%
-v6_revenue_daily_base_prev_year
-v7_revenue_daily_base_prev_year
 
+Unser Modell mit Basis relativ zum 4-Wochen-Schnitt erzielt eine Genauigkeit von 17.3%.
+v6_revenue_daily_base_prev_year 17.3% 19.7% 14.9%
 
+Das selbe Modell mit Basis relativ zum Vorjahres-Schnitt erzielt eine Genauigkeit von 24.1%.
+v7_revenue_daily_base_prev_year 24.1% 29% 19%
+
+## Comparison
+```
+with diffs as (
+  select
+
+  store_label,
+  business_day,
+  price_net_actual,
+  predicted_price_net,
+  Plan_FH,
+  abs(price_net_actual - predicted_price_net) / price_net_actual as diff_sp,
+  abs(price_net_actual - Plan_FH) / price_net_actual as diff_fh,
+  from `sellpick-analytics-ml.familyholding.export_20230207_after` sp
+  left join `sellpick-analytics-ml.familyholding.benchmark_fh_plan` fh on (
+    sp.business_day = fh.Datum
+    and sp.store_label = concat("familyholding-", cast(fh.Store as string))
+  )
+  where version = "v6_revenue_daily_base_prev_year"
+
+  order by business_day, store_label
+)
+
+-- select
+-- store_label,
+-- avg(if(business_day between "2022-12-01" and "2022-12-31", diff_sp, null)) as diff_sp_dec,
+-- avg(if(business_day between "2023-01-01" and "2023-01-31", diff_sp, null)) as diff_sp_jan,
+-- avg(diff_sp) as diff_sp_overall,
+-- from diffs
+-- group by store_label
+
+-- union all
+
+select
+"all",
+avg(diff_sp) as diff_sp,
+avg(if(business_day between "2022-12-01" and "2022-12-31", diff_sp, null)) as diff_sp_dec,
+avg(if(business_day between "2023-01-01" and "2023-01-31", diff_sp, null)) as diff_sp_jan,
+
+from diffs
+```
+
+## Generate predictions
+```
+select
+
+store_label,
+business_day,
+price_net as price_net_actual,
+predicted_price_net_relative * avg_price_net as predicted_price_net,
+temperature,
+main_weather,
+holiday_label,
+bridging_day_count,
+daybeforeholiday,
+is_vacation,
+top_feature_attributions,
+CURRENT_TIMESTAMP() AS imported_at,
+"v7_revenue_daily_base_prev_year" as version,
+
+from ML.EXPLAIN_PREDICT(
+  MODEL `sellpick-analytics-ml.familyholding.v7_revenue_daily_base_prev_year`,
+  (
+    select r.* except(holiday_label), is_holiday as holiday_label, s.Location_type
+    -- from `sellpick-analytics-ml.familyholding.v2_revenue_daily_base_28_days` r
+    from `sellpick-analytics-ml.familyholding.revenue_daily_relative_to_prev_year` r
+    left join `sellpick-analytics-client.familyholding.stores_v2` s on s.store_label = r.store_label
+    where business_day between "2022-12-01" and "2023-01-31"
+  ),
+  STRUCT(10 AS top_k_features)
+)
+```
 ## v6_revenue_daily_base_prev_year
 -> Based on v2_revenue_daily_base_28_days
 ```
