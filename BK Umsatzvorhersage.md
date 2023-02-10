@@ -148,3 +148,84 @@ v2_revenue_daily_base_prev_year	10.4%
 v3_revenue_daily_base_prev_year	9.4%
 v4_revenue_daily_base_prev_year 4.9% 3.9% 5.8%
 v5_revenue_daily_base_prev_year 22.1% 27.8% 16.3%
+v6_revenue_daily_base_prev_year
+v7_revenue_daily_base_prev_year
+
+
+## v6_revenue_daily_base_prev_year
+-> Based on v2_revenue_daily_base_28_days
+```
+CREATE OR REPLACE MODEL `sellpick-analytics-ml.familyholding.v6_revenue_daily_base_prev_year`
+OPTIONS (MODEL_TYPE = 'BOOSTED_TREE_REGRESSOR',
+-- NUM_PARALLEL_TREE = 1,
+-- MAX_TREE_DEPTH = 20,
+-- MIN_TREE_CHILD_WEIGHT = 5,
+-- LEARN_RATE= 0.15,
+-- COLSAMPLE_BYTREE = 0.9,
+-- MAX_ITERATIONS = 15,
+EARLY_STOP = TRUE,
+DATA_SPLIT_METHOD = 'RANDOM',
+DATA_SPLIT_EVAL_FRACTION = 0.1,
+INPUT_LABEL_COLS = ['price_net_relative'])
+AS SELECT
+
+r.store_label,
+is_friday,
+is_saturday,
+is_sunday,
+is_weekday,
+s.Location_type, -- Autobahn oder Stadt
+diff_temp, -- Not relevant for BK customers
+temperature, -- Not relevant for BK customers
+main_weather,
+is_holiday,
+-- bridging_day_count,
+daybeforeholiday,
+is_vacation,
+price_net / avg_price_net as price_net_relative,
+
+FROM `sellpick-analytics-ml.familyholding.v2_revenue_daily_base_28_days` r
+left join `sellpick-analytics-client.familyholding.stores_v2` s on s.store_label = r.store_label
+
+where avg_price_net != 0 and price_net != 0
+and business_day < "2022-12-01"
+```
+
+## v7_revenue_daily_base_prev_year
+-> Based on revenue_daily_relative_to_prev_year
+``` 
+CREATE OR REPLACE MODEL `sellpick-analytics-ml.familyholding.v7_revenue_daily_base_prev_year`
+OPTIONS (MODEL_TYPE = 'BOOSTED_TREE_REGRESSOR',
+-- NUM_PARALLEL_TREE = 1,
+-- MAX_TREE_DEPTH = 20,
+-- MIN_TREE_CHILD_WEIGHT = 5,
+-- LEARN_RATE= 0.15,
+-- COLSAMPLE_BYTREE = 0.9,
+-- MAX_ITERATIONS = 15,
+EARLY_STOP = TRUE,
+DATA_SPLIT_METHOD = 'RANDOM',
+DATA_SPLIT_EVAL_FRACTION = 0.1,
+INPUT_LABEL_COLS = ['price_net_relative'])
+AS SELECT
+
+r.store_label,
+is_friday,
+is_saturday,
+is_sunday,
+is_weekday,
+s.Location_type, -- Autobahn oder Stadt
+diff_temp, -- Not relevant for BK customers
+temperature, -- Not relevant for BK customers
+main_weather,
+is_holiday,
+-- bridging_day_count,
+daybeforeholiday,
+is_vacation,
+price_net / avg_price_net as price_net_relative,
+
+FROM `sellpick-analytics-ml.familyholding.revenue_daily_relative_to_prev_year` r
+left join `sellpick-analytics-client.familyholding.stores_v2` s on s.store_label = r.store_label
+
+where avg_price_net != 0 and price_net != 0
+and business_day < "2022-12-01"
+```
