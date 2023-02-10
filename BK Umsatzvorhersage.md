@@ -138,57 +138,31 @@ STRUCT(10 AS top_k_features)
 
 
 ```with after as (
-
 select
-
 "1" as store_label,
-
 avg(abs(price_net_actual - predicted_price_net) / price_net_actual) diff_after,
-
 from `sellpick-analytics-ml.familyholding.export_20230207_after`
-
 where price_net_actual is not null
-
 and version = "v7"
-
 group by 1
-
 order by 2 desc
-
 ),
-
 before as (
-
 select
-
 "1" as store_label,
-
 avg(abs(price_net_actual - predicted_price_net) / price_net_actual) as diff_before,
-
 from `sellpick-analytics-ml.familyholding.export_20230207`
-
 where price_net_actual is not null
-
 group by 1
-
 order by 2 desc
-
 )
 
-  
-
 select
-
 before.store_label,
-
 diff_before,
-
 diff_after,
-
 diff_after - diff_before,
-
 from before
-
 left join after on (before.store_label = after.store_label)
 
 ```
