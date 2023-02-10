@@ -28,43 +28,26 @@ https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-synt
 
 ```
 CREATE OR REPLACE MODEL `sellpick-analytics-ml.familyholding.v4_revenue_daily_base_prev_year`
-
 OPTIONS (MODEL_TYPE = 'BOOSTED_TREE_REGRESSOR',
-
 -- NUM_PARALLEL_TREE = 1,
-
 MAX_TREE_DEPTH = 20,
-
 -- MIN_TREE_CHILD_WEIGHT = 5,
-
 -- LEARN_RATE= 0.15,
-
 -- COLSAMPLE_BYTREE = 0.9,
-
 -- MAX_ITERATIONS = 15,
-
 EARLY_STOP = TRUE,
-
 DATA_SPLIT_METHOD = 'RANDOM',
-
 DATA_SPLIT_EVAL_FRACTION = 0.1,
-
 INPUT_LABEL_COLS = ['price_net_relative'])
-
 AS SELECT
 
   
 
 r.store_label,
-
 is_friday,
-
 is_saturday,
-
 is_sunday,
-
 is_weekday,
-
 s.Location_type, -- Autobahn oder Stadt
 
 diff_temp, -- Not relevant for BK customers
