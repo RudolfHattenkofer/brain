@@ -155,6 +155,8 @@ v6_revenue_daily_base_prev_year 17.3% 19.7% 14.9%
 Das selbe Modell mit Basis relativ zum Vorjahres-Schnitt erzielt eine Genauigkeit von 24.1%.
 v7_revenue_daily_base_prev_year 24.1% 29% 19%
 
+
+
 ## Comparison
 ```
 with diffs as (
