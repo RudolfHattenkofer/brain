@@ -1,0 +1,1 @@
+There are standard document metadata sets, like [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core).
