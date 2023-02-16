@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-02-15.md",
+                "file": "Orga/Daily/2023-W07.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-02-15.md",
+                "file": "Orga/Daily/2023-W07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-02-15.md",
+                "file": "Orga/Daily/2023-W07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-02-15.md"
+                "file": "Orga/Daily/2023-W07.md"
               }
             }
           },
@@ -149,12 +149,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bab1adef7337cad3",
+  "active": "df2a6f6574cdc89c",
   "lastOpenFiles": [
     "__Home__.md",
+    "Orga/Daily/2023-W05.md",
     "Orga/Daily/2023-W06.md",
     "Orga/Daily/2023-W07.md",
-    "Orga/Daily/2023-W05.md",
     "BK Umsatzvorhersage.md",
     "Projects/Zachermühle.md",
     "Document generation and management.md",
