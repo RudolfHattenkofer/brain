@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-02-15.md",
+                "file": "Knowledge/Calculate interest for a loan.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-02-15.md",
+                "file": "Knowledge/Calculate interest for a loan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-02-15.md",
+                "file": "Knowledge/Calculate interest for a loan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-02-15.md"
+                "file": "Knowledge/Calculate interest for a loan.md"
               }
             }
           },
@@ -151,8 +151,8 @@
   },
   "active": "df2a6f6574cdc89c",
   "lastOpenFiles": [
-    "Orga/Daily/2023-02-16.md",
     "__Home__.md",
+    "Orga/Daily/2023-02-16.md",
     "Knowledge/Calculate interest for a loan.md",
     "Orga/Daily/2023-W07.md",
     "Orga/Daily/2023-W05.md",
