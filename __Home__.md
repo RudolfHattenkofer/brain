@@ -13,7 +13,7 @@
 > [!abstract] Current
 [[To Research]] 
 [[Logistics of medieval warfare]]
-[[Liquidity Management]]
+[[Liquidity Management Cashflow]]
 [[Short introduction to coffee]]
 
 Projects:
