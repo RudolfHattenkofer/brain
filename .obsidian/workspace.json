@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Create BigQuery table from \"nothing\".md",
+                "file": "Orga/Daily/2023-02-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Create BigQuery table from \"nothing\".md",
+                "file": "Orga/Daily/2023-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Create BigQuery table from \"nothing\".md",
+                "file": "Orga/Daily/2023-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Create BigQuery table from \"nothing\".md"
+                "file": "Orga/Daily/2023-02-23.md"
               }
             }
           },
