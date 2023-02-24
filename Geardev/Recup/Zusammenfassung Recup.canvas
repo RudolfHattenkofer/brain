@@ -7,7 +7,8 @@
 		{"type":"file","file":"Geardev/Recup/SQL queries.md","id":"a7f9242b7c4e76c1","x":1000,"y":320,"width":400,"height":400},
 		{"type":"file","file":"Geardev/Recup/Generate codes.md","id":"8fa6635d32167741","x":1480,"y":320,"width":400,"height":126},
 		{"type":"file","file":"Geardev/Recup/Recup.md","id":"ee770fb688c93efe","x":700,"y":-840,"width":540,"height":300},
-		{"type":"text","text":"# Shopclapp\n\nConnector from Shopware to Weclapp\n\n\nToDo: What is shopclapp, what is shopware-connector? Access no longer active on GH.\n\n# Shopware-Connector\n[shopware-connector on GCP](https://console.cloud.google.com/home/dashboard?project=shopware-connector)\n\nToDo: What is the connection to fastcheckout project?","id":"e35f6af082265a53","x":1460,"y":-280,"width":420,"height":400}
+		{"type":"text","text":"# Shopclapp\n\nConnector from Shopware to Weclapp\n\n\nToDo: What is shopclapp, what is shopware-connector? Access no longer active on GH.\n\n# Shopware-Connector\n[shopware-connector on GCP](https://console.cloud.google.com/home/dashboard?project=shopware-connector)\n\nToDo: What is the connection to fastcheckout project?","id":"e35f6af082265a53","x":1460,"y":-280,"width":420,"height":400},
+		{"id":"2af1e4a83705e299","x":1940,"y":-280,"width":370,"height":230,"type":"text","text":"# Maps\n- recup.de\n\t- [8666e7e8a41e2709](https://console.cloud.google.com/google/maps-apis/studio/maps/8666e7e8a41e2709?project=rebowl-map)\n- umgebung.recup.de\n\t- color 585d0a76e579ab38\n\t- b/w 817f60cf46ebefb"}
 	],
 	"edges":[
 		{"id":"2a7ca2dbe74ab6a2","fromNode":"fcc926bac6abd7a0","fromSide":"bottom","toNode":"292562b57b804ffa","toSide":"top"},
@@ -16,6 +17,7 @@
 		{"id":"5727bee47c3783ec","fromNode":"ee770fb688c93efe","fromSide":"bottom","toNode":"26e34ec78a306d86","toSide":"top"},
 		{"id":"b2de2e1e8d1db7fd","fromNode":"ee770fb688c93efe","fromSide":"bottom","toNode":"fcc926bac6abd7a0","toSide":"top"},
 		{"id":"41c846ef2ac23cb9","fromNode":"ee770fb688c93efe","fromSide":"bottom","toNode":"bdd4ef0dbb6e2e0b","toSide":"top"},
-		{"id":"d7456e6669a08cd7","fromNode":"ee770fb688c93efe","fromSide":"bottom","toNode":"e35f6af082265a53","toSide":"top"}
+		{"id":"d7456e6669a08cd7","fromNode":"ee770fb688c93efe","fromSide":"bottom","toNode":"e35f6af082265a53","toSide":"top"},
+		{"id":"d04cc8aecf0ec078","fromNode":"ee770fb688c93efe","fromSide":"bottom","toNode":"2af1e4a83705e299","toSide":"top"}
 	]
 }
