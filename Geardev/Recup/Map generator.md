@@ -2,6 +2,9 @@ Generate a partner map for print use.
 
 [Feedback list in Google Sheets](https://docs.google.com/spreadsheets/d/1r25eXB1DtDuDheD_2zLFT-RdXETZ95yOd68rh-mzBag/edit#gid=0)
 [Partner in der Umgebung](https://umgebung.recup.de/)
+[Project on GCP](https://console.cloud.google.com/google/maps-apis/studio/maps?project=rebowl-map)
+
+[Some code? Recheck!](https://github.com/Geardev/rebowl-map)
 
 ## Features
 
