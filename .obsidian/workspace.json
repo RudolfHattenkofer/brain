@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-02-23.md",
+                "file": "Orga/Daily/2023-02-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "checked until",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-02-23.md",
+                "file": "Orga/Daily/2023-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-02-23.md",
+                "file": "Orga/Daily/2023-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-02-23.md"
+                "file": "Orga/Daily/2023-02-24.md"
               }
             }
           },
@@ -149,9 +149,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83f242563ca965df",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
     "__Home__.md",
+    "Orga/Daily/2023-02-24.md",
     "Knowledge/Financial.md",
     "BK Umsatzvorhersage.md",
     "Orga/Daily/2023-02-21.md",
