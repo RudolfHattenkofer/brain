@@ -1,7 +1,6 @@
-Rebowl software platforms
+Generate a partner map for print use.
 
-[Feedbacks](https://docs.google.com/spreadsheets/d/1r25eXB1DtDuDheD_2zLFT-RdXETZ95yOd68rh-mzBag/edit#gid=0)
-
+[Feedback list in Google Sheets](https://docs.google.com/spreadsheets/d/1r25eXB1DtDuDheD_2zLFT-RdXETZ95yOd68rh-mzBag/edit#gid=0)
 [Partner in der Umgebung](https://umgebung.recup.de/)
 
 ## Features

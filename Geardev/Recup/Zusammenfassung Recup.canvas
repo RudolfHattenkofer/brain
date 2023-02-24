@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"file","file":"Geardev/Recup/Map generator.md","id":"26e34ec78a306d86","x":60,"y":-280,"width":400,"height":400},
+		{"type":"file","file":"Geardev/Recup/Mehrwegrechner.md","id":"bdd4ef0dbb6e2e0b","x":530,"y":-280,"width":400,"height":400},
+		{"type":"file","file":"Geardev/Recup/User scan.md","id":"fcc926bac6abd7a0","x":1000,"y":-280,"width":400,"height":400},
+		{"type":"file","file":"Geardev/Recup/Scan Codes.md","id":"292562b57b804ffa","x":520,"y":320,"width":400,"height":400},
+		{"type":"file","file":"Geardev/Recup/SQL queries.md","id":"a7f9242b7c4e76c1","x":1000,"y":320,"width":400,"height":400},
+		{"type":"file","file":"Geardev/Recup/Generate codes.md","id":"8fa6635d32167741","x":1480,"y":320,"width":400,"height":126},
+		{"type":"file","file":"Geardev/Recup/Recup.md","id":"ee770fb688c93efe","x":460,"y":-720,"width":540,"height":300}
+	],
+	"edges":[
+		{"id":"2a7ca2dbe74ab6a2","fromNode":"fcc926bac6abd7a0","fromSide":"bottom","toNode":"292562b57b804ffa","toSide":"top"},
+		{"id":"0f55dc627b76c4aa","fromNode":"fcc926bac6abd7a0","fromSide":"bottom","toNode":"8fa6635d32167741","toSide":"top"},
+		{"id":"0831ba5e54e43cda","fromNode":"fcc926bac6abd7a0","fromSide":"bottom","toNode":"a7f9242b7c4e76c1","toSide":"top"},
+		{"id":"5727bee47c3783ec","fromNode":"ee770fb688c93efe","fromSide":"bottom","toNode":"26e34ec78a306d86","toSide":"top"},
+		{"id":"b2de2e1e8d1db7fd","fromNode":"ee770fb688c93efe","fromSide":"bottom","toNode":"fcc926bac6abd7a0","toSide":"top"},
+		{"id":"41c846ef2ac23cb9","fromNode":"ee770fb688c93efe","fromSide":"bottom","toNode":"bdd4ef0dbb6e2e0b","toSide":"top"}
+	]
+}

@@ -1,8 +1,8 @@
-Rebowl software platforms
+Takes in a "ping" from a user when scanning a Rebowl/Recup QR Code. Allows analytics and optional user login.
 
 Scans: [Cloud Storage](https://console.cloud.google.com/storage/browser/rebowl-user-scans;tab=objects?forceOnBucketsSortingFiltering=false&project=user-scan-7a2e1&prefix=) [BigQuery](https://console.cloud.google.com/bigquery?project=user-scan-7a2e1&p=user-scan-7a2e1&d=scans&t=pings&page=table)
 
-[Code](https://github.com/RECUP-git/user-scan-app)
+[Code on GitHub](https://github.com/RECUP-git/user-scan-app)
 
 [Ingest function](https://console.cloud.google.com/functions/details/europe-west1/user-scan-ingest?project=rebowl-pos) → [Logs](https://console.cloud.google.com/logs/query;query=resource.type%3D%22cloud_function%22%20resource.labels.region%3D%22europe-west1%22?organizationId=1008342064481&project=user-scan-7a2e1)
 

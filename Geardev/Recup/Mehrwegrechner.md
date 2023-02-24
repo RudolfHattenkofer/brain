@@ -1,11 +1,6 @@
-[GitHub](https://github.com/RECUP-git/mehrwegrechner)
+Form embed on website that lets you calculate savings for using Recup.
 
-## ToDo
-
-- [x] Frontend
-- [x] Backend
--+ BigQuery ingest
--+ HubSpot user
+[Code on GitHub](https://github.com/RECUP-git/mehrwegrechner)
 
 ## Backend 2021-04-14
 
