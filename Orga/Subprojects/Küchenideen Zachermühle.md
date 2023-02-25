@@ -14,3 +14,6 @@ AirBnB [Casa Ars Natura](https://www.airbnb.com/rooms/38083307?source_impression
 	- Stove <> Fridge <> Sink
 	- 1.2m - 3m per leg
 	- 4m - 8m total
+
+![Kitchen diner ideas](https://cdn.mos.cms.futurecdn.net/oLbqkHPzYUJUK8NCvv6Poj-415-80.jpg)
+![[upTiqVTexFRnqM6EQufnzf-1280-80.jpg.webp]]
