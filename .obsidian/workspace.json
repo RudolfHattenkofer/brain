@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f1a5d51b319e571a",
+        "id": "309e882f3624a0b3",
         "type": "tabs",
         "children": [
           {
-            "id": "33cfae182e187c10",
+            "id": "3e5a7a3a9a547b7e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Geardev/Recup/Zusammenfassung Recup.canvas",
-                "viewState": {
-                  "x": 1196.4603492161295,
-                  "y": -212.27055454180947,
-                  "zoom": -0.5466666666666666
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -89,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geardev/Recup/Zusammenfassung Recup.canvas",
+                "file": "zAssets/Screenshot 2023-02-07 at 14.47.35.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geardev/Recup/Zusammenfassung Recup.canvas",
+                "file": "zAssets/Screenshot 2023-02-07 at 14.47.35.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geardev/Recup/Zusammenfassung Recup.canvas"
+                "file": "zAssets/Screenshot 2023-02-07 at 14.47.35.png"
               }
             }
           },
@@ -152,30 +144,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "33cfae182e187c10",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
-    "Geardev/Recup/User scan.md",
+    "zAssets/Screenshot 2023-02-07 at 17.10.14.png",
+    "zAssets/Screenshot 2023-02-07 at 14.47.35.png",
     "Geardev/Recup/Zusammenfassung Recup.canvas",
+    "Geardev/Recup/Archive/User scan.md",
+    "Geardev/Recup/Archive/Shopclapp.md",
+    "Geardev/Recup/Archive/Scan Codes.md",
+    "Geardev/Recup/Archive/SQL queries.md",
+    "Geardev/Recup/Archive/Mehrwegrechner.md",
+    "Geardev/Recup/Archive/Maps.md",
+    "Geardev/Recup/Archive/Map generator.md",
+    "Geardev/Recup/Archive/Generate codes.md",
+    "Geardev/Recup/Archive",
+    "Geardev/Recup/Archive.zip",
+    "Geardev/Recup/Maps.md",
+    "Geardev/Recup/Shopclapp.md",
+    "Geardev/Recup/Map generator.md",
+    "Geardev/Recup/User scan.md",
     "Geardev/Recup/Recup.md",
     "Geardev/Recup/Structure.md",
     "Geardev/Recup/REPLACE.md",
     "Geardev/Recup/Workshop 2020-12-16.md",
     "Geardev/Recup/Scan Codes.md",
     "Geardev/Recup/SQL queries.md",
-    "Geardev/Recup/Map generator.md",
     "Geardev/Recup/Carlo Sparring.md",
     "Geardev/Recup/CF Meeting.md",
     "__Home__.md",
     "Tableau meetup.md",
     "Orga/Daily/2023-02-24.md",
     "Knowledge/Financial.md",
-    "BK Umsatzvorhersage.md",
-    "Orga/Daily/2023-02-21.md",
-    "Knowledge/BigQuery.md",
-    "Orga/Daily/2023-02-16.md",
-    "Knowledge/Calculate interest for a loan.md",
-    "Orga/Daily/2023-W07.md",
-    "Orga/Daily/2023-W05.md",
-    "Orga/Daily/2023-W06.md"
+    "BK Umsatzvorhersage.md"
   ]
 }
