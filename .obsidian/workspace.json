@@ -11,8 +11,12 @@
             "id": "3e5a7a3a9a547b7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Subprojects/Küchenideen Zachermühle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zAssets/Screenshot 2023-02-07 at 14.47.35.png",
+                "file": "Orga/Subprojects/Küchenideen Zachermühle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zAssets/Screenshot 2023-02-07 at 14.47.35.png",
+                "file": "Orga/Subprojects/Küchenideen Zachermühle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zAssets/Screenshot 2023-02-07 at 14.47.35.png"
+                "file": "Orga/Subprojects/Küchenideen Zachermühle.md"
               }
             }
           },
@@ -144,8 +148,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bab1adef7337cad3",
+  "active": "3e5a7a3a9a547b7e",
   "lastOpenFiles": [
+    "Orga/Daily/2023-02-25.md",
+    "__Home__.md",
     "zAssets/Screenshot 2023-02-07 at 17.10.14.png",
     "zAssets/Screenshot 2023-02-07 at 14.47.35.png",
     "Geardev/Recup/Zusammenfassung Recup.canvas",
@@ -171,7 +177,6 @@
     "Geardev/Recup/SQL queries.md",
     "Geardev/Recup/Carlo Sparring.md",
     "Geardev/Recup/CF Meeting.md",
-    "__Home__.md",
     "Tableau meetup.md",
     "Orga/Daily/2023-02-24.md",
     "Knowledge/Financial.md",
