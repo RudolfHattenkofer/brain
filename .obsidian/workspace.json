@@ -15,8 +15,8 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 263.37947752808986,
-                  "y": 95.22095786516851,
+                  "x": 660.1655449438199,
+                  "y": 67.94191573033704,
                   "zoom": -0.41498684196249225
                 }
               }
@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BK Umsatzvorhersage.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BK Umsatzvorhersage.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BK Umsatzvorhersage.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -165,14 +164,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e9b46db6163f55e",
+  "active": "3e5a7a3a9a547b7e",
   "lastOpenFiles": [
+    "BK Umsatzvorhersage.md",
     "Untitled.canvas",
     "Screenshot 2023-02-27 at 10.35.46.png",
     "Screenshot 2023-02-27 at 10.35.30.png",
     "Screenshot 2023-02-27 at 10.34.52.png",
     "Screenshot 2023-02-27 at 10.30.46.png",
-    "BK Umsatzvorhersage.md",
     "__Home__.md",
     "Orga/Daily/2023-W09.md",
     "zAssets/upTiqVTexFRnqM6EQufnzf-1280-80.jpg.webp",

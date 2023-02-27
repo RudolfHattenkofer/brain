@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"d4e6eef2158d2d0b","x":-183,"y":-315,"width":389,"height":400,"type":"file","file":"Screenshot 2023-02-27 at 10.30.46.png"},
-		{"id":"29003a07637e2c95","x":280,"y":-315,"width":393,"height":400,"type":"file","file":"Screenshot 2023-02-27 at 10.34.52.png"},
-		{"id":"ad7ddc54663b4a39","x":-183,"y":160,"width":397,"height":400,"type":"file","file":"Screenshot 2023-02-27 at 10.35.30.png"},
-		{"id":"9a3f04f71c38670d","x":280,"y":160,"width":400,"height":289,"type":"file","file":"Screenshot 2023-02-27 at 10.35.46.png"}
+		{"type":"file","file":"Screenshot 2023-02-27 at 10.30.46.png","id":"d4e6eef2158d2d0b","x":-183,"y":-315,"width":389,"height":400},
+		{"type":"file","file":"Screenshot 2023-02-27 at 10.34.52.png","id":"29003a07637e2c95","x":280,"y":-315,"width":393,"height":400},
+		{"type":"file","file":"Screenshot 2023-02-27 at 10.35.30.png","id":"ad7ddc54663b4a39","x":-183,"y":160,"width":397,"height":400},
+		{"type":"file","file":"Screenshot 2023-02-27 at 10.35.46.png","id":"9a3f04f71c38670d","x":280,"y":160,"width":400,"height":289},
+		{"type":"text","text":"7.0\ntotal 0.24145325814099763\ndec 0.29037461549552385\njan 0.19253190078647131","id":"762f8404f95de828","x":732,"y":160,"width":308,"height":117},
+		{"type":"text","text":"7.1\ntotal 0.23208743045574015\ndec 0.28445872096653757\njan 0.17971613994494298","id":"69a3476e8466a18c","x":732,"y":305,"width":308,"height":117},
+		{"type":"text","text":"6.0\ntotal 0.17303512503491852\ndec 0.19722760784749827\nja 0.14884264222233892","id":"cb610c1e7e07b8a5","x":740,"y":-314,"width":300,"height":117},
+		{"type":"text","text":"6.1\ntotal 0.19265804002408576\ndec 0.21582651522559557\nja 0.16948956482257602","id":"fcdfe5f445d2e00c","x":740,"y":-173,"width":300,"height":117}
 	],
 	"edges":[]
 }
