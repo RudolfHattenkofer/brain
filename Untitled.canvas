@@ -2,19 +2,24 @@
 	"nodes":[
 		{"type":"file","file":"Screenshot 2023-02-27 at 10.30.46.png","id":"d4e6eef2158d2d0b","x":-183,"y":-315,"width":389,"height":400},
 		{"type":"file","file":"Screenshot 2023-02-27 at 10.34.52.png","id":"29003a07637e2c95","x":280,"y":-315,"width":393,"height":400},
-		{"type":"text","text":"# 4-Wochen","id":"7d3a025c14c19948","x":-527,"y":-144,"width":250,"height":60},
 		{"type":"text","text":"6.0\ntotal 0.17303512503491852\ndec 0.19722760784749827\nja 0.14884264222233892","id":"cb610c1e7e07b8a5","x":-183,"y":-432,"width":300,"height":117},
-		{"type":"text","text":"6.1\ntotal 0.19265804002408576\ndec 0.21582651522559557\nja 0.16948956482257602","id":"fcdfe5f445d2e00c","x":280,"y":-432,"width":300,"height":117},
-		{"type":"file","file":"Screenshot 2023-02-27 at 10.35.46.png","id":"9a3f04f71c38670d","x":280,"y":361,"width":400,"height":289},
-		{"type":"file","file":"Screenshot 2023-02-27 at 10.35.30.png","id":"ad7ddc54663b4a39","x":-183,"y":305,"width":397,"height":400},
-		{"type":"text","text":"# Vorjahr","id":"49e688a9d518e87c","x":-527,"y":475,"width":250,"height":60},
-		{"type":"text","text":"7.0\ntotal 0.24145325814099763\ndec 0.29037461549552385\njan 0.19253190078647131","id":"762f8404f95de828","x":-183,"y":188,"width":308,"height":117},
-		{"type":"text","text":"7.1\ntotal 0.23208743045574015\ndec 0.28445872096653757\njan 0.17971613994494298","id":"69a3476e8466a18c","x":280,"y":244,"width":308,"height":117}
+		{"type":"text","text":"6.1\nHistory!\n\ntotal 0.19265804002408576\ndec 0.21582651522559557\nja 0.16948956482257602","id":"fcdfe5f445d2e00c","x":280,"y":-500,"width":300,"height":185},
+		{"id":"0e2430a7ba93e0dd","x":-259,"y":-1780,"width":930,"height":1120,"type":"file","file":"BK Umsatzvorhersage.md"},
+		{"type":"text","text":"# 4-Wochen","id":"7d3a025c14c19948","x":-560,"y":-403,"width":250,"height":60},
+		{"type":"text","text":"# Vorjahr","id":"49e688a9d518e87c","x":-580,"y":248,"width":250,"height":60},
+		{"type":"text","text":"7.0\ntotal 0.24145325814099763\ndec 0.29037461549552385\njan 0.19253190078647131","id":"762f8404f95de828","x":-170,"y":220,"width":308,"height":117},
+		{"type":"file","file":"Screenshot 2023-02-27 at 10.35.30.png","id":"ad7ddc54663b4a39","x":-170,"y":337,"width":397,"height":400},
+		{"type":"file","file":"Screenshot 2023-02-27 at 10.35.46.png","id":"9a3f04f71c38670d","x":336,"y":337,"width":400,"height":289},
+		{"type":"text","text":"7.1\ntotal 0.23208743045574015\ndec 0.28445872096653757\njan 0.17971613994494298","id":"4314b285bcadfff9","x":336,"y":220,"width":308,"height":117},
+		{"id":"97e790e77859b9e8","x":1120,"y":-703,"width":500,"height":203,"type":"text","text":"v6_2\nRemove all variables\n\ndiff_sp 0.20460969589216327\ndiff_sp_dec 0.22206612856841793\ndiff_sp_jan 0.18715326321590872\n\n```\nCREATE OR REPLACE MODEL `sellpick-analytics-ml.familyholding.v6_2_revenue_daily_base_prev_year`\nOPTIONS (MODEL_TYPE = 'BOOSTED_TREE_REGRESSOR',\n-- NUM_PARALLEL_TREE = 1,\n-- MAX_TREE_DEPTH = 20,\n-- MIN_TREE_CHILD_WEIGHT = 5,\n-- LEARN_RATE= 0.15,\n-- COLSAMPLE_BYTREE = 0.9,\n-- MAX_ITERATIONS = 15,\n-- EARLY_STOP = TRUE,\n-- DATA_SPLIT_METHOD = 'RANDOM',\n-- DATA_SPLIT_EVAL_FRACTION = 0.1,\nINPUT_LABEL_COLS = ['price_net_relative'])\nAS SELECT\n\nr.store_label,\nis_friday,\nis_saturday,\nis_sunday,\nis_weekday,\ns.Location_type, -- Autobahn oder Stadt\ndiff_temp, -- Not relevant for BK customers\ntemperature, -- Not relevant for BK customers\nmain_weather,\nis_holiday,\n-- bridging_day_count,\ndaybeforeholiday,\nis_vacation,\nprice_net / avg_price_net as price_net_relative,\n\nFROM `sellpick-analytics-ml.familyholding.v2_revenue_daily_base_28_days` r\nleft join `sellpick-analytics-client.familyholding.stores_v2` s on s.store_label = r.store_label\n\nwhere avg_price_net != 0 and price_net != 0\nand business_day < \"2022-12-01\"\n```"},
+		{"id":"419aa78028b26e44","x":1120,"y":-40,"width":500,"height":195,"type":"text","text":"v6_3\nAutoML!\n\n```\nCREATE OR REPLACE MODEL `sellpick-analytics-ml.familyholding.v6_3_revenue_daily_base_prev_year`\nOPTIONS (MODEL_TYPE = 'AUTOML_REGRESSOR',\nBUDGET_HOURS=2,\nINPUT_LABEL_COLS = ['price_net_relative'])\nAS SELECT\n\nr.store_label,\nis_friday,\nis_saturday,\nis_sunday,\nis_weekday,\ns.Location_type, -- Autobahn oder Stadt\ndiff_temp, -- Not relevant for BK customers\ntemperature, -- Not relevant for BK customers\nmain_weather,\nis_holiday,\n-- bridging_day_count,\ndaybeforeholiday,\nis_vacation,\nprice_net / avg_price_net as price_net_relative,\n\nFROM `sellpick-analytics-ml.familyholding.v2_revenue_daily_base_28_days` r\nleft join `sellpick-analytics-client.familyholding.stores_v2` s on s.store_label = r.store_label\n\nwhere avg_price_net != 0 and price_net != 0\nand business_day < \"2022-12-01\"\n```"}
 	],
 	"edges":[
-		{"id":"2fe1b4dabe1ec913","fromNode":"d4e6eef2158d2d0b","fromSide":"right","toNode":"29003a07637e2c95","toSide":"left"},
-		{"id":"8b0fd56666d8fe0e","fromNode":"ad7ddc54663b4a39","fromSide":"right","toNode":"9a3f04f71c38670d","toSide":"left"},
-		{"id":"b24683b2d87d8b67","fromNode":"7d3a025c14c19948","fromSide":"right","toNode":"d4e6eef2158d2d0b","toSide":"left"},
-		{"id":"82b07cd4c77155fb","fromNode":"49e688a9d518e87c","fromSide":"right","toNode":"ad7ddc54663b4a39","toSide":"left"}
+		{"id":"2fe1b4dabe1ec913","fromNode":"cb610c1e7e07b8a5","fromSide":"right","toNode":"fcdfe5f445d2e00c","toSide":"left"},
+		{"id":"82b07cd4c77155fb","fromNode":"49e688a9d518e87c","fromSide":"right","toNode":"762f8404f95de828","toSide":"left"},
+		{"id":"b8ce875987b10e14","fromNode":"fcdfe5f445d2e00c","fromSide":"right","toNode":"97e790e77859b9e8","toSide":"left"},
+		{"id":"32a588dbd60a6de2","fromNode":"fcdfe5f445d2e00c","fromSide":"right","toNode":"419aa78028b26e44","toSide":"left"},
+		{"id":"4cf9e95771b3e403","fromNode":"7d3a025c14c19948","fromSide":"right","toNode":"cb610c1e7e07b8a5","toSide":"left"},
+		{"id":"ff0f12016a468563","fromNode":"762f8404f95de828","fromSide":"right","toNode":"4314b285bcadfff9","toSide":"left"}
 	]
 }
