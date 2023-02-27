@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d4e6eef2158d2d0b","x":-183,"y":-315,"width":389,"height":400,"type":"file","file":"Screenshot 2023-02-27 at 10.30.46.png"},
+		{"id":"29003a07637e2c95","x":280,"y":-315,"width":393,"height":400,"type":"file","file":"Screenshot 2023-02-27 at 10.34.52.png"},
+		{"id":"ad7ddc54663b4a39","x":-183,"y":160,"width":397,"height":400,"type":"file","file":"Screenshot 2023-02-27 at 10.35.30.png"},
+		{"id":"9a3f04f71c38670d","x":280,"y":160,"width":400,"height":289,"type":"file","file":"Screenshot 2023-02-27 at 10.35.46.png"}
+	],
+	"edges":[]
+}

@@ -11,15 +11,31 @@
             "id": "3e5a7a3a9a547b7e",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 263.37947752808986,
+                  "y": 95.22095786516851,
+                  "zoom": -0.41498684196249225
+                }
+              }
+            }
+          },
+          {
+            "id": "6e9b46db6163f55e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "BK Umsatzvorhersage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "BK Umsatzvorhersage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "BK Umsatzvorhersage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "BK Umsatzvorhersage.md"
               }
             }
           },
@@ -148,12 +165,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3e5a7a3a9a547b7e",
+  "active": "6e9b46db6163f55e",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Screenshot 2023-02-27 at 10.35.46.png",
+    "Screenshot 2023-02-27 at 10.35.30.png",
+    "Screenshot 2023-02-27 at 10.34.52.png",
+    "Screenshot 2023-02-27 at 10.30.46.png",
+    "BK Umsatzvorhersage.md",
+    "__Home__.md",
     "Orga/Daily/2023-W09.md",
     "zAssets/upTiqVTexFRnqM6EQufnzf-1280-80.jpg.webp",
     "Orga/Daily/2023-02-25.md",
-    "__Home__.md",
     "zAssets/Screenshot 2023-02-07 at 17.10.14.png",
     "zAssets/Screenshot 2023-02-07 at 14.47.35.png",
     "Geardev/Recup/Zusammenfassung Recup.canvas",
@@ -179,8 +202,6 @@
     "Geardev/Recup/SQL queries.md",
     "Geardev/Recup/Carlo Sparring.md",
     "Geardev/Recup/CF Meeting.md",
-    "Tableau meetup.md",
-    "Orga/Daily/2023-02-24.md",
-    "Knowledge/Financial.md"
+    "Tableau meetup.md"
   ]
 }
