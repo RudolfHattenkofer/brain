@@ -212,11 +212,10 @@ holiday_label,
 bridging_day_count,
 daybeforeholiday,
 is_vacation,
-top_feature_attributions,
 CURRENT_TIMESTAMP() AS imported_at,
 "v7_revenue_daily_base_prev_year" as version,
 
-from ML.EXPLAIN_PREDICT(
+from ML.PREDICT(
   MODEL `sellpick-analytics-ml.familyholding.v7_revenue_daily_base_prev_year`,
   (
     select r.* except(holiday_label), is_holiday as holiday_label, s.Location_type
@@ -224,8 +223,7 @@ from ML.EXPLAIN_PREDICT(
     from `sellpick-analytics-ml.familyholding.revenue_daily_relative_to_prev_year` r
     left join `sellpick-analytics-client.familyholding.stores_v2` s on s.store_label = r.store_label
     where business_day between "2022-12-01" and "2023-01-31"
-  ),
-  STRUCT(10 AS top_k_features)
+  )
 )
 ```
 ## v6_revenue_daily_base_prev_year
