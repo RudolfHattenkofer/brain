@@ -11,14 +11,11 @@
             "id": "3e5a7a3a9a547b7e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 705.5519087550254,
-                  "y": -1744.1882700828912,
-                  "zoom": 0.14377984154804085
-                }
+                "file": "Orga/Daily/2023-03-01.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Orga/Daily/2023-03-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Orga/Daily/2023-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Orga/Daily/2023-03-01.md"
               }
             }
           },
@@ -165,11 +162,13 @@
   },
   "active": "3e5a7a3a9a547b7e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Orga/Daily/2023-03-01.md",
+    "__Home__.md",
     "Screenshot 2023-02-28 at 10.46.55.png",
     "Screenshot 2023-02-28 at 10.40.16.png",
     "Screenshot 2023-02-28 at 10.39.02.png",
     "Screenshot 2023-02-28 at 09.52.18.png",
-    "__Home__.md",
     "Screenshot 2023-02-27 at 22.29.21.png",
     "BK Umsatzvorhersage.md",
     "Untitled.canvas",
@@ -180,7 +179,6 @@
     "Orga/Daily/2023-W09.md",
     "zAssets/upTiqVTexFRnqM6EQufnzf-1280-80.jpg.webp",
     "Orga/Daily/2023-02-25.md",
-    "zAssets/Screenshot 2023-02-07 at 17.10.14.png",
     "Geardev/Recup/Zusammenfassung Recup.canvas",
     "Geardev/Recup/Archive/User scan.md",
     "Geardev/Recup/Archive/Shopclapp.md",
@@ -203,7 +201,6 @@
     "Geardev/Recup/Scan Codes.md",
     "Geardev/Recup/SQL queries.md",
     "Geardev/Recup/Carlo Sparring.md",
-    "Geardev/Recup/CF Meeting.md",
-    "Tableau meetup.md"
+    "Geardev/Recup/CF Meeting.md"
   ]
 }
