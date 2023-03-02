@@ -37,7 +37,12 @@
 		{"id":"539820750c10ff87","x":5380,"y":-920,"width":400,"height":350,"type":"file","file":"Screenshot 2023-03-02 at 11.08.18.png"},
 		{"id":"3ecbab8c954e563e","x":6320,"y":-1394,"width":620,"height":94,"type":"text","text":"```\nv8_1_4_3_1_1_revenue_daily_base_prev_year\n```"},
 		{"id":"7166cc45ff04252a","x":6360,"y":-1270,"width":394,"height":400,"type":"file","file":"Screenshot 2023-03-02 at 11.11.58.png"},
-		{"id":"4e9e9c02ca470534","x":5960,"y":-1840,"width":400,"height":137,"type":"file","file":"Screenshot 2023-03-02 at 11.12.05.png"}
+		{"id":"4e9e9c02ca470534","x":5960,"y":-1840,"width":400,"height":137,"type":"file","file":"Screenshot 2023-03-02 at 11.12.05.png"},
+		{"id":"e35b041961457bb4","x":7440,"y":-983,"width":739,"height":263,"type":"file","file":"Screenshot 2023-03-02 at 11.56.47.png"},
+		{"id":"86fbd3bbd0473cb2","x":8254,"y":-995,"width":688,"height":288,"type":"file","file":"Screenshot 2023-03-02 at 11.54.25.png"},
+		{"id":"e1b14778b61889c7","x":8254,"y":-1103,"width":250,"height":60,"type":"text","text":"FH"},
+		{"id":"ecf9527ee7f7b396","x":7440,"y":-1093,"width":394,"height":50,"type":"text","text":"sp v9_3_1_1_revenue_daily_base_prev_year"},
+		{"id":"53b28db0f449d5bb","x":7807,"y":-1579,"width":250,"height":60,"type":"text","text":"Planzahlen"}
 	],
 	"edges":[
 		{"id":"2fe1b4dabe1ec913","fromNode":"cb610c1e7e07b8a5","fromSide":"right","toNode":"fcdfe5f445d2e00c","toSide":"left"},
