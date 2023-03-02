@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"group","label":"Untitled group","id":"aef727bb54f02a8c","x":5320,"y":-1480,"width":668,"height":930},
+		{"type":"group","label":"Wochentage Vorjahr (Statistik)","id":"aef727bb54f02a8c","x":5320,"y":-1480,"width":668,"height":930},
 		{"type":"group","label":"Untitled group","id":"d77c1ae6cb90cb01","x":5200,"y":-240,"width":660,"height":564},
 		{"type":"file","file":"Screenshot 2023-02-27 at 10.30.46.png","id":"d4e6eef2158d2d0b","x":-183,"y":-315,"width":321,"height":330},
 		{"type":"file","file":"Screenshot 2023-02-27 at 10.34.52.png","id":"29003a07637e2c95","x":280,"y":-315,"width":307,"height":312},
@@ -35,13 +35,14 @@
 		{"type":"text","text":"factors 3 weeks total\n```\n-- Get historic revenues\nwith revenue as (\n  select\n  store_label,\n  business_day,\n  format_date('%a', business_day) as weekday,\n  sum(price_net) as price_net,\n  from `sellpick-analytics-client.familyholding.daily_revenue`\n  group by store_label, business_day\n),\ncalendar as (\n  select\n  store_label,\n  business_day,\n  format_date('%a', business_day) as weekday,\n  from unnest(generate_date_array(\n    -- date_add(current_date(), interval 1 day)\n    -- date_add(current_date(), interval 10 day)\n    \"2022-12-01\",\n    \"2023-02-28\"\n  )) as business_day\n  cross join (select distinct store_label from `sellpick-analytics-client.familyholding.stores_v2`)\n),\nrevenue_with_average as (\n  select\n  *,\n  AVG(revenue.price_net) OVER (partition by store_label, weekday\n    ORDER BY revenue.business_day, weekday\n    ROWS BETWEEN 53 PRECEDING AND 51 PRECEDING\n  ) AS avg_price_net_prevyear_weekday,\n  AVG(revenue.price_net) OVER (partition by store_label\n    ORDER BY revenue.business_day\n    ROWS BETWEEN 371 PRECEDING AND 357 PRECEDING -- 53 weeks to 51 weeks ago - 1 week around the current week\n  ) AS avg_price_net_prevyear,\n  AVG(revenue.price_net) OVER (partition by store_label\n    ORDER BY revenue.business_day\n    ROWS BETWEEN 14 PRECEDING AND 1 PRECEDING\n  ) AS avg_price_net_currentyear,\n  from revenue\n  order by business_day desc\n),\npredictions as (\n  select\n  calendar.store_label,\n  calendar.business_day,\n  revenue_with_average.avg_price_net_prevyear_weekday * (revenue_with_average.avg_price_net_currentyear / revenue_with_average.avg_price_net_prevyear) as predicted_price_net,\n  revenue_with_average.price_net as price_net_actual,\n  from calendar\n  left join revenue_with_average on (revenue_with_average.store_label = calendar.store_label and calendar.business_day = revenue_with_average.business_day)\n  where revenue_with_average.avg_price_net_prevyear != 0\n),\ndiffs as (\n  select\n  store_label,\n  business_day,\n  price_net_actual,\n  predicted_price_net,\n  abs(price_net_actual - predicted_price_net) / price_net_actual as diff_sp,\n  from predictions\n  where price_net_actual != 0\n  order by business_day, store_label\n)\n\nselect\n\"total\",\navg(diff_sp) as total,\navg(if(business_day between \"2022-12-01\" and \"2022-12-31\", diff_sp, null)) as dec,\navg(if(business_day between \"2023-01-01\" and \"2023-01-31\", diff_sp, null)) as jan,\navg(if(business_day between \"2023-02-01\" and \"2023-02-28\", diff_sp, null)) as feb,\nfrom diffs\ngroup by 1\n\nunion all\n\nselect\nstore_label,\navg(diff_sp) as total,\navg(if(business_day between \"2022-12-01\" and \"2022-12-31\", diff_sp, null)) as dec,\navg(if(business_day between \"2023-01-01\" and \"2023-01-31\", diff_sp, null)) as jan,\navg(if(business_day between \"2023-02-01\" and \"2023-02-28\", diff_sp, null)) as feb,\nfrom diffs\ngroup by 1\n```","id":"c7f0ef5b34f6ce23","x":5340,"y":-1460,"width":540,"height":280},
 		{"type":"file","file":"Screenshot 2023-03-02 at 10.22.34.png","id":"8acbf3267d5218b8","x":5340,"y":-1180,"width":628,"height":220},
 		{"type":"file","file":"Screenshot 2023-03-02 at 11.08.18.png","id":"539820750c10ff87","x":5380,"y":-920,"width":400,"height":350},
-		{"type":"file","file":"Screenshot 2023-03-02 at 11.12.05.png","id":"4e9e9c02ca470534","x":5960,"y":-1840,"width":400,"height":137},
 		{"type":"text","text":"```\nv8_1_4_3_1_1_revenue_daily_base_prev_year\n```","id":"3ecbab8c954e563e","x":5220,"y":-220,"width":620,"height":94},
 		{"type":"file","file":"Screenshot 2023-03-02 at 11.11.58.png","id":"7166cc45ff04252a","x":5260,"y":-96,"width":394,"height":400},
 		{"type":"file","file":"Screenshot 2023-03-02 at 11.56.47.png","id":"e35b041961457bb4","x":6133,"y":-1253,"width":739,"height":263},
-		{"type":"text","text":"sp v9_3_1_1_revenue_daily_base_prev_year","id":"ecf9527ee7f7b396","x":6133,"y":-1303,"width":394,"height":50},
 		{"type":"file","file":"Screenshot 2023-03-02 at 11.54.25.png","id":"86fbd3bbd0473cb2","x":6133,"y":-860,"width":688,"height":288},
-		{"type":"text","text":"FH","id":"e1b14778b61889c7","x":6133,"y":-920,"width":250,"height":60}
+		{"type":"file","file":"Screenshot 2023-03-02 at 12.40.00.png","id":"749022d90b1479ad","x":6133,"y":-1660,"width":706,"height":240},
+		{"type":"text","text":"sp v9_3_1_1_revenue_daily_base_prev_year","id":"ecf9527ee7f7b396","x":6289,"y":-1303,"width":394,"height":50},
+		{"type":"text","text":"v9_3_1_1_1_revenue_daily_base_14_days","id":"91e033db7c83867a","x":6220,"y":-1720,"width":473,"height":60},
+		{"type":"text","text":"FH","id":"e1b14778b61889c7","x":6352,"y":-920,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"2fe1b4dabe1ec913","fromNode":"cb610c1e7e07b8a5","fromSide":"right","toNode":"fcdfe5f445d2e00c","toSide":"left"},
@@ -51,6 +52,7 @@
 		{"id":"ff0f12016a468563","fromNode":"762f8404f95de828","fromSide":"right","toNode":"4314b285bcadfff9","toSide":"left"},
 		{"id":"a5c53d4aec5fa718","fromNode":"fcdfe5f445d2e00c","fromSide":"right","toNode":"5dcf6a940040f140","toSide":"left"},
 		{"id":"0915ce69c7b719cb","fromNode":"97e790e77859b9e8","fromSide":"right","toNode":"a194fdf134bfe5c8","toSide":"left"},
-		{"id":"9a2eba57ffc2dd2e","fromNode":"5dcf6a940040f140","fromSide":"right","toNode":"a194fdf134bfe5c8","toSide":"left"}
+		{"id":"9a2eba57ffc2dd2e","fromNode":"5dcf6a940040f140","fromSide":"right","toNode":"a194fdf134bfe5c8","toSide":"left"},
+		{"id":"c1944dd147afefd4","fromNode":"ecf9527ee7f7b396","fromSide":"top","toNode":"749022d90b1479ad","toSide":"bottom"}
 	]
 }
