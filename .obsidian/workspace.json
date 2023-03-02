@@ -8,19 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e5a7a3a9a547b7e",
+            "id": "6e9b46db6163f55e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Orga/Daily/2023-03-01.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 5123.466498735755,
+                  "y": -887.1943148195933,
+                  "zoom": 0.01999999999999992
+                }
               }
             }
           },
           {
-            "id": "6e9b46db6163f55e",
+            "id": "51ba3abd7ca885fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-03-01.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-03-01.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-03-01.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -160,9 +163,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3e5a7a3a9a547b7e",
+  "active": "6e9b46db6163f55e",
   "lastOpenFiles": [
     "BK Umsatzvorhersage.md",
+    "Untitled.canvas",
+    "Screenshot 2023-03-02 at 10.23.19.png",
+    "Screenshot 2023-03-02 at 10.22.34.png",
+    "Screenshot 2023-03-02 at 10.21.44.png",
+    "Screenshot 2023-03-02 at 10.20.11.png",
     "Orga/Daily/2023-03-01.md",
     "Untitled.md",
     "__Home__.md",
@@ -171,13 +179,8 @@
     "Screenshot 2023-02-28 at 10.39.02.png",
     "Screenshot 2023-02-28 at 09.52.18.png",
     "Screenshot 2023-02-27 at 22.29.21.png",
-    "Untitled.canvas",
     "Screenshot 2023-02-27 at 10.35.46.png",
-    "Screenshot 2023-02-27 at 10.35.30.png",
-    "Screenshot 2023-02-27 at 10.34.52.png",
-    "Screenshot 2023-02-27 at 10.30.46.png",
     "Orga/Daily/2023-W09.md",
-    "zAssets/upTiqVTexFRnqM6EQufnzf-1280-80.jpg.webp",
     "Orga/Daily/2023-02-25.md",
     "Geardev/Recup/Zusammenfassung Recup.canvas",
     "Geardev/Recup/Archive/User scan.md",
@@ -200,7 +203,6 @@
     "Geardev/Recup/Workshop 2020-12-16.md",
     "Geardev/Recup/Scan Codes.md",
     "Geardev/Recup/SQL queries.md",
-    "Geardev/Recup/Carlo Sparring.md",
-    "Geardev/Recup/CF Meeting.md"
+    "Geardev/Recup/Carlo Sparring.md"
   ]
 }
