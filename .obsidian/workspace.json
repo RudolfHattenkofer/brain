@@ -11,8 +11,12 @@
             "id": "8531005f531bfdb2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Daily/2023-03-06.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orga/Daily/2023-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orga/Daily/2023-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orga/Daily/2023-03-06.md"
+              }
             }
           },
           {
@@ -142,8 +150,9 @@
   },
   "active": "8531005f531bfdb2",
   "lastOpenFiles": [
-    "Orga/Daily/2023-03-04.md",
     "__Home__.md",
+    "Orga/Daily/2023-03-06.md",
+    "Orga/Daily/2023-03-04.md",
     "Untitled.md",
     "BK Umsatzvorhersage.md",
     "Screenshot 2023-03-02 at 12.40.00.png",
@@ -180,7 +189,6 @@
     "Geardev/Recup/REPLACE.md",
     "Geardev/Recup/Workshop 2020-12-16.md",
     "Geardev/Recup/Scan Codes.md",
-    "Geardev/Recup/SQL queries.md",
-    "Geardev/Recup/Carlo Sparring.md"
+    "Geardev/Recup/SQL queries.md"
   ]
 }
