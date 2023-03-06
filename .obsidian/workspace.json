@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "309e882f3624a0b3",
+        "id": "db5852346bcbd1d4",
         "type": "tabs",
         "children": [
           {
-            "id": "51ba3abd7ca885fc",
+            "id": "8531005f531bfdb2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 6463.540772679087,
-                  "y": -2529.6315838258383,
-                  "zoom": -0.2964279469981662
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -151,10 +140,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51ba3abd7ca885fc",
+  "active": "8531005f531bfdb2",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Orga/Daily/2023-03-04.md",
     "__Home__.md",
+    "Untitled.md",
     "BK Umsatzvorhersage.md",
     "Screenshot 2023-03-02 at 12.40.00.png",
     "Screenshot 2023-03-02 at 11.56.47.png",
