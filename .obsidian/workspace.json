@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "sell & pick/Meetings/G&S Rezepturen SQL Datenbank.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "it",
+                "query": "gastro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "sell & pick/Meetings/G&S Rezepturen SQL Datenbank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "sell & pick/Meetings/G&S Rezepturen SQL Datenbank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "sell & pick/Meetings/G&S Rezepturen SQL Datenbank.md"
               }
             }
           },
