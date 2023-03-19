@@ -27,9 +27,18 @@ wget https://resources.kodakalaris.com/docimaging/drivers/Kodak_branded_drivers/
 tar -zxvf LinuxSoftware_s2000_v8.2.x86_64.deb.tar.gz
 sudo apt-get install sane scanbd
 sudo ./setup
+
+sudo usermod -a -G saned rudolf
+sudo usermod -a -G scanner rudolf
+sudo usermod -a -G users rudolf
+
+sudo apt purge ipp-usb
+sudo apt-get install libusb-0.1-4
+reboot
 ```
 
 - https://cromwell-intl.com/open-source/xsane-invalid-argument.html
+- https://wiki.ubuntuusers.de/SANE/
 
 
 ```
