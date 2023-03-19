@@ -7,3 +7,12 @@ Weißdorn
 Schlehe
 Apfel
 Rosen
+
+
+Empfehlung Nordecke:
+Wildbirne / Felsenbirne
+Esskastanie
+Schwarzdorn / Schlehe
+
+Straße:
+Feldahorn?
