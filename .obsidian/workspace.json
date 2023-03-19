@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90b330f9d2993ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New scanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Kodak Alaris S2000 scanner.md",
+                "file": "New scanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Kodak Alaris S2000 scanner.md",
+                "file": "New scanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Kodak Alaris S2000 scanner.md"
+                "file": "New scanner.md"
               }
             }
           },
@@ -148,11 +161,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b997447dd02e4efd",
+  "active": "90b330f9d2993ccd",
   "lastOpenFiles": [
+    "Projects/Kodak Alaris S2000 scanner.md",
+    "New scanner.md",
     "Knowledge/Typical interest rates for loans.md",
     "Orga/Daily/2023-03-19.md",
-    "Projects/Kodak Alaris S2000 scanner.md",
     "Optionen Bäume.md",
     "Untitled.md",
     "Untitled.canvas",
@@ -187,7 +201,6 @@
     "Geardev/Recup/Archive/SQL queries.md",
     "Geardev/Recup/Archive/Mehrwegrechner.md",
     "Geardev/Recup/Archive/Maps.md",
-    "Geardev/Recup/Archive/Map generator.md",
     "Geardev/Recup/Archive",
     "Geardev/Recup/Archive.zip"
   ]
