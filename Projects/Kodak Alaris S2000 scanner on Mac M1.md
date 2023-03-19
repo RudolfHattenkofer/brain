@@ -19,3 +19,23 @@ XSANE
 
 ## Parallels
 Password: adminadmin
+
+## Separate Ubuntu on TK LES server
+
+```
+wget https://resources.kodakalaris.com/docimaging/drivers/Kodak_branded_drivers/s2000/LinuxSoftware_s2000_v8.2.x86_64.deb.tar.gz
+tar -zxvf LinuxSoftware_s2000_v8.2.x86_64.deb.tar.gz
+sudo apt-get install sane scanbd
+sudo ./setup
+```
+
+- https://cromwell-intl.com/open-source/xsane-invalid-argument.html
+
+
+```
+# List scanners
+scanimage -L
+
+# Test
+scanimage --test
+```

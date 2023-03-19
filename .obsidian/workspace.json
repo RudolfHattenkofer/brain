@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-03-17.md",
+                "file": "Projects/Kodak Alaris S2000 scanner on Mac M1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gastro",
+                "query": "alaris",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-03-17.md",
+                "file": "Projects/Kodak Alaris S2000 scanner on Mac M1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-03-17.md",
+                "file": "Projects/Kodak Alaris S2000 scanner on Mac M1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-03-17.md"
+                "file": "Projects/Kodak Alaris S2000 scanner on Mac M1.md"
               }
             }
           },
@@ -151,8 +151,10 @@
   },
   "active": "8531005f531bfdb2",
   "lastOpenFiles": [
-    "__Home__.md",
+    "Projects/Kodak Alaris S2000 scanner on Mac M1.md",
     "Orga/Daily/2023-03-17.md",
+    "Optionen Bäume.md",
+    "__Home__.md",
     "Orga/Daily/2023-03-16.md",
     "Orga/Daily/2023-03-15.md",
     "Orga/Daily/2023-03-08.md",
@@ -188,8 +190,6 @@
     "Geardev/Recup/Archive/Generate codes.md",
     "Geardev/Recup/Archive",
     "Geardev/Recup/Archive.zip",
-    "Geardev/Recup/Maps.md",
-    "Geardev/Recup/Shopclapp.md",
-    "Geardev/Recup/Map generator.md"
+    "Geardev/Recup/Maps.md"
   ]
 }
