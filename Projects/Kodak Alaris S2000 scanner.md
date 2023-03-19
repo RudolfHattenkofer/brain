@@ -39,6 +39,7 @@ reboot
 
 - https://cromwell-intl.com/open-source/xsane-invalid-argument.html
 - https://wiki.ubuntuusers.de/SANE/
+- https://forum.ubuntuusers.de/topic/leben-einhauchen-fuer-kodak-i2400-duplexscanne/
 
 ```
 # List scanners
@@ -46,4 +47,11 @@ scanimage -L
 
 # Test
 scanimage --test
+```
+
+
+```
+sudo apt purge ippusbxd kodak-s2000
+wget http://security.ubuntu.com/ubuntu/pool/main/g/glibc/multiarch-support_2.27-3ubuntu1.5_amd64.deb
+sudo dpkg -i multiarch-support_2.27-3ubuntu1.5_amd64.deb
 ```
