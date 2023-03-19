@@ -40,7 +40,6 @@ reboot
 - https://cromwell-intl.com/open-source/xsane-invalid-argument.html
 - https://wiki.ubuntuusers.de/SANE/
 
-
 ```
 # List scanners
 scanimage -L
