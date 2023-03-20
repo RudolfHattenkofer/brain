@@ -11,8 +11,12 @@
             "id": "e2559f1c51015f0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Orga/Daily/2023-03-20.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orga/Daily/2023-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orga/Daily/2023-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orga/Daily/2023-03-20.md"
+              }
             }
           },
           {
@@ -148,8 +156,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bab1adef7337cad3",
+  "active": "e2559f1c51015f0f",
   "lastOpenFiles": [
+    "__Home__.md",
+    "Orga/Daily/2023-03-20.md",
     "Untitled.canvas",
     "Optionen Bäume.md",
     "Tableau meetup.md",
@@ -165,7 +175,6 @@
     "New scanner.md",
     "Untitled.md",
     "zAssets/Screenshot 2023-02-27 at 10.30.46.png",
-    "__Home__.md",
     "Projects/Kodak Alaris S2000 scanner.md",
     "Knowledge/Typical interest rates for loans.md",
     "Orga/Daily/2023-03-19.md",
