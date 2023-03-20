@@ -13,6 +13,7 @@ Empfehlung Nordecke:
 Wildbirne / Felsenbirne
 Esskastanie
 Schwarzdorn / Schlehe
+Hollunder
 
 Straße:
 Feldahorn?
