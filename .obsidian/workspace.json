@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-03-21.md",
+                "file": "Orga/Daily/2023-03-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-03-21.md",
+                "file": "Orga/Daily/2023-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-03-21.md",
+                "file": "Orga/Daily/2023-03-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-03-21.md"
+                "file": "Orga/Daily/2023-03-16.md"
               }
             }
           },
@@ -135,12 +135,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +157,11 @@
   },
   "active": "e2559f1c51015f0f",
   "lastOpenFiles": [
-    "__Home__.md",
-    "Orga/Daily/2023-03-21.md",
+    "Orga/Daily/2023-03-17.md",
+    "Orga/Daily/2023-03-19.md",
     "Orga/Daily/2023-03-20.md",
+    "Orga/Daily/2023-03-21.md",
+    "__Home__.md",
     "Untitled.canvas",
     "Optionen Bäume.md",
     "Tableau meetup.md",
@@ -178,8 +179,6 @@
     "zAssets/Screenshot 2023-02-27 at 10.30.46.png",
     "Projects/Kodak Alaris S2000 scanner.md",
     "Knowledge/Typical interest rates for loans.md",
-    "Orga/Daily/2023-03-19.md",
-    "Orga/Daily/2023-03-17.md",
     "Orga/Daily/2023-03-16.md",
     "Orga/Daily/2023-03-15.md",
     "Orga/Daily/2023-03-08.md",
