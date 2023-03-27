@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Create BigQuery table from \"nothing\".md",
+                "file": "Orga/Daily/2023-03-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Create BigQuery table from \"nothing\".md",
+                "file": "Orga/Daily/2023-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Create BigQuery table from \"nothing\".md",
+                "file": "Orga/Daily/2023-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Create BigQuery table from \"nothing\".md"
+                "file": "Orga/Daily/2023-03-27.md"
               }
             }
           },
@@ -139,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
