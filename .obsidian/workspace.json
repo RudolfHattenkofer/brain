@@ -11,14 +11,11 @@
             "id": "e2559f1c51015f0f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 6483.348285154383,
-                  "y": -1026.7227771721434,
-                  "zoom": -0.49946235283196
-                }
+                "file": "Knowledge/Create BigQuery table from \"nothing\".md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Knowledge/Create BigQuery table from \"nothing\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Knowledge/Create BigQuery table from \"nothing\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Knowledge/Create BigQuery table from \"nothing\".md"
               }
             }
           },
@@ -160,9 +157,9 @@
   },
   "active": "e2559f1c51015f0f",
   "lastOpenFiles": [
+    "__Home__.md",
     "BK Umsatzvorhersage.md",
     "Orga/Daily/2023-03-27.md",
-    "__Home__.md",
     "Organizing drawers.md",
     "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
     "Projects/Zachermühle.md",
