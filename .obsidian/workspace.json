@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b47657cfcb98459",
+        "id": "788a2f7fe4c3f489",
         "type": "tabs",
         "children": [
           {
-            "id": "e2559f1c51015f0f",
+            "id": "68f195057413687c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-03-27.md",
+                "file": "Orga/Daily/2023-03-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-03-27.md",
+                "file": "Orga/Daily/2023-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-03-27.md",
+                "file": "Orga/Daily/2023-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-03-27.md"
+                "file": "Orga/Daily/2023-03-28.md"
               }
             }
           },
@@ -157,11 +157,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e2559f1c51015f0f",
+  "active": "68f195057413687c",
   "lastOpenFiles": [
+    "Orga/Daily/2023-03-28.md",
+    "Orga/Daily/2023-03-27.md",
     "__Home__.md",
     "BK Umsatzvorhersage.md",
-    "Orga/Daily/2023-03-27.md",
     "Organizing drawers.md",
     "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
     "Projects/Zachermühle.md",
@@ -185,7 +186,6 @@
     "Flow editors in JS.md",
     "Hochbeet.md",
     "New scanner.md",
-    "Untitled.md",
     "zAssets/Screenshot 2023-02-27 at 10.30.46.png",
     "zAssets/Screenshot 2023-03-02 at 12.40.00.png",
     "zAssets/Screenshot 2023-03-02 at 11.56.47.png",
