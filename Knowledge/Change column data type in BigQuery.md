@@ -25,6 +25,11 @@ ARRAY(SELECT AS STRUCT * REPLACE(
     )) as meta
 ) FROM UNNEST(items)) AS items,
 
+ARRAY(SELECT AS STRUCT * EXCEPT(
+	staff_id,
+	staff_name
+) FROM UNNEST(payments)) AS payments,
+
 (SELECT AS STRUCT meta.* EXCEPT (customer_count, transaction_count, table_count, price_net)) AS meta,
 
 * EXCEPT (items, meta),

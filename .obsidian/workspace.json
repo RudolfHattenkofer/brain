@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-03-28.md",
+                "file": "Knowledge/Change column data type in BigQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-03-28.md",
+                "file": "Knowledge/Change column data type in BigQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-03-28.md",
+                "file": "Knowledge/Change column data type in BigQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-03-28.md"
+                "file": "Knowledge/Change column data type in BigQuery.md"
               }
             }
           },
@@ -159,9 +159,11 @@
   },
   "active": "68f195057413687c",
   "lastOpenFiles": [
+    "__Home__.md",
+    "Knowledge/Change column data type in BigQuery.md",
+    "Knowledge/BigQuery.md",
     "Orga/Daily/2023-03-28.md",
     "Orga/Daily/2023-03-27.md",
-    "__Home__.md",
     "BK Umsatzvorhersage.md",
     "Organizing drawers.md",
     "Orga/Excalidraw/Zacherlmühle Layout Wohnhaus.excalidraw.md",
@@ -184,8 +186,6 @@
     "kartoffelpuffer.md",
     "Keep innovation going.md",
     "Flow editors in JS.md",
-    "Hochbeet.md",
-    "New scanner.md",
     "zAssets/Screenshot 2023-02-27 at 10.30.46.png",
     "zAssets/Screenshot 2023-03-02 at 12.40.00.png",
     "zAssets/Screenshot 2023-03-02 at 11.56.47.png",
