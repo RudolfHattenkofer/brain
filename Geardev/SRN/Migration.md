@@ -20,6 +20,4 @@ where company_values.document_id = documents.id
 ```
 
 ## ToDo
-- ownCalculation
-- material undefined
 - Create CompanyValue if it does not exist (unique index)
