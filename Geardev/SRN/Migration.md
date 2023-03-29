@@ -18,6 +18,3 @@ set company_id = documents.company_id
 from documents
 where company_values.document_id = documents.id
 ```
-
-## ToDo
-- Create CompanyValue if it does not exist (unique index)
