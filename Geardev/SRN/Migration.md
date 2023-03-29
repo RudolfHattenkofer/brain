@@ -22,5 +22,5 @@ where company_values.document_id = documents.id
 ## ToDo
 - ownCalculation
 - material undefined
-- -   Create CompanyValue if it does not exist (unique index)
--   Allow creation of company value and company value revision, edit nothing else
+- Create CompanyValue if it does not exist (unique index)
+- Allow creation of company value and company value revision, edit nothing else
