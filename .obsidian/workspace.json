@@ -11,15 +11,31 @@
             "id": "68f195057413687c",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "SRN Desk.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "c23d9fced18ddca8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Change column data type in BigQuery.md",
+                "file": "Geardev/SRN/Migration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Change column data type in BigQuery.md",
+                "file": "Geardev/SRN/Migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Change column data type in BigQuery.md",
+                "file": "Geardev/SRN/Migration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Change column data type in BigQuery.md"
+                "file": "Geardev/SRN/Migration.md"
               }
             }
           },
@@ -157,8 +172,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "68f195057413687c",
+  "active": "c23d9fced18ddca8",
   "lastOpenFiles": [
+    "SRN Desk.canvas",
+    "Geardev/SRN/Migration.md",
     "__Home__.md",
     "Knowledge/Change column data type in BigQuery.md",
     "Knowledge/BigQuery.md",
@@ -184,8 +201,6 @@
     "Document generation and management.md",
     "Document management.md",
     "kartoffelpuffer.md",
-    "Keep innovation going.md",
-    "Flow editors in JS.md",
     "zAssets/Screenshot 2023-02-27 at 10.30.46.png",
     "zAssets/Screenshot 2023-03-02 at 12.40.00.png",
     "zAssets/Screenshot 2023-03-02 at 11.56.47.png",
