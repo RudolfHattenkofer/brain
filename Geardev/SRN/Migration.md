@@ -11,3 +11,9 @@ set verified_at = now(), verified_by = 'system', verified = true, verified_revis
 from company_value_revisions
 where company_value_revisions.company_value_id = company_values.id
 ```
+
+
+## ToDo
+- ownCalculation
+- material undefined
+- 
