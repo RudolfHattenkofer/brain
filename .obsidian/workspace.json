@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geardev/SRN/Migration.md",
+                "file": "Orga/Daily/2023-03-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geardev/SRN/Migration.md",
+                "file": "Orga/Daily/2023-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geardev/SRN/Migration.md",
+                "file": "Orga/Daily/2023-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geardev/SRN/Migration.md"
+                "file": "Orga/Daily/2023-03-29.md"
               }
             }
           },
@@ -174,9 +174,10 @@
   },
   "active": "c23d9fced18ddca8",
   "lastOpenFiles": [
+    "__Home__.md",
+    "Orga/Daily/2023-03-29.md",
     "SRN Desk.canvas",
     "Geardev/SRN/Migration.md",
-    "__Home__.md",
     "Knowledge/Change column data type in BigQuery.md",
     "Knowledge/BigQuery.md",
     "Orga/Daily/2023-03-28.md",
