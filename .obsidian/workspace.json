@@ -21,21 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "c23d9fced18ddca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orga/Daily/2023-03-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-03-29.md",
+                "file": "SRN Desk.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-03-29.md",
+                "file": "SRN Desk.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-03-29.md"
+                "file": "SRN Desk.canvas"
               }
             }
           },
@@ -172,10 +159,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c23d9fced18ddca8",
+  "active": "68f195057413687c",
   "lastOpenFiles": [
-    "__Home__.md",
     "Orga/Daily/2023-03-29.md",
+    "__Home__.md",
     "SRN Desk.canvas",
     "Geardev/SRN/Migration.md",
     "Knowledge/Change column data type in BigQuery.md",
