@@ -10,3 +10,8 @@ This might translate to [[Technical Program Management]] or [[Staff Software Eng
 
 References:
 [[Being a Generalist]]
+
+
+My biography:
+
+Als Softwareentwickler für Cloud Native Software sammelte Rudolf Hattenkofer mehr als 10 Jahre lang Erfahrung in allen Bereichen der Softwareentwicklung, bevor er in die entstehende Disziplin der Datenanalyse, Visualisierung und AI einstieg. Bei sell & pick ist er verantwortlich für die Datenpipeline von zahlreichen Unternehmen aus dem Hospitality Umfeld. Er ist fest überzeugt, dass datenbasierte Prozessautomatisierung ein mächtiges Tool ist, damit die Unternehmen endlich wieder Zeit für das Wichtigste haben: Die Bewirtung und Betreuung ihrer Gäste.
