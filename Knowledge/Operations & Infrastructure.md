@@ -5,7 +5,6 @@ alias: Networking
 [[Operational security]]
 
 [[Install mysqlclient for Python on macOS]]
-
 [[What are options for infrastructure management]]
 [[Infrastructure lock-in cost]]
 [[Install SSH key on a server]]
