@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Home__.md",
+                "file": "Orga/Daily/2023-04-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Home__.md",
+                "file": "Orga/Daily/2023-04-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Home__.md",
+                "file": "Orga/Daily/2023-04-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Home__.md"
+                "file": "Orga/Daily/2023-04-06.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   "active": "68f195057413687c",
   "lastOpenFiles": [
     "__Home__.md",
+    "Orga/Daily/2023-04-06.md",
     "Orga/Daily/2023-04-05.md",
     "BK Umsatzvorhersage.md",
     "Orga/Liquidity Management Cashflow.md",
@@ -184,7 +185,6 @@
     "Orga/Daily/2023-03-20.md",
     "Orga/Daily/2023-03-21.md",
     "Orga/Daily/2023-03-23.md",
-    "Orga/Daily/2023-03-24.md",
     "Bk Canvas.canvas",
     "zAssets/Screenshot 2023-02-27 at 10.30.46.png",
     "zAssets/Screenshot 2023-03-02 at 12.40.00.png",
