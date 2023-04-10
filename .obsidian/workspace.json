@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-04-06.md",
+                "file": "Projects/Done/Kodak Alaris S2000 scanner.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-04-06.md",
+                "file": "Projects/Done/Kodak Alaris S2000 scanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-04-06.md",
+                "file": "Projects/Done/Kodak Alaris S2000 scanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-04-06.md"
+                "file": "Projects/Done/Kodak Alaris S2000 scanner.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "68f195057413687c",
   "lastOpenFiles": [
-    "__Home__.md",
     "Orga/Daily/2023-04-06.md",
+    "__Home__.md",
     "Orga/Daily/2023-04-05.md",
     "BK Umsatzvorhersage.md",
     "Orga/Liquidity Management Cashflow.md",
