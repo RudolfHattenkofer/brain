@@ -14,7 +14,6 @@ Austritte:
 - Baumgartner
 
 ## Anleitung
-
 - Baumansicht -> Frauenunion -> Lastschriften
 - Auswählen -> Kopie erstellen
 - Alle Auswählen -> Rechtsklick -> Bearbeiten
