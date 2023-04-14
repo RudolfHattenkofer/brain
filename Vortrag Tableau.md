@@ -1,7 +1,15 @@
 > Rudi from sell & pick introduces their company’s strategy for dashboard housekeeping and strengthening user engagement by analyzing Tableau Server Logs.
 
 Agenda:
+- Who is sell & pick?
 - Backup your server to an external repository
+- Schema
+- Dashboard
+
+---
+
+## Who is sell & pick?
+- Restaurants!
 
 ---
 
@@ -42,3 +50,25 @@ graph TD;
 	hist_views --- _views
 	_views --- _workbooks
 ```
+
+---
+
+## Usage dashboard
+
+![[Screenshot 2023-04-14 at 16.01.53.png]]
+
+- Context: Presented biweekly by our CSM team to client's management team
+- Show overall license usage
+- Show usage week by week to monitor for trends
+- Define individual actions for groups or users
+	- Set expectations for each user group
+	- restaurants vs management team
+	- Monitor progress directly in dashboard
+
+---
+
+## Housekeeping
+- Ensure Dashboards are used for their intended purpose
+- Remove unused "specialized" dashboards
+- Encourage users with joint training
+- 
