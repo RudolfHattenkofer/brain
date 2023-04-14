@@ -30,3 +30,15 @@ $pg_bin/pg_dump -d workgroup -h 127.0.0.1 -U tblwgadmin -p 8060 -f backup.sql -F
 ---
 
 ## Schema
+![[Screenshot 2023-04-14 at 15.47.56.png]]
+```mermaid
+graph TD;
+	_sites --- _users
+	_users --- group_users
+	group_users --- _groups
+	_users --- hist_users
+	hist_users --- historical_events
+	historical_events --- hist_views
+	hist_views --- _views
+	_views --- _workbooks
+```
