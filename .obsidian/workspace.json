@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9a99fdf4f2161923",
+        "id": "fd7a478d4f0ba1b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f0778abf7c828b04",
+            "id": "9918570517f27a93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Home__.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e45414bff11e1a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vortrag Tableau.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vortrag Tableau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vortrag Tableau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vortrag Tableau.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,15 +147,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e45414bff11e1a4",
+  "active": "9918570517f27a93",
   "lastOpenFiles": [
+    "__Home__.md",
+    "Vortrag Tableau.md",
     "Screenshot 2023-04-14 at 16.01.53.png",
     "Screenshot 2023-04-14 at 15.58.24.png",
     "Screenshot 2023-04-14 at 15.53.47.png",
     "Knowledge/Mermaid.md",
-    "Vortrag Tableau.md",
     "Screenshot 2023-04-14 at 15.47.56.png",
-    "__Home__.md",
     "Orga/Daily/2023-04-14.md",
     "Orga/Daily/2023-03-27.md",
     "Orga/Daily/2023-03-28.md",
@@ -207,7 +186,6 @@
     "zAssets/Screenshot 2023-03-02 at 11.54.25.png",
     "zAssets/Screenshot 2023-03-02 at 11.12.05.png",
     "zAssets/Screenshot 2023-03-02 at 11.11.58.png",
-    "zAssets/Screenshot 2023-03-02 at 11.08.18.png",
     "Geardev/Recup/Zusammenfassung Recup.canvas",
     "Geardev/Recup/Archive",
     "Geardev/Recup/Archive.zip"
