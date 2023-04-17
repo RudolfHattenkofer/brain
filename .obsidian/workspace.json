@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd7a478d4f0ba1b9",
+        "id": "08f8fe70bb2af578",
         "type": "tabs",
         "children": [
           {
-            "id": "9918570517f27a93",
+            "id": "da1753dab2c53a48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/People/Me.md",
+                "file": "Vortrag Tableau.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/People/Me.md",
+                "file": "Vortrag Tableau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/People/Me.md",
+                "file": "Vortrag Tableau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/People/Me.md"
+                "file": "Vortrag Tableau.md"
               }
             }
           },
@@ -155,7 +155,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9918570517f27a93",
+  "active": "da1753dab2c53a48",
   "lastOpenFiles": [
     "__Home__.md",
     "Vortrag Tableau.md",

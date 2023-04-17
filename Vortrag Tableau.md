@@ -71,4 +71,3 @@ graph TD;
 - Ensure Dashboards are used for their intended purpose
 - Remove unused "specialized" dashboards
 - Encourage users with joint training
-- 
