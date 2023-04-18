@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orga/Daily/2023-04-17.md",
+                "file": "Vortrag Tableau.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7502482350fcdf51",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orga/Daily/2023-04-17.md",
+                "file": "Vortrag Tableau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orga/Daily/2023-04-17.md",
+                "file": "Vortrag Tableau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orga/Daily/2023-04-17.md"
+                "file": "Vortrag Tableau.md"
               }
             }
           },
@@ -155,10 +156,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da1753dab2c53a48",
+  "active": "bab1adef7337cad3",
   "lastOpenFiles": [
-    "Vortrag Tableau.md",
     "Orga/Daily/2023-04-17.md",
+    "Vortrag Tableau.md",
     "__Home__.md",
     "Screenshot 2023-04-14 at 16.01.53.png",
     "Screenshot 2023-04-14 at 15.58.24.png",
