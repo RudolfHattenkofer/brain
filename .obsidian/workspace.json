@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BK Umsatzvorhersage.md",
+                "file": "Orga/Daily/2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0f8151bc665d6129",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BK Umsatzvorhersage.md",
+                "file": "Orga/Daily/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BK Umsatzvorhersage.md",
+                "file": "Orga/Daily/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BK Umsatzvorhersage.md"
+                "file": "Orga/Daily/2023.md"
               }
             }
           },
@@ -157,9 +165,10 @@
   },
   "active": "d064a1a551f74797",
   "lastOpenFiles": [
+    "Orga/Daily/2023.md",
+    "__Home__.md",
     "Bk Canvas.canvas",
     "BK Umsatzvorhersage.md",
-    "__Home__.md",
     "Keep innovation going.md",
     "Hochbeet.md",
     "zAssets/Screenshot 2023-04-14 at 15.47.56.png",
